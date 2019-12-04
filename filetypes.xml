@@ -12,6 +12,7 @@
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping pattern="AXF29440" type="SQL" />
     </extensionMap>
   </component>
 </application>
