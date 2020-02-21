@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="JenkinsFile*" type="Groovy" />
       <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".tsconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping pattern="AXF29440" type="SQL" />
       <mapping pattern="AXF29665_hotfix" type="SQL" />
