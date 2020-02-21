@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="JenkinsFile*" type="Groovy" />
+      <mapping pattern="jenkins-verify" type="Groovy" />
+      <mapping pattern="Jenkinsfile-verify" type="Groovy" />
       <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
       <mapping pattern=".tsconfig" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
