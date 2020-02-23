@@ -1,5 +1,0 @@
-<application>
-  <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="/bin/zsh -l -c &quot;/path/to/idea.sh" />
-  </component>
-</application>
