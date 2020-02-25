@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="dev" type="Dockerfile" />
       <mapping pattern="JenkinsFile*" type="Groovy" />
       <mapping pattern="jenkins-verify" type="Groovy" />
       <mapping pattern="Jenkinsfile-verify" type="Groovy" />
