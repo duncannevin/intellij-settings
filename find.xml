@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'esl-mobile'" />
-    <option name="defaultScopeName" value="Project 'esl-mobile'" />
-    <option name="SEARCH_SCOPE" value="Project 'esl-mobile'" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.htm</mask>
@@ -19,5 +19,6 @@
     <mask>*.php</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
+    <mask>*</mask>
   </component>
 </application>
