@@ -5,13 +5,13 @@
       <mapping pattern="JenkinsFile*" type="Groovy" />
       <mapping pattern="jenkins-verify" type="Groovy" />
       <mapping pattern="Jenkinsfile-verify" type="Groovy" />
-      <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".tsconfig" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
-      <mapping pattern="AXF29440" type="SQL" />
       <mapping pattern="AXF29665_hotfix" type="SQL" />
+      <mapping pattern="AXF29440" type="SQL" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="Groovy" />
       <removed_mapping pattern="Jenkinsfile*" approved="true" type="Groovy" />
       <mapping ext="fnc" type="DBN-PSQL" />
