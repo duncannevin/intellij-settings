@@ -1,6 +1,28 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>MYSQL</entry>
+        <entry>=</entry>
+        <entry>/to/in/g</entry>
+        <entry encoding="base64">XDxJbmplY3RcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%/MYSQL/DB/g</entry>
+        <entry>%s/MYSQL/DB/g</entry>
+        <entry>%s/=/: /g</entry>
+        <entry>s%/to/in/g</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
@@ -39,9 +61,188 @@
         <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/docker-compose.yml" timestamp="1586640994894">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/webpack.config.js" timestamp="1586636406387">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/package.json" timestamp="1586638336918">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="53" />
+        <mark key="." line="6" column="53" />
+        <mark key="^" line="6" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/shims-tsx.d.ts" timestamp="1586637796753">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/README.md" timestamp="1586644378717">
+        <mark key="[" line="51" column="15" />
+        <mark key="]" line="51" column="15" />
+        <mark key="." line="51" column="15" />
+        <mark key="^" line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/nginx.conf" timestamp="1586642767997">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="24" column="19" />
+        <mark key="." line="24" column="19" />
+        <mark key="^" line="24" column="19" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1586709305276">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/main.ts" timestamp="1586637682538">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/Makefile" timestamp="1586639063802">
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="1" column="48" />
+        <mark key="." line="1" column="48" />
+        <mark key="^" line="1" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/router.ts" timestamp="1586637714863">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/nginx.conf" timestamp="1586640617388">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/tasks/config/options.js" timestamp="1586636391383">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/conways-ui/project/build.properties" timestamp="1586709443724">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/OfferForm.vue" timestamp="1586639538356">
+        <mark key="[" line="242" column="25" />
+        <mark key="]" line="242" column="47" />
+        <mark key="." line="242" column="47" />
+        <mark key="^" line="242" column="47" />
+      </file>
+      <file name="/sbtShell" timestamp="1586709447483">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/vue.config.js" timestamp="1586638452023">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/Dockerfile" timestamp="1586640860503">
+        <mark key="[" line="25" column="33" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/tsconfig.json" timestamp="1586637631838">
+        <mark key="[" line="8" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/tslint.json" timestamp="1586638008250">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/nestjs-course-task-management/Makefile" />
+      <jump line="7" column="14" filename="$USER_HOME$/Documents/nestjs-course-task-management/dev.env" />
+      <jump line="11" column="34" filename="$USER_HOME$/Documents/nestjs-course-task-management/src/config/typeorm.config.ts" />
+      <jump line="14" column="18" filename="$USER_HOME$/Documents/vixpeak/gateway/Dockerfile" />
+      <jump line="18" column="10" filename="$USER_HOME$/Documents/nestjs-microservice/service-a/src/main.ts" />
+      <jump line="5" column="22" filename="$USER_HOME$/Documents/vixpeak/auth/src/app.controller.ts" />
+      <jump line="5" column="1" filename="$USER_HOME$/Documents/vixpeak/auth/config/development.yml" />
+      <jump line="14" column="3" filename="$USER_HOME$/Documents/esl-mobile/src/app/app-routing.module.ts" />
+      <jump line="12" column="17" filename="$USER_HOME$/Documents/pragmatic_offers/podio-service/src/podio/podio.controller.ts" />
+      <jump line="18" column="5" filename="$USER_HOME$/Documents/pragmatic_offers/podio-service/src/main.ts" />
+      <jump line="14" column="5" filename="$USER_HOME$/Documents/pragmatic_offers/gateway/src/app.service.ts" />
+      <jump line="18" column="58" filename="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/bst/BstSpec.scala" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICh3aXAp</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">ICh3aXAp</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxJbmplY3RcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">Q09QWSAtLWZyb209YnVpbGQtc3RhZ2UgL2FwcC9kaXN0IC91c3Ivc2hhcmUvbmdpbngvaHRtbAo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Z28gdG8gaHR0cDovL2xvY2FsaG9zdDo4MAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">YGBgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CkJ1aWxkIFVJCmBgYCR4c2x0CmNkIHVpCm5wbSBydW4gYnVpbGQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIEVuYWJsZSBIVFRQLzIKICAgICAgICBsaXN0ZW4gNDQzIHNzbCBodHRwMjsKICAgICAgICBsaXN0ZW4gWzo6XTo0NDMgc3NsIGh0dHAyOwogICAgICAgIHNlcnZlcl9uYW1lIHd3dy5wcmFnbWF0aWNvZmZlcnMuY29tOwoKICAgICAgICAjIFVzZSB0aGUgTGV04oCZcyBFbmNyeXB0IGNlcnRpZmljYXRlcwogICAgICAgIHNzbF9jZXJ0aWZpY2F0ZSAvZXRjL2xldHNlbmNyeXB0L2xpdmUvd3d3LnByYWdtYXRpY29mZmVycy5jb20vZnVsbGNoYWluLnBlbTsKICAgICAgICBzc2xfY2VydGlmaWNhdGVfa2V5IC9ldGMvbGV0c2VuY3J5cHQvbGl2ZS93d3cucHJhZ21hdGljb2ZmZXJzLmNvbS9wcml2a2V5LnBlbTsKCiAgICAgICAgIyBJbmNsdWRlIHRoZSBTU0wgY29uZmlndXJhdGlvbiBmcm9tIGNpcGhlcmxpLnN0CiAgICAgICAgaW5jbHVkZSAic25pcHBldHMvc3NsLXBhcmFtcy5jb25mIjsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">RVhQT1NFIDgwCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">RVhQT1NFIDgwODAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgbG9jYXRpb24gL2FwaSB7fQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICBzZXJ2ZXIgewogICAgICAgIGxpc3RlbiA4MDgxOwoKICAgICAgICBsb2NhdGlvbiAvIHsKICAgICAgICB9CiAgICB9Cgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>s%/to/in/g</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxJbmplY3RcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxJbmplY3RcPg==</last-pattern>
+      <last-replace />
+      <last-substitute>/to/in/g</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
