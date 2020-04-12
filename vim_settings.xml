@@ -89,27 +89,7 @@
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/ui/build.sbt" timestamp="1586712986757">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="/sbtShell" timestamp="1586716909867">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/vue.config.js" timestamp="1586638452023">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="3" />
-        <mark key="." line="3" column="3" />
-        <mark key="^" line="3" column="3" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/conways-ui/project/plugins.sbt" timestamp="1586710197232">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1586717036623">
+      <file name="/GraphQL.result.json" timestamp="1586717494679">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/Makefile" timestamp="1586639063802">
@@ -118,10 +98,11 @@
         <mark key="." line="1" column="48" />
         <mark key="^" line="1" column="48" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/conways_game_of_life/build.sbt" timestamp="1586717356962">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/conways_game_of_life/build.sbt" timestamp="1586717716543">
+        <mark key="[" line="23" column="58" />
+        <mark key="]" line="23" column="57" />
+        <mark key="." line="23" column="56" />
+        <mark key="^" line="23" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/nginx.conf" timestamp="1586640617388">
         <mark key="[" line="11" column="0" />
@@ -133,6 +114,11 @@
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/ui/build.sbt" timestamp="1586712986757">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/OfferForm.vue" timestamp="1586639538356">
         <mark key="[" line="242" column="25" />
@@ -152,18 +138,32 @@
         <mark key="^" line="23" column="57" />
         <mark key="." line="23" column="56" />
       </file>
+      <file name="/sbtShell" timestamp="1586716909867">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/vue.config.js" timestamp="1586638452023">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/Dockerfile" timestamp="1586640860503">
         <mark key="[" line="25" column="33" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/conways-ui/src/main/scala/com/duncannevin/conways/App.scala" timestamp="1586710304631" />
       <file name="$USER_HOME$/IdeaProjects/conways_game_of_life/src/main/scala/com/duncannevin/conways/App.scala" timestamp="1586717339213">
-        <mark key="[" line="6" column="34" />
-        <mark key="]" line="6" column="23" />
-        <mark key="." line="6" column="22" />
-        <mark key="^" line="6" column="23" />
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/conways-ui/project/plugins.sbt" timestamp="1586710197232">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/tslint.json" timestamp="1586638008250">
         <mark key="[" line="7" column="23" />
