@@ -71,11 +71,6 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/webpack.config.js" timestamp="1586636406387">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/package.json" timestamp="1586638336918">
         <mark key="[" line="6" column="35" />
         <mark key="]" line="6" column="53" />
@@ -100,7 +95,7 @@
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1586709305276">
+      <file name="/GraphQL.result.json" timestamp="1586709594391">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/main.ts" timestamp="1586637682538">
@@ -126,12 +121,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/tasks/config/options.js" timestamp="1586636391383">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/conways-ui/project/build.properties" timestamp="1586709443724">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="17" />
@@ -144,7 +133,13 @@
         <mark key="." line="242" column="47" />
         <mark key="^" line="242" column="47" />
       </file>
-      <file name="/sbtShell" timestamp="1586709447483">
+      <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/conways-ui/build.sbt" timestamp="1586710933848">
+        <mark key="[" line="23" column="57" />
+        <mark key="]" line="23" column="57" />
+        <mark key="^" line="23" column="57" />
+        <mark key="." line="23" column="56" />
+      </file>
+      <file name="/sbtShell" timestamp="1586710200934">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/vue.config.js" timestamp="1586638452023">
@@ -159,6 +154,7 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/conways-ui/src/main/scala/com/duncannevin/conways/App.scala" timestamp="1586710304631" />
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/tsconfig.json" timestamp="1586637631838">
         <mark key="[" line="8" column="35" />
       </file>
@@ -167,6 +163,12 @@
         <mark key="]" line="8" column="15" />
         <mark key="^" line="8" column="15" />
         <mark key="." line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/conways-ui/project/plugins.sbt" timestamp="1586710197232">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -186,8 +188,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICh3aXAp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICh3aXAp</text>
@@ -199,31 +201,31 @@
         <text encoding="base64">Q09QWSAtLWZyb209YnVpbGQtc3RhZ2UgL2FwcC9kaXN0IC91c3Ivc2hhcmUvbmdpbngvaHRtbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z28gdG8gaHR0cDovL2xvY2FsaG9zdDo4MAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuZm91bmR3ZWVrZW5kcy5naXRlcjgiICUlICJzYnQtZ2l0ZXI4IiAlICIwLjExLjAiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CkJ1aWxkIFVJCmBgYCR4c2x0CmNkIHVpCm5wbSBydW4gYnVpbGQK</text>
+        <text encoding="base64">Z28gdG8gaHR0cDovL2xvY2FsaG9zdDo4MAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIEVuYWJsZSBIVFRQLzIKICAgICAgICBsaXN0ZW4gNDQzIHNzbCBodHRwMjsKICAgICAgICBsaXN0ZW4gWzo6XTo0NDMgc3NsIGh0dHAyOwogICAgICAgIHNlcnZlcl9uYW1lIHd3dy5wcmFnbWF0aWNvZmZlcnMuY29tOwoKICAgICAgICAjIFVzZSB0aGUgTGV04oCZcyBFbmNyeXB0IGNlcnRpZmljYXRlcwogICAgICAgIHNzbF9jZXJ0aWZpY2F0ZSAvZXRjL2xldHNlbmNyeXB0L2xpdmUvd3d3LnByYWdtYXRpY29mZmVycy5jb20vZnVsbGNoYWluLnBlbTsKICAgICAgICBzc2xfY2VydGlmaWNhdGVfa2V5IC9ldGMvbGV0c2VuY3J5cHQvbGl2ZS93d3cucHJhZ21hdGljb2ZmZXJzLmNvbS9wcml2a2V5LnBlbTsKCiAgICAgICAgIyBJbmNsdWRlIHRoZSBTU0wgY29uZmlndXJhdGlvbiBmcm9tIGNpcGhlcmxpLnN0CiAgICAgICAgaW5jbHVkZSAic25pcHBldHMvc3NsLXBhcmFtcy5jb25mIjsK</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RVhQT1NFIDgwCg==</text>
+        <text encoding="base64">CkJ1aWxkIFVJCmBgYCR4c2x0CmNkIHVpCm5wbSBydW4gYnVpbGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RVhQT1NFIDgwODAK</text>
+        <text encoding="base64">ICAgICAgICAjIEVuYWJsZSBIVFRQLzIKICAgICAgICBsaXN0ZW4gNDQzIHNzbCBodHRwMjsKICAgICAgICBsaXN0ZW4gWzo6XTo0NDMgc3NsIGh0dHAyOwogICAgICAgIHNlcnZlcl9uYW1lIHd3dy5wcmFnbWF0aWNvZmZlcnMuY29tOwoKICAgICAgICAjIFVzZSB0aGUgTGV04oCZcyBFbmNyeXB0IGNlcnRpZmljYXRlcwogICAgICAgIHNzbF9jZXJ0aWZpY2F0ZSAvZXRjL2xldHNlbmNyeXB0L2xpdmUvd3d3LnByYWdtYXRpY29mZmVycy5jb20vZnVsbGNoYWluLnBlbTsKICAgICAgICBzc2xfY2VydGlmaWNhdGVfa2V5IC9ldGMvbGV0c2VuY3J5cHQvbGl2ZS93d3cucHJhZ21hdGljb2ZmZXJzLmNvbS9wcml2a2V5LnBlbTsKCiAgICAgICAgIyBJbmNsdWRlIHRoZSBTU0wgY29uZmlndXJhdGlvbiBmcm9tIGNpcGhlcmxpLnN0CiAgICAgICAgaW5jbHVkZSAic25pcHBldHMvc3NsLXBhcmFtcy5jb25mIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgbG9jYXRpb24gL2FwaSB7fQo=</text>
+        <text encoding="base64">RVhQT1NFIDgwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBzZXJ2ZXIgewogICAgICAgIGxpc3RlbiA4MDgxOwoKICAgICAgICBsb2NhdGlvbiAvIHsKICAgICAgICB9CiAgICB9Cgo=</text>
+        <text encoding="base64">RVhQT1NFIDgwODAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgbG9jYXRpb24gL2FwaSB7fQo=</text>
       </register>
       <register name=":" type="4">
         <text>s%/to/in/g</text>
