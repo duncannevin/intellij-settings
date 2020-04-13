@@ -71,17 +71,17 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/package.json" timestamp="1586638336918">
-        <mark key="[" line="6" column="35" />
-        <mark key="]" line="6" column="53" />
-        <mark key="." line="6" column="53" />
-        <mark key="^" line="6" column="53" />
-      </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/README.md" timestamp="1586644378717">
         <mark key="[" line="51" column="15" />
         <mark key="]" line="51" column="15" />
         <mark key="." line="51" column="15" />
         <mark key="^" line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/Jenkinsfile" timestamp="1586816138544">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="22" />
+        <mark key="." line="18" column="21" />
+        <mark key="^" line="18" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/nginx.conf" timestamp="1586642767997">
         <mark key="[" line="23" column="12" />
@@ -89,7 +89,7 @@
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1586717494679">
+      <file name="/GraphQL.result.json" timestamp="1586814940947">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/Makefile" timestamp="1586639063802">
@@ -120,11 +120,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/OfferForm.vue" timestamp="1586639538356">
-        <mark key="[" line="242" column="25" />
-        <mark key="]" line="242" column="47" />
-        <mark key="." line="242" column="47" />
-        <mark key="^" line="242" column="47" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/OfferForm.vue" timestamp="1586815817435">
+        <mark key="[" line="260" column="21" />
+        <mark key="]" line="260" column="22" />
+        <mark key="." line="260" column="21" />
+        <mark key="^" line="260" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/conways-game-of-life_ui/build.sbt" timestamp="1586713354977">
         <mark key="[" line="23" column="58" />
@@ -159,17 +159,17 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/styles/global.scss" timestamp="1586815550180">
+        <mark key="[" line="118" column="10" />
+        <mark key="]" line="118" column="10" />
+        <mark key="." line="118" column="9" />
+        <mark key="^" line="118" column="10" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/conways-ui/project/plugins.sbt" timestamp="1586710197232">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/tslint.json" timestamp="1586638008250">
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="8" column="15" />
-        <mark key="^" line="8" column="15" />
-        <mark key="." line="8" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -189,44 +189,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YWRkQ29tcGlsZXJQbHVnaW4oIm9yZy5zY2FsYW1hY3JvcyIgJSAicGFyYWRpc2UiICUgIjIuMS4wIiBjcm9zcyBDcm9zc1ZlcnNpb24uZnVsbCkK</text>
+      <register name="&quot;" type="4">
+        <text>UI_HOME</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ly8g</text>
+        <text>UI_HOME</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJbmplY3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q09QWSAtLWZyb209YnVpbGQtc3RhZ2UgL2FwcC9kaXN0IC91c3Ivc2hhcmUvbmdpbngvaHRtbAo=</text>
+        <text encoding="base64">ICAgIGxlZnQ6IDFyZW07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWRkQ29tcGlsZXJQbHVnaW4oIm9yZy5zY2FsYW1hY3JvcyIgJSAicGFyYWRpc2UiICUgIjIuMS4wIiBjcm9zcyBDcm9zc1ZlcnNpb24uZnVsbCkK</text>
+        <text encoding="base64">CSAgICBVSV9IT01FPSIvdmFyL2xvY2FsL3ByYWdtYXRpY191aSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEpTSW1wb3J0KCJyZXNvdXJjZXMvQXBwLmNzcyIsIEpTSW1wb3J0LkRlZmF1bHQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjZCAuL3VpICYmIG5wbSBpbnN0YWxsOwoJCQkJICAgIG5wbSBydW4gYnVpbGQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEpTSW1wb3J0KCJyZXNvdXJjZXMvQXBwLmNzcyIsIEpTSW1wb3J0LkRlZmF1bHQpCg==</text>
+        <text encoding="base64">CQlzdGFnZSgnQ29uZmlndXJlIGVudicpIHsKCQkgICAgc3RlcHMgewogICAgICAgICAgICAgICAgZWNobyAnQ29uZmlndXJlIGVudi4uLicKICAgICAgICAgICAgICAgIHNoICcnJwogICAgICAgICAgICAgICAgICAgIG5wbSBjYWNoZSBjbGVhbiAtLWZvcmNlCiAgICAgICAgICAgICAgICAgICAgbm9kZSAtdgogICAgICAgICAgICAgICAgJycnCgkJICAgIH0KCQl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZy1sZWZ0OiAwLjFlbTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tbGVmdDogMWVtOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogOTAlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuZm91bmR3ZWVrZW5kcy5naXRlcjgiICUlICJzYnQtZ2l0ZXI4IiAlICIwLjExLjAiKQo=</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiBhOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z28gdG8gaHR0cDovL2xvY2FsaG9zdDo4MAo=</text>
+        <text encoding="base64">ICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC0yMCUsIDApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">ICAgIGxlZnQ6IDA7CiAgICByaWdodDogMDsK</text>
       </register>
       <register name=":" type="4">
         <text>s%/to/in/g</text>
