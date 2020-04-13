@@ -77,11 +77,11 @@
         <mark key="." line="51" column="15" />
         <mark key="^" line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/Jenkinsfile" timestamp="1586816138544">
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="18" column="22" />
-        <mark key="." line="18" column="21" />
-        <mark key="^" line="18" column="22" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/Jenkinsfile" timestamp="1586816403038">
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="27" column="19" />
+        <mark key="^" line="27" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/nginx.conf" timestamp="1586642767997">
         <mark key="[" line="23" column="12" />
@@ -190,10 +190,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>UI_HOME</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>UI_HOME</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJbmplY3RcPg==</text>
