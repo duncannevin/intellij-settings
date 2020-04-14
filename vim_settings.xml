@@ -86,17 +86,17 @@
       <file name="/sbtShell" timestamp="1586904706640">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/tree/Node.scala" timestamp="1586905481589">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="30" />
-        <mark key="^" line="9" column="30" />
-        <mark key="." line="9" column="29" />
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/tree/Node.scala" timestamp="1586906506628">
+        <mark key="[" line="5" column="62" />
+        <mark key="]" line="5" column="66" />
+        <mark key="^" line="5" column="66" />
+        <mark key="." line="5" column="65" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/tree/Tree.scala" timestamp="1586905381403">
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="11" column="45" />
-        <mark key="." line="11" column="44" />
-        <mark key="^" line="11" column="45" />
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/tree/Tree.scala" timestamp="1586906702765">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="33" />
+        <mark key="." line="22" column="32" />
+        <mark key="^" line="22" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/conways-ui/project/plugins.sbt" timestamp="1586710197232">
         <mark key="[" line="3" column="0" />
@@ -150,11 +150,11 @@
         <mark key="^" line="23" column="57" />
         <mark key="." line="23" column="56" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/tree/TreeSpec.scala" timestamp="1586905556196">
-        <mark key="[" line="22" column="29" />
-        <mark key="]" line="22" column="29" />
-        <mark key="." line="22" column="28" />
-        <mark key="^" line="22" column="29" />
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/tree/TreeSpec.scala" timestamp="1586906068406">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/conways_game_of_life/src/main/scala/com/duncannevin/conways/App.scala" timestamp="1586717339213">
         <mark key="[" line="7" column="34" />
@@ -188,10 +188,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ect</text>
+        <text>tail ::: head.getChildren</text>
       </register>
       <register name="-" type="4">
-        <text>ect</text>
+        <text>tail ::: head.getChildren</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJbmplY3RcPg==</text>
@@ -200,31 +200,31 @@
         <text encoding="base64">ICB0ZXN0KCdzdGFydHMgZW1wdHknLCAoKSA9PiB7CiAgICBjb25zdCB0ID0gbmV3IFRyZWUoKTsKICAgIGV4cGVjdCh0LnJvb3QpLnRvRXF1YWwobnVsbCk7CiAgfSk7CgogIHRlc3QoJ0NhbiB0cmF2ZXJzZSBiZicsICgpID0+IHsKICAgIGNvbnN0IGxldHRlcnMgPSBbXTsKICAgIGNvbnN0IHQgPSBuZXcgVHJlZSgpOwogICAgdC5yb290ID0gbmV3IE5vZGUoJ2EnKTsKICAgIHQucm9vdC5hZGQoJ2InKTsKICAgIHQucm9vdC5hZGQoJ2MnKTsKICAgIHQucm9vdC5jaGlsZHJlblswXS5hZGQoJ2QnKTsKCiAgICB0LnRyYXZlcnNlQkYobm9kZSA9PiB7CiAgICAgIGxldHRlcnMucHVzaChub2RlLmRhdGEpOwogICAgfSk7CgogICAgZXhwZWN0KGxldHRlcnMpLnRvRXF1YWwoWydhJywgJ2InLCAnYycsICdkJ10pOwogIH0pOwoKICB0ZXN0KCdDYW4gdHJhdmVyc2UgREYnLCAoKSA9PiB7CiAgICBjb25zdCBsZXR0ZXJzID0gW107CiAgICBjb25zdCB0ID0gbmV3IFRyZWUoKTsKICAgIHQucm9vdCA9IG5ldyBOb2RlKCdhJyk7CiAgICB0LnJvb3QuYWRkKCdiJyk7CiAgICB0LnJvb3QuYWRkKCdkJyk7CiAgICB0LnJvb3QuY2hpbGRyZW5bMF0uYWRkKCdjJyk7CgogICAgdC50cmF2ZXJzZURGKG5vZGUgPT4gewogICAgICBsZXR0ZXJzLnB1c2gobm9kZS5kYXRhKTsKICAgIH0pOwoKICAgIGV4cGVjdChsZXR0ZXJzKS50b0VxdWFsKFsnYScsICdiJywgJ2MnLCAnZCddKTsKICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgaWYgKGlzQkYpIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgYWRkVG9Ob2RlKGluZGV4KQo=</text>
+        <text encoding="base64">ICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHQuYWRkVG9Ob2RlKDAsIDIpCg==</text>
+        <text encoding="base64">ICBAc2NhbGEuYW5ub3RhdGlvbi50YWlscmVjCiAgcHJpdmF0ZSBkZWYgdHJhdmVyc2UoY2I6IFQgPT4gQW55VmFsLCBzbGF0ZTogTGlzdFtOb2RlW1RdXSk6IFVuaXQgPSBzbGF0ZSBtYXRjaCB7CiAgICBjYXNlIE5pbCA9PgogICAgY2FzZSBoZWFkOjp0YWlsID0+CiAgICAgIGNiKGhlYWQuZGF0YSkKICAgICAgdHJhdmVyc2VCRihjYiwgdGFpbCA6OjogaGVhZC5nZXRDaGlsZHJlbikKICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHQucm9vCg==</text>
+        <text encoding="base64">ICAKICBwcml2YXRlIGRlZiBhY2N1bXVsYXRlKCkgPSB7fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">Ci8qKgogIHRlc3QoJ0NhbiB0cmF2ZXJzZSBERicsICgpID0+IHsKICAgIGNvbnN0IGxldHRlcnMgPSBbXTsKICAgIGNvbnN0IHQgPSBuZXcgVHJlZSgpOwogICAgdC5yb290ID0gbmV3IE5vZGUoJ2EnKTsKICAgIHQucm9vdC5hZGQoJ2InKTsKICAgIHQucm9vdC5hZGQoJ2QnKTsKICAgIHQucm9vdC5jaGlsZHJlblswXS5hZGQoJ2MnKTsKCiAgICB0LnRyYXZlcnNlREYobm9kZSA9PiB7CiAgICAgIGxldHRlcnMucHVzaChub2RlLmRhdGEpOwogICAgfSk7CgogICAgZXhwZWN0KGxldHRlcnMpLnRvRXF1YWwoWydhJywgJ2InLCAnYycsICdkJ10pOwogIH0pOwogKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ci8qKgogIHRlc3QoJ05vZGUgY2FuIHJlbW92ZSBjaGlsZHJlbicsICgpID0+IHsKICAgIGNvbnN0IG4gPSBuZXcgTm9kZSgnYScpOwogICAgbi5hZGQoJ2InKTsKICAgIGV4cGVjdChuLmNoaWxkcmVuLmxlbmd0aCkudG9FcXVhbCgxKTsKICAgIG4ucmVtb3ZlKCdiJyk7CiAgICBleHBlY3Qobi5jaGlsZHJlbi5sZW5ndGgpLnRvRXF1YWwoMCk7CiAgfSk7CiAqLwo=</text>
+        <text encoding="base64">dGVzdCgnc3RhcnRzIGVtcHR5JywgKCkgPT4gewogICAgY29uc3QgdCA9IG5ldyBUcmVlKCk7CiAgICBleHBlY3QodC5yb290KS50b0VxdWFsKG51bGwpOwogIH0pOwoKICB0ZXN0KCdDYW4gdHJhdmVyc2UgYmYnLCAoKSA9PiB7CiAgICBjb25zdCBsZXR0ZXJzID0gW107CiAgICBjb25zdCB0ID0gbmV3IFRyZWUoKTsKICAgIHQucm9vdCA9IG5ldyBOb2RlKCdhJyk7CiAgICB0LnJvb3QuYWRkKCdiJyk7CiAgICB0LnJvb3QuYWRkKCdjJyk7CiAgICB0LnJvb3QuY2hpbGRyZW5bMF0uYWRkKCdkJyk7CgogICAgdC50cmF2ZXJzZUJGKG5vZGUgPT4gewogICAgICBsZXR0ZXJzLnB1c2gobm9kZS5kYXRhKTsKICAgIH0pOwoKICAgIGV4cGVjdChsZXR0ZXJzKS50b0VxdWFsKFsnYScsICdiJywgJ2MnLCAnZCddKTsKICB9KTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgdGVzdCgnTm9kZSBjYW4gYWRkIGNoaWxkcmVuJywgKCkgPT4gewogICAgY29uc3QgbiA9IG5ldyBOb2RlKCdhJyk7CiAgICBuLmFkZCgnYicpOwogICAgZXhwZWN0KG4uY2hpbGRyZW4ubGVuZ3RoKS50b0VxdWFsKDEpOwogICAgZXhwZWN0KG4uY2hpbGRyZW5bMF0uY2hpbGRyZW4pLnRvRXF1YWwoW10pOwogIH0pOwoK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0ZXN0KCdOb2RlIGhhcyBhIGRhdGEgYW5kIGNoaWxkcmVuIHByb3BlcnRpZXMnLCAoKSA9PiB7IGNvbnN0IG4gPSBuZXcgTm9kZSgnYScpOwogICAgZXhwZWN0KG4uZGF0YSkudG9FcXVhbCgnYScpOwogICAgZXhwZWN0KG4uY2hpbGRyZW4ubGVuZ3RoKS50b0VxdWFsKDApOwogIH0pOwo=</text>
+        <text encoding="base64">ICBkZWYgYWRkVG9Ob2RlKGluZGV4KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHQuYWRkVG9Ob2RlKDAsIDIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s%/to/in/g</text>
