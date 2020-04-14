@@ -65,17 +65,44 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/docker-compose.yml" timestamp="1586640994894">
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-        <mark key="^" line="6" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/README.md" timestamp="1586644378717">
         <mark key="[" line="51" column="15" />
         <mark key="]" line="51" column="15" />
         <mark key="." line="51" column="15" />
         <mark key="^" line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/tree/NodeSpec.scala" timestamp="1586904769081">
+        <mark key="'" line="7" column="25" />
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="26" column="35" />
+        <mark key="^" line="26" column="35" />
+        <mark key="." line="26" column="34" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/ui/build.sbt" timestamp="1586712986757">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/sbtShell" timestamp="1586904706640">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/tree/Node.scala" timestamp="1586905481589">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="30" />
+        <mark key="^" line="9" column="30" />
+        <mark key="." line="9" column="29" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/tree/Tree.scala" timestamp="1586905381403">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="11" column="45" />
+        <mark key="." line="11" column="44" />
+        <mark key="^" line="11" column="45" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/conways-ui/project/plugins.sbt" timestamp="1586710197232">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/Jenkinsfile" timestamp="1586816403038">
         <mark key="[" line="27" column="19" />
@@ -83,15 +110,9 @@
         <mark key="." line="27" column="19" />
         <mark key="^" line="27" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/tree/test.js" timestamp="1586903971653">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="66" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/nginx.conf" timestamp="1586642767997">
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="24" column="19" />
-        <mark key="." line="24" column="19" />
-        <mark key="^" line="24" column="19" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/tree/test.js" timestamp="1586904785370">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="65" column="5" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1586903956288">
         <mark key="[" line="0" column="0" />
@@ -105,21 +126,11 @@
         <mark key="." line="23" column="56" />
         <mark key="^" line="23" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/nginx.conf" timestamp="1586640617388">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/conways-ui/project/build.properties" timestamp="1586709443724">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="16" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/ui/build.sbt" timestamp="1586712986757">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/OfferForm.vue" timestamp="1586815817435">
         <mark key="[" line="260" column="21" />
@@ -139,14 +150,11 @@
         <mark key="^" line="23" column="57" />
         <mark key="." line="23" column="56" />
       </file>
-      <file name="/sbtShell" timestamp="1586903852672">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/Dockerfile" timestamp="1586640860503">
-        <mark key="[" line="25" column="33" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/tree/TreeSpec.scala" timestamp="1586905556196">
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="22" column="29" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/conways_game_of_life/src/main/scala/com/duncannevin/conways/App.scala" timestamp="1586717339213">
         <mark key="[" line="7" column="34" />
@@ -159,12 +167,6 @@
         <mark key="]" line="118" column="10" />
         <mark key="." line="118" column="9" />
         <mark key="^" line="118" column="10" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/conways-ui/project/plugins.sbt" timestamp="1586710197232">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -180,48 +182,49 @@
       <jump line="18" column="5" filename="$USER_HOME$/Documents/pragmatic_offers/podio-service/src/main.ts" />
       <jump line="14" column="5" filename="$USER_HOME$/Documents/pragmatic_offers/gateway/src/app.service.ts" />
       <jump line="18" column="58" filename="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/bst/BstSpec.scala" />
+      <jump line="7" column="25" filename="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/tree/NodeSpec.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVzY3JpYmUoJ05vZGUnLCAoKSA9PiB7CiAgdGVzdCgnTm9kZSBpcyBhIGNvbnN0cnVjdG9yJywgKCkgPT4gewogICAgZXhwZWN0KHR5cGVvZiBOb2RlLnByb3RvdHlwZS5jb25zdHJ1Y3RvcikudG9FcXVhbCgnZnVuY3Rpb24nKTsKICB9KTsKCiAgdGVzdCgnTm9kZSBoYXMgYSBkYXRhIGFuZCBjaGlsZHJlbiBwcm9wZXJ0aWVzJywgKCkgPT4gewogICAgY29uc3QgbiA9IG5ldyBOb2RlKCdhJyk7CiAgICBleHBlY3Qobi5kYXRhKS50b0VxdWFsKCdhJyk7CiAgICBleHBlY3Qobi5jaGlsZHJlbi5sZW5ndGgpLnRvRXF1YWwoMCk7CiAgfSk7CgogIHRlc3QoJ05vZGUgY2FuIGFkZCBjaGlsZHJlbicsICgpID0+IHsKICAgIGNvbnN0IG4gPSBuZXcgTm9kZSgnYScpOwogICAgbi5hZGQoJ2InKTsKICAgIGV4cGVjdChuLmNoaWxkcmVuLmxlbmd0aCkudG9FcXVhbCgxKTsKICAgIGV4cGVjdChuLmNoaWxkcmVuWzBdLmNoaWxkcmVuKS50b0VxdWFsKFtdKTsKICB9KTsKCiAgdGVzdCgnTm9kZSBjYW4gcmVtb3ZlIGNoaWxkcmVuJywgKCkgPT4gewogICAgY29uc3QgbiA9IG5ldyBOb2RlKCdhJyk7CiAgICBuLmFkZCgnYicpOwogICAgZXhwZWN0KG4uY2hpbGRyZW4ubGVuZ3RoKS50b0VxdWFsKDEpOwogICAgbi5yZW1vdmUoJ2InKTsKICAgIGV4cGVjdChuLmNoaWxkcmVuLmxlbmd0aCkudG9FcXVhbCgwKTsKICB9KTsKfSk7CgpkZXNjcmliZSgnVHJlZScsICgpID0+IHsKICB0ZXN0KCdzdGFydHMgZW1wdHknLCAoKSA9PiB7CiAgICBjb25zdCB0ID0gbmV3IFRyZWUoKTsKICAgIGV4cGVjdCh0LnJvb3QpLnRvRXF1YWwobnVsbCk7CiAgfSk7CgogIHRlc3QoJ0NhbiB0cmF2ZXJzZSBiZicsICgpID0+IHsKICAgIGNvbnN0IGxldHRlcnMgPSBbXTsKICAgIGNvbnN0IHQgPSBuZXcgVHJlZSgpOwogICAgdC5yb290ID0gbmV3IE5vZGUoJ2EnKTsKICAgIHQucm9vdC5hZGQoJ2InKTsKICAgIHQucm9vdC5hZGQoJ2MnKTsKICAgIHQucm9vdC5jaGlsZHJlblswXS5hZGQoJ2QnKTsKCiAgICB0LnRyYXZlcnNlQkYobm9kZSA9PiB7CiAgICAgIGxldHRlcnMucHVzaChub2RlLmRhdGEpOwogICAgfSk7CgogICAgZXhwZWN0KGxldHRlcnMpLnRvRXF1YWwoWydhJywgJ2InLCAnYycsICdkJ10pOwogIH0pOwoKICB0ZXN0KCdDYW4gdHJhdmVyc2UgREYnLCAoKSA9PiB7CiAgICBjb25zdCBsZXR0ZXJzID0gW107CiAgICBjb25zdCB0ID0gbmV3IFRyZWUoKTsKICAgIHQucm9vdCA9IG5ldyBOb2RlKCdhJyk7CiAgICB0LnJvb3QuYWRkKCdiJyk7CiAgICB0LnJvb3QuYWRkKCdkJyk7CiAgICB0LnJvb3QuY2hpbGRyZW5bMF0uYWRkKCdjJyk7CgogICAgdC50cmF2ZXJzZURGKG5vZGUgPT4gewogICAgICBsZXR0ZXJzLnB1c2gobm9kZS5kYXRhKTsKICAgIH0pOwoKICAgIGV4cGVjdChsZXR0ZXJzKS50b0VxdWFsKFsnYScsICdiJywgJ2MnLCAnZCddKTsKICB9KTsKfSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ect</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ect</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJbmplY3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVzY3JpYmUoJ05vZGUnLCAoKSA9PiB7CiAgdGVzdCgnTm9kZSBpcyBhIGNvbnN0cnVjdG9yJywgKCkgPT4gewogICAgZXhwZWN0KHR5cGVvZiBOb2RlLnByb3RvdHlwZS5jb25zdHJ1Y3RvcikudG9FcXVhbCgnZnVuY3Rpb24nKTsKICB9KTsKCiAgdGVzdCgnTm9kZSBoYXMgYSBkYXRhIGFuZCBjaGlsZHJlbiBwcm9wZXJ0aWVzJywgKCkgPT4gewogICAgY29uc3QgbiA9IG5ldyBOb2RlKCdhJyk7CiAgICBleHBlY3Qobi5kYXRhKS50b0VxdWFsKCdhJyk7CiAgICBleHBlY3Qobi5jaGlsZHJlbi5sZW5ndGgpLnRvRXF1YWwoMCk7CiAgfSk7CgogIHRlc3QoJ05vZGUgY2FuIGFkZCBjaGlsZHJlbicsICgpID0+IHsKICAgIGNvbnN0IG4gPSBuZXcgTm9kZSgnYScpOwogICAgbi5hZGQoJ2InKTsKICAgIGV4cGVjdChuLmNoaWxkcmVuLmxlbmd0aCkudG9FcXVhbCgxKTsKICAgIGV4cGVjdChuLmNoaWxkcmVuWzBdLmNoaWxkcmVuKS50b0VxdWFsKFtdKTsKICB9KTsKCiAgdGVzdCgnTm9kZSBjYW4gcmVtb3ZlIGNoaWxkcmVuJywgKCkgPT4gewogICAgY29uc3QgbiA9IG5ldyBOb2RlKCdhJyk7CiAgICBuLmFkZCgnYicpOwogICAgZXhwZWN0KG4uY2hpbGRyZW4ubGVuZ3RoKS50b0VxdWFsKDEpOwogICAgbi5yZW1vdmUoJ2InKTsKICAgIGV4cGVjdChuLmNoaWxkcmVuLmxlbmd0aCkudG9FcXVhbCgwKTsKICB9KTsKfSk7CgpkZXNjcmliZSgnVHJlZScsICgpID0+IHsKICB0ZXN0KCdzdGFydHMgZW1wdHknLCAoKSA9PiB7CiAgICBjb25zdCB0ID0gbmV3IFRyZWUoKTsKICAgIGV4cGVjdCh0LnJvb3QpLnRvRXF1YWwobnVsbCk7CiAgfSk7CgogIHRlc3QoJ0NhbiB0cmF2ZXJzZSBiZicsICgpID0+IHsKICAgIGNvbnN0IGxldHRlcnMgPSBbXTsKICAgIGNvbnN0IHQgPSBuZXcgVHJlZSgpOwogICAgdC5yb290ID0gbmV3IE5vZGUoJ2EnKTsKICAgIHQucm9vdC5hZGQoJ2InKTsKICAgIHQucm9vdC5hZGQoJ2MnKTsKICAgIHQucm9vdC5jaGlsZHJlblswXS5hZGQoJ2QnKTsKCiAgICB0LnRyYXZlcnNlQkYobm9kZSA9PiB7CiAgICAgIGxldHRlcnMucHVzaChub2RlLmRhdGEpOwogICAgfSk7CgogICAgZXhwZWN0KGxldHRlcnMpLnRvRXF1YWwoWydhJywgJ2InLCAnYycsICdkJ10pOwogIH0pOwoKICB0ZXN0KCdDYW4gdHJhdmVyc2UgREYnLCAoKSA9PiB7CiAgICBjb25zdCBsZXR0ZXJzID0gW107CiAgICBjb25zdCB0ID0gbmV3IFRyZWUoKTsKICAgIHQucm9vdCA9IG5ldyBOb2RlKCdhJyk7CiAgICB0LnJvb3QuYWRkKCdiJyk7CiAgICB0LnJvb3QuYWRkKCdkJyk7CiAgICB0LnJvb3QuY2hpbGRyZW5bMF0uYWRkKCdjJyk7CgogICAgdC50cmF2ZXJzZURGKG5vZGUgPT4gewogICAgICBsZXR0ZXJzLnB1c2gobm9kZS5kYXRhKTsKICAgIH0pOwoKICAgIGV4cGVjdChsZXR0ZXJzKS50b0VxdWFsKFsnYScsICdiJywgJ2MnLCAnZCddKTsKICB9KTsKfSk7Cg==</text>
+        <text encoding="base64">ICB0ZXN0KCdzdGFydHMgZW1wdHknLCAoKSA9PiB7CiAgICBjb25zdCB0ID0gbmV3IFRyZWUoKTsKICAgIGV4cGVjdCh0LnJvb3QpLnRvRXF1YWwobnVsbCk7CiAgfSk7CgogIHRlc3QoJ0NhbiB0cmF2ZXJzZSBiZicsICgpID0+IHsKICAgIGNvbnN0IGxldHRlcnMgPSBbXTsKICAgIGNvbnN0IHQgPSBuZXcgVHJlZSgpOwogICAgdC5yb290ID0gbmV3IE5vZGUoJ2EnKTsKICAgIHQucm9vdC5hZGQoJ2InKTsKICAgIHQucm9vdC5hZGQoJ2MnKTsKICAgIHQucm9vdC5jaGlsZHJlblswXS5hZGQoJ2QnKTsKCiAgICB0LnRyYXZlcnNlQkYobm9kZSA9PiB7CiAgICAgIGxldHRlcnMucHVzaChub2RlLmRhdGEpOwogICAgfSk7CgogICAgZXhwZWN0KGxldHRlcnMpLnRvRXF1YWwoWydhJywgJ2InLCAnYycsICdkJ10pOwogIH0pOwoKICB0ZXN0KCdDYW4gdHJhdmVyc2UgREYnLCAoKSA9PiB7CiAgICBjb25zdCBsZXR0ZXJzID0gW107CiAgICBjb25zdCB0ID0gbmV3IFRyZWUoKTsKICAgIHQucm9vdCA9IG5ldyBOb2RlKCdhJyk7CiAgICB0LnJvb3QuYWRkKCdiJyk7CiAgICB0LnJvb3QuYWRkKCdkJyk7CiAgICB0LnJvb3QuY2hpbGRyZW5bMF0uYWRkKCdjJyk7CgogICAgdC50cmF2ZXJzZURGKG5vZGUgPT4gewogICAgICBsZXR0ZXJzLnB1c2gobm9kZS5kYXRhKTsKICAgIH0pOwoKICAgIGV4cGVjdChsZXR0ZXJzKS50b0VxdWFsKFsnYScsICdiJywgJ2MnLCAnZCddKTsKICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChoZWFkID09IG51bGwgfHwgc2l6ZSgpID09IDEpIHJldHVybiBoZWFkID0gbnVsbAo=</text>
+        <text encoding="base64">ICBkZWYgYWRkVG9Ob2RlKGluZGV4KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHQuYWRkVG9Ob2RlKDAsIDIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHQucm9vCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICB2YWwgbmV3TGFzdCA9IGdldEF0KHNpemUoKSAtIDIpCgogICAgbmV3TGFzdC5zZXROZXh0KG51bGwpCg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAgICBVSV9IT01FPSIvdmFyL2xvY2FsL3ByYWdtYXRpY191aSIK</text>
+        <text encoding="base64">Ci8qKgogIHRlc3QoJ05vZGUgY2FuIHJlbW92ZSBjaGlsZHJlbicsICgpID0+IHsKICAgIGNvbnN0IG4gPSBuZXcgTm9kZSgnYScpOwogICAgbi5hZGQoJ2InKTsKICAgIGV4cGVjdChuLmNoaWxkcmVuLmxlbmd0aCkudG9FcXVhbCgxKTsKICAgIG4ucmVtb3ZlKCdiJyk7CiAgICBleHBlY3Qobi5jaGlsZHJlbi5sZW5ndGgpLnRvRXF1YWwoMCk7CiAgfSk7CiAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjZCAuL3VpICYmIG5wbSBpbnN0YWxsOwoJCQkJICAgIG5wbSBydW4gYnVpbGQ7Cg==</text>
+        <text encoding="base64">CiAgdGVzdCgnTm9kZSBjYW4gYWRkIGNoaWxkcmVuJywgKCkgPT4gewogICAgY29uc3QgbiA9IG5ldyBOb2RlKCdhJyk7CiAgICBuLmFkZCgnYicpOwogICAgZXhwZWN0KG4uY2hpbGRyZW4ubGVuZ3RoKS50b0VxdWFsKDEpOwogICAgZXhwZWN0KG4uY2hpbGRyZW5bMF0uY2hpbGRyZW4pLnRvRXF1YWwoW10pOwogIH0pOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlzdGFnZSgnQ29uZmlndXJlIGVudicpIHsKCQkgICAgc3RlcHMgewogICAgICAgICAgICAgICAgZWNobyAnQ29uZmlndXJlIGVudi4uLicKICAgICAgICAgICAgICAgIHNoICcnJwogICAgICAgICAgICAgICAgICAgIG5wbSBjYWNoZSBjbGVhbiAtLWZvcmNlCiAgICAgICAgICAgICAgICAgICAgbm9kZSAtdgogICAgICAgICAgICAgICAgJycnCgkJICAgIH0KCQl9Cg==</text>
+        <text encoding="base64">ICB0ZXN0KCdOb2RlIGhhcyBhIGRhdGEgYW5kIGNoaWxkcmVuIHByb3BlcnRpZXMnLCAoKSA9PiB7IGNvbnN0IG4gPSBuZXcgTm9kZSgnYScpOwogICAgZXhwZWN0KG4uZGF0YSkudG9FcXVhbCgnYScpOwogICAgZXhwZWN0KG4uY2hpbGRyZW4ubGVuZ3RoKS50b0VxdWFsKDApOwogIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZy1sZWZ0OiAwLjFlbTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s%/to/in/g</text>
