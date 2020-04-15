@@ -11,6 +11,7 @@
         <entry>=</entry>
         <entry>/to/in/g</entry>
         <entry encoding="base64">XDxJbmplY3RcPg==</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%/MYSQL/DB/g</entry>
@@ -65,11 +66,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/README.md" timestamp="1586644378717">
-        <mark key="[" line="51" column="15" />
-        <mark key="]" line="51" column="15" />
-        <mark key="." line="51" column="15" />
-        <mark key="^" line="57" column="0" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/levelwidth/test.js" timestamp="1586908594099">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="26" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/tree/NodeSpec.scala" timestamp="1586904769081">
         <mark key="'" line="7" column="25" />
@@ -83,8 +82,13 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/sbtShell" timestamp="1586904706640">
+      <file name="/sbtShell" timestamp="1586909764846">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/levelwidth/index.js" timestamp="1586908534720">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/tree/Node.scala" timestamp="1586906506628">
         <mark key="[" line="5" column="62" />
@@ -92,11 +96,11 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="5" column="65" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/tree/Tree.scala" timestamp="1586906702765">
-        <mark key="[" line="22" column="25" />
-        <mark key="]" line="22" column="33" />
-        <mark key="." line="22" column="32" />
-        <mark key="^" line="22" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/tree/Tree.scala" timestamp="1586909753824">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="34" />
+        <mark key="." line="19" column="33" />
+        <mark key="^" line="19" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/conways-ui/project/plugins.sbt" timestamp="1586710197232">
         <mark key="[" line="3" column="0" />
@@ -126,12 +130,6 @@
         <mark key="." line="23" column="56" />
         <mark key="^" line="23" column="57" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/conways-ui/project/build.properties" timestamp="1586709443724">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="16" />
-      </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/OfferForm.vue" timestamp="1586815817435">
         <mark key="[" line="260" column="21" />
         <mark key="]" line="260" column="22" />
@@ -150,11 +148,11 @@
         <mark key="^" line="23" column="57" />
         <mark key="." line="23" column="56" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/tree/TreeSpec.scala" timestamp="1586906068406">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="24" />
-        <mark key="^" line="7" column="24" />
-        <mark key="." line="7" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/tree/TreeSpec.scala" timestamp="1586909480650">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="16" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="41" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/conways_game_of_life/src/main/scala/com/duncannevin/conways/App.scala" timestamp="1586717339213">
         <mark key="[" line="7" column="34" />
@@ -188,43 +186,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>tail ::: head.getChildren</text>
+        <text>slate</text>
       </register>
       <register name="-" type="4">
-        <text>tail ::: head.getChildren</text>
+        <text>slate</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJbmplY3RcPg==</text>
+        <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0ZXN0KCdzdGFydHMgZW1wdHknLCAoKSA9PiB7CiAgICBjb25zdCB0ID0gbmV3IFRyZWUoKTsKICAgIGV4cGVjdCh0LnJvb3QpLnRvRXF1YWwobnVsbCk7CiAgfSk7CgogIHRlc3QoJ0NhbiB0cmF2ZXJzZSBiZicsICgpID0+IHsKICAgIGNvbnN0IGxldHRlcnMgPSBbXTsKICAgIGNvbnN0IHQgPSBuZXcgVHJlZSgpOwogICAgdC5yb290ID0gbmV3IE5vZGUoJ2EnKTsKICAgIHQucm9vdC5hZGQoJ2InKTsKICAgIHQucm9vdC5hZGQoJ2MnKTsKICAgIHQucm9vdC5jaGlsZHJlblswXS5hZGQoJ2QnKTsKCiAgICB0LnRyYXZlcnNlQkYobm9kZSA9PiB7CiAgICAgIGxldHRlcnMucHVzaChub2RlLmRhdGEpOwogICAgfSk7CgogICAgZXhwZWN0KGxldHRlcnMpLnRvRXF1YWwoWydhJywgJ2InLCAnYycsICdkJ10pOwogIH0pOwoKICB0ZXN0KCdDYW4gdHJhdmVyc2UgREYnLCAoKSA9PiB7CiAgICBjb25zdCBsZXR0ZXJzID0gW107CiAgICBjb25zdCB0ID0gbmV3IFRyZWUoKTsKICAgIHQucm9vdCA9IG5ldyBOb2RlKCdhJyk7CiAgICB0LnJvb3QuYWRkKCdiJyk7CiAgICB0LnJvb3QuYWRkKCdkJyk7CiAgICB0LnJvb3QuY2hpbGRyZW5bMF0uYWRkKCdjJyk7CgogICAgdC50cmF2ZXJzZURGKG5vZGUgPT4gewogICAgICBsZXR0ZXJzLnB1c2gobm9kZS5kYXRhKTsKICAgIH0pOwoKICAgIGV4cGVjdChsZXR0ZXJzKS50b0VxdWFsKFsnYScsICdiJywgJ2MnLCAnZCddKTsKICB9KTsK</text>
+        <text encoding="base64">ICAgIHQuc2V0Um9vdCgwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGlzQkYpIAo=</text>
+        <text encoding="base64">Ci8qKgp0ZXN0KCdsZXZlbFdpZHRoIHJldHVybnMgbnVtYmVyIG9mIG5vZGVzIGF0IHdpZGVzdCBwb2ludCcsICgpID0+IHsKICBjb25zdCByb290ID0gbmV3IE5vZGUoMCk7CiAgcm9vdC5hZGQoMSk7CiAgcm9vdC5jaGlsZHJlblswXS5hZGQoMik7CiAgcm9vdC5jaGlsZHJlblswXS5hZGQoMyk7CiAgcm9vdC5jaGlsZHJlblswXS5jaGlsZHJlblswXS5hZGQoNCk7CgogIGV4cGVjdChsZXZlbFdpZHRoKHJvb3QpKS50b0VxdWFsKFsxLCAxLCAyLCAxXSk7Cn0pOwogKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAc2NhbGEuYW5ub3RhdGlvbi50YWlscmVjCiAgcHJpdmF0ZSBkZWYgdHJhdmVyc2UoY2I6IFQgPT4gQW55VmFsLCBzbGF0ZTogTGlzdFtOb2RlW1RdXSk6IFVuaXQgPSBzbGF0ZSBtYXRjaCB7CiAgICBjYXNlIE5pbCA9PgogICAgY2FzZSBoZWFkOjp0YWlsID0+CiAgICAgIGNiKGhlYWQuZGF0YSkKICAgICAgdHJhdmVyc2VCRihjYiwgdGFpbCA6OjogaGVhZC5nZXRDaGlsZHJlbikKICB9Cgo=</text>
+        <text encoding="base64">Ci8qKgp0ZXN0KCdsZXZlbFdpZHRoIHJldHVybnMgbnVtYmVyIG9mIG5vZGVzIGF0IHdpZGVzdCBwb2ludCcsICgpID0+IHsKICBjb25zdCByb290ID0gbmV3IE5vZGUoMCk7CiAgcm9vdC5hZGQoMSk7CiAgcm9vdC5jaGlsZHJlblswXS5hZGQoMik7CiAgcm9vdC5jaGlsZHJlblswXS5hZGQoMyk7CiAgcm9vdC5jaGlsZHJlblswXS5jaGlsZHJlblswXS5hZGQoNCk7CgogIGV4cGVjdChsZXZlbFdpZHRoKHJvb3QpKS50b0VxdWFsKFsxLCAxLCAyLCAxXSk7Cn0pOwogKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAKICBwcml2YXRlIGRlZiBhY2N1bXVsYXRlKCkgPSB7fQo=</text>
+        <text encoding="base64">dGVzdCgnbGV2ZWxXaWR0aCBpcyBhIGZ1bmN0aW9uJywgKCkgPT4gewogIGV4cGVjdCh0eXBlb2YgbGV2ZWxXaWR0aCkudG9FcXVhbCgnZnVuY3Rpb24nKTsKfSk7Cgp0ZXN0KCdsZXZlbFdpZHRoIHJldHVybnMgbnVtYmVyIG9mIG5vZGVzIGF0IHdpZGVzdCBwb2ludCcsICgpID0+IHsKICBjb25zdCByb290ID0gbmV3IE5vZGUoMCk7CiAgcm9vdC5hZGQoMSk7CiAgcm9vdC5hZGQoMik7CiAgcm9vdC5hZGQoMyk7CiAgcm9vdC5jaGlsZHJlblswXS5hZGQoNCk7CiAgcm9vdC5jaGlsZHJlblsyXS5hZGQoNSk7CgogIGV4cGVjdChsZXZlbFdpZHRoKHJvb3QpKS50b0VxdWFsKFsxLCAzLCAyXSk7Cn0pOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ci8qKgogIHRlc3QoJ0NhbiB0cmF2ZXJzZSBERicsICgpID0+IHsKICAgIGNvbnN0IGxldHRlcnMgPSBbXTsKICAgIGNvbnN0IHQgPSBuZXcgVHJlZSgpOwogICAgdC5yb290ID0gbmV3IE5vZGUoJ2EnKTsKICAgIHQucm9vdC5hZGQoJ2InKTsKICAgIHQucm9vdC5hZGQoJ2QnKTsKICAgIHQucm9vdC5jaGlsZHJlblswXS5hZGQoJ2MnKTsKCiAgICB0LnRyYXZlcnNlREYobm9kZSA9PiB7CiAgICAgIGxldHRlcnMucHVzaChub2RlLmRhdGEpOwogICAgfSk7CgogICAgZXhwZWN0KGxldHRlcnMpLnRvRXF1YWwoWydhJywgJ2InLCAnYycsICdkJ10pOwogIH0pOwogKi8K</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGVzdCgnc3RhcnRzIGVtcHR5JywgKCkgPT4gewogICAgY29uc3QgdCA9IG5ldyBUcmVlKCk7CiAgICBleHBlY3QodC5yb290KS50b0VxdWFsKG51bGwpOwogIH0pOwoKICB0ZXN0KCdDYW4gdHJhdmVyc2UgYmYnLCAoKSA9PiB7CiAgICBjb25zdCBsZXR0ZXJzID0gW107CiAgICBjb25zdCB0ID0gbmV3IFRyZWUoKTsKICAgIHQucm9vdCA9IG5ldyBOb2RlKCdhJyk7CiAgICB0LnJvb3QuYWRkKCdiJyk7CiAgICB0LnJvb3QuYWRkKCdjJyk7CiAgICB0LnJvb3QuY2hpbGRyZW5bMF0uYWRkKCdkJyk7CgogICAgdC50cmF2ZXJzZUJGKG5vZGUgPT4gewogICAgICBsZXR0ZXJzLnB1c2gobm9kZS5kYXRhKTsKICAgIH0pOwoKICAgIGV4cGVjdChsZXR0ZXJzKS50b0VxdWFsKFsnYScsICdiJywgJ2MnLCAnZCddKTsKICB9KTsKCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBjYWxjdWxhdGVXaWR0aHMoWy4uLnNsYXRlLCAuLi4oaGVhZCA9PT0gY3Vyc29yID8gW2N1cnNvciA6IGhlYWQuY2hpbGRyZW5dKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgYWRkVG9Ob2RlKGluZGV4KQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhlYWQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHQuYWRkVG9Ob2RlKDAsIDIpCg==</text>
+        <text encoding="base64">ICAgIGlmIChzbGF0ZVswXSA9PT0gY3Vyc29yKSByZXR1cm4gd2lkdGhzCg==</text>
       </register>
       <register name=":" type="4">
         <text>s%/to/in/g</text>
@@ -233,9 +231,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxJbmplY3RcPg==</last-search>
+      <last-search encoding="base64">XDwpXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJbmplY3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
       <last-replace />
       <last-substitute>/to/in/g</last-substitute>
       <last-dir>-1</last-dir>
