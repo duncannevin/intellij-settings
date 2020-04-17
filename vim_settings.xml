@@ -70,6 +70,28 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="26" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/Jenkinsfile" timestamp="1586816403038">
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="27" column="19" />
+        <mark key="^" line="27" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/tree/test.js" timestamp="1586904785370">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="65" column="5" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1587140249909">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/linkedlist/LinkedList.scala" timestamp="1586903819035">
+        <mark key="^" line="45" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/conways_game_of_life/build.sbt" timestamp="1586717716543">
+        <mark key="[" line="23" column="58" />
+        <mark key="]" line="23" column="57" />
+        <mark key="." line="23" column="56" />
+        <mark key="^" line="23" column="57" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/tree/NodeSpec.scala" timestamp="1586904769081">
         <mark key="'" line="7" column="25" />
         <mark key="[" line="26" column="39" />
@@ -81,54 +103,6 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="/sbtShell" timestamp="1586909764846">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/levelwidth/index.js" timestamp="1586908534720">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/tree/Node.scala" timestamp="1586906506628">
-        <mark key="[" line="5" column="62" />
-        <mark key="]" line="5" column="66" />
-        <mark key="^" line="5" column="66" />
-        <mark key="." line="5" column="65" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/tree/Tree.scala" timestamp="1586909753824">
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="19" column="34" />
-        <mark key="." line="19" column="33" />
-        <mark key="^" line="19" column="34" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/conways-ui/project/plugins.sbt" timestamp="1586710197232">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/Jenkinsfile" timestamp="1586816403038">
-        <mark key="[" line="27" column="19" />
-        <mark key="]" line="27" column="19" />
-        <mark key="." line="27" column="19" />
-        <mark key="^" line="27" column="62" />
-      </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/tree/test.js" timestamp="1586904785370">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="65" column="5" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1587080498635">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/linkedlist/LinkedList.scala" timestamp="1586903819035">
-        <mark key="^" line="45" column="4" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/conways_game_of_life/build.sbt" timestamp="1586717716543">
-        <mark key="[" line="23" column="58" />
-        <mark key="]" line="23" column="57" />
-        <mark key="." line="23" column="56" />
-        <mark key="^" line="23" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/OfferForm.vue" timestamp="1586815817435">
         <mark key="[" line="260" column="21" />
@@ -148,6 +122,14 @@
         <mark key="^" line="23" column="57" />
         <mark key="." line="23" column="56" />
       </file>
+      <file name="/sbtShell" timestamp="1586909764846">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/levelwidth/index.js" timestamp="1586908534720">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/tree/TreeSpec.scala" timestamp="1586909480650">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="16" />
@@ -160,11 +142,35 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="23" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/loris_editor/build.sbt" timestamp="1587140579705">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="4" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/tree/Node.scala" timestamp="1586906506628">
+        <mark key="[" line="5" column="62" />
+        <mark key="]" line="5" column="66" />
+        <mark key="^" line="5" column="66" />
+        <mark key="." line="5" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/styles/global.scss" timestamp="1586815550180">
         <mark key="[" line="118" column="10" />
         <mark key="]" line="118" column="10" />
         <mark key="." line="118" column="9" />
         <mark key="^" line="118" column="10" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/tree/Tree.scala" timestamp="1586909753824">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="34" />
+        <mark key="." line="19" column="33" />
+        <mark key="^" line="19" column="34" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/conways-ui/project/plugins.sbt" timestamp="1586710197232">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
