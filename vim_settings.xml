@@ -105,11 +105,6 @@
         <mark key="^" line="26" column="35" />
         <mark key="." line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/ui/build.sbt" timestamp="1586712986757">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/OfferForm.vue" timestamp="1586815817435">
         <mark key="[" line="260" column="21" />
         <mark key="]" line="260" column="22" />
@@ -121,6 +116,9 @@
         <mark key="]" line="23" column="57" />
         <mark key="^" line="23" column="57" />
         <mark key="." line="23" column="56" />
+      </file>
+      <file name="/" timestamp="1587149648423">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/loris_editor/conf/routes" timestamp="1587140896383">
         <mark key="[" line="12" column="48" />
