@@ -12,12 +12,17 @@
         <entry>/to/in/g</entry>
         <entry encoding="base64">XDxJbmplY3RcPg==</entry>
         <entry encoding="base64">XDwpXD4=</entry>
+        <entry>question</entry>
+        <entry>answer</entry>
       </history-search>
       <history-cmd>
         <entry>%/MYSQL/DB/g</entry>
         <entry>%s/MYSQL/DB/g</entry>
         <entry>%s/=/: /g</entry>
         <entry>s%/to/in/g</entry>
+        <entry>s/question/title/g</entry>
+        <entry>%s/question/title/g</entry>
+        <entry>%s/answer/value/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -66,109 +71,115 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/levelwidth/test.js" timestamp="1586908594099">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="26" column="3" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/public/faq-list.json" timestamp="1587224331592">
+        <mark key="'" line="1" column="2" />
+        <mark key="[" line="9" column="290" />
+        <mark key="]" line="9" column="290" />
+        <mark key="." line="9" column="290" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/Jenkinsfile" timestamp="1587216964892">
-        <mark key="[" line="29" column="50" />
-        <mark key="]" line="29" column="50" />
-        <mark key="." line="29" column="49" />
-        <mark key="^" line="29" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/tree/test.js" timestamp="1586904785370">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="65" column="5" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1587212181098">
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/public/faq-list" timestamp="1587223643851">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/linkedlist/LinkedList.scala" timestamp="1586903819035">
-        <mark key="^" line="45" column="4" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/TopBar.vue" timestamp="1587228561369">
+        <mark key="[" line="60" column="22" />
+        <mark key="]" line="60" column="22" />
+        <mark key="." line="60" column="21" />
+        <mark key="^" line="60" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/conways_game_of_life/build.sbt" timestamp="1586717716543">
-        <mark key="[" line="23" column="58" />
-        <mark key="]" line="23" column="57" />
-        <mark key="." line="23" column="56" />
-        <mark key="^" line="23" column="57" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/public/locale.json" timestamp="1587226055148">
+        <mark key="[" line="28" column="10" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/GraphQL.scala" timestamp="1587141460269">
-        <mark key="[" line="33" column="87" />
-        <mark key="]" line="33" column="107" />
-        <mark key="." line="33" column="106" />
-        <mark key="^" line="33" column="107" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/models/index.ts" timestamp="1587223567744">
+        <mark key="[" line="28" column="58" />
+        <mark key="]" line="28" column="58" />
+        <mark key="." line="28" column="58" />
+        <mark key="^" line="26" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/tree/NodeSpec.scala" timestamp="1586904769081">
-        <mark key="'" line="7" column="25" />
-        <mark key="[" line="26" column="39" />
-        <mark key="]" line="26" column="35" />
-        <mark key="^" line="26" column="35" />
-        <mark key="." line="26" column="34" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/SuccessModal.vue" timestamp="1587227043282">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/OfferForm.vue" timestamp="1586815817435">
-        <mark key="[" line="260" column="21" />
-        <mark key="]" line="260" column="22" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/App.vue" timestamp="1587229192848">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="57" column="15" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/styles/colors.scss" timestamp="1587225098486" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/Faq.vue" timestamp="1587223209523">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="46" />
+        <mark key="^" line="2" column="46" />
+        <mark key="." line="2" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/Logo.vue" timestamp="1587227427549">
+        <mark key="[" line="37" column="26" />
+        <mark key="]" line="38" column="19" />
+        <mark key="." line="38" column="18" />
+        <mark key="^" line="38" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/router.ts" timestamp="1587224135313">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/GetOfferContent.vue" timestamp="1587228223936">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/public/faq-locale" timestamp="1587223623045">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/views/Home.vue" timestamp="1587228603731">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="50" />
+        <mark key="^" line="1" column="50" />
+        <mark key="." line="1" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/OfferForm.vue" timestamp="1587227294697">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="31" />
         <mark key="." line="260" column="21" />
         <mark key="^" line="260" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/conways-game-of-life/conways-game-of-life_ui/build.sbt" timestamp="1586713354977">
-        <mark key="[" line="23" column="58" />
-        <mark key="]" line="23" column="57" />
-        <mark key="^" line="23" column="57" />
-        <mark key="." line="23" column="56" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/views/Faq.vue" timestamp="1587228868846">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="13" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="1" column="13" />
       </file>
-      <file name="/" timestamp="1587149648423">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/services/locale.service.impl.ts" timestamp="1587223752891">
+        <mark key="[" line="3" column="56" />
+        <mark key="]" line="3" column="56" />
+        <mark key="^" line="4" column="30" />
+        <mark key="." line="3" column="56" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/loris_editor/conf/routes" timestamp="1587140896383">
-        <mark key="[" line="12" column="48" />
-        <mark key="]" line="12" column="55" />
-        <mark key="^" line="12" column="55" />
-        <mark key="." line="12" column="54" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/HomeContent.vue" timestamp="1587228682494">
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="10" column="34" />
+        <mark key="^" line="10" column="35" />
       </file>
-      <file name="/sbtShell" timestamp="1587141470197">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/views/GetOffer.vue" timestamp="1587228839266">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="14" />
+        <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/levelwidth/index.js" timestamp="1586908534720">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/tree/TreeSpec.scala" timestamp="1586909480650">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="16" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="41" column="15" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/conways_game_of_life/src/main/scala/com/duncannevin/conways/App.scala" timestamp="1586717339213">
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="7" column="23" />
-        <mark key="." line="7" column="22" />
-        <mark key="^" line="7" column="23" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/loris_editor/build.sbt" timestamp="1587141650323">
-        <mark key="[" line="24" column="88" />
-        <mark key="]" line="24" column="90" />
-        <mark key="^" line="24" column="90" />
-        <mark key="." line="24" column="89" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/tree/Node.scala" timestamp="1586906506628">
-        <mark key="[" line="5" column="62" />
-        <mark key="]" line="5" column="66" />
-        <mark key="^" line="5" column="66" />
-        <mark key="." line="5" column="65" />
-      </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/styles/global.scss" timestamp="1586815550180">
-        <mark key="[" line="118" column="10" />
-        <mark key="]" line="118" column="10" />
-        <mark key="." line="118" column="9" />
-        <mark key="^" line="118" column="10" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/tree/Tree.scala" timestamp="1586909753824">
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="19" column="34" />
-        <mark key="." line="19" column="33" />
-        <mark key="^" line="19" column="34" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/services/locale.service.ts" timestamp="1587224184598">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="18" />
+        <mark key="^" line="18" column="44" />
+        <mark key="." line="18" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -185,61 +196,63 @@
       <jump line="14" column="5" filename="$USER_HOME$/Documents/pragmatic_offers/gateway/src/app.service.ts" />
       <jump line="18" column="58" filename="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/bst/BstSpec.scala" />
       <jump line="7" column="25" filename="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/tree/NodeSpec.scala" />
+      <jump line="35" column="2" filename="$USER_HOME$/Documents/pragmatic_offers/ui/public/faq-list.json" />
+      <jump line="1" column="2" filename="$USER_HOME$/Documents/pragmatic_offers/ui/public/faq-list.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkgICAgICAgICAgIHNzaCAke1BSQUdNQVRJQ19PRkZFUlN9IGNkICR7QVBQX0RJUkVDVE9SWX0K</text>
+        <text encoding="base64">ICBib2R5IHsKICB9Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmIA==</text>
+        <text>url(image.jpg)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwpXD4=</text>
+        <text>answer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkgICAgICAgICAgICBzc2ggJHtQUkFHTUFUSUNfT0ZGRVJTfSBybSAtcmYgJHtBUFBfRElSRUNUT1JZfQo=</text>
+        <text encoding="base64">ICBpbXBvcnQgcm91dGVyIGZyb20gJ0Avcm91dGVyJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkgICAgICAgICAgIHNzaCAke1BSQUdNQVRJQ19PRkZFUlN9IGNkICR7QVBQX0RJUkVDVE9SWX0K</text>
+        <text encoding="base64">ICBib2R5IHsKICB9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtc2l6ZTogY292ZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkgICAgICAgICAgICR7UFJBR01BVElDX09GRkVSU30gcm0gLXJmICR7QVBQX0RJUkVDVE9SWX0K</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtcG9zaXRpb246IHJpZ2h0IGJvdHRvbTsKICAgIGJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldEZ1dHVyZU1lc3NhZ2UoMS5zZWNvbmQpLm1hcCB7IG1zZyA9PiBPayhtc2cpIH0K</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtcG9zaXRpb246IHJpZ2h0IGJvdHRvbTsKICAgIGJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7CiAgICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBkZWYgZ2V0RnV0dXJlTWVzc2FnZShkZWxheVRpbWU6IEZpbml0ZUR1cmF0aW9uKTogRnV0dXJlW1N0cmluZ10gPSB7CiAgICB2YWwgcHJvbWlzZTogUHJvbWlzZVtTdHJpbmddID0gUHJvbWlzZVtTdHJpbmddKCkKICAgIGFjdG9yU3lzdGVtLnNjaGVkdWxlci5zY2hlZHVsZU9uY2UoZGVsYXlUaW1lKSB7CiAgICAgIHByb21pc2Uuc3VjY2VzcygiSGkhIikKICAgIH0oYWN0b3JTeXN0ZW0uZGlzcGF0Y2hlcikgLy8gcnVuIHNjaGVkdWxlZCB0YXNrcyB1c2luZyB0aGUgYWN0b3Igc3lzdGVtJ3MgZGlzcGF0Y2hlcgogICAgcHJvbWlzZS5mdXR1cmUKICB9Cgo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtaW1hZ2U6IDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgLyoqCiAgICogQ3JlYXRlcyBhbiBBY3Rpb24gdGhhdCByZXR1cm5zIGEgcGxhaW4gdGV4dCBtZXNzYWdlIGFmdGVyIGEgZGVsYXkKICAgKiBvZiAxIHNlY29uZC4KICAgKgogICAqIFRoZSBjb25maWd1cmF0aW9uIGluIHRoZSBgcm91dGVzYCBmaWxlIG1lYW5zIHRoYXQgdGhpcyBtZXRob2QKICAgKiB3aWxsIGJlIGNhbGxlZCB3aGVuIHRoZSBhcHBsaWNhdGlvbiByZWNlaXZlcyBhIGBHRVRgIHJlcXVlc3Qgd2l0aAogICAqIGEgcGF0aCBvZiBgL21lc3NhZ2VgLgogICAqLwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIFRoaXMgY29udHJvbGxlciBjcmVhdGVzIGFuIGBBY3Rpb25gIHRoYXQgZGVtb25zdHJhdGVzIGhvdyB0byB3cml0ZQogKiBzaW1wbGUgYXN5bmNocm9ub3VzIGNvZGUgaW4gYSBjb250cm9sbGVyLiBJdCB1c2VzIGEgdGltZXIgdG8KICogYXN5bmNocm9ub3VzbHkgZGVsYXkgc2VuZGluZyBhIHJlc3BvbnNlIGZvciAxIHNlY29uZC4KICoKICogQHBhcmFtIGNjIHN0YW5kYXJkIGNvbnRyb2xsZXIgY29tcG9uZW50cwogKiBAcGFyYW0gYWN0b3JTeXN0ZW0gV2UgbmVlZCB0aGUgYEFjdG9yU3lzdGVtYCdzIGBTY2hlZHVsZXJgIHRvCiAqIHJ1biBjb2RlIGFmdGVyIGEgZGVsYXkuCiAqIEBwYXJhbSBleGVjIFdlIG5lZWQgYW4gYEV4ZWN1dGlvbkNvbnRleHRgIHRvIGV4ZWN1dGUgb3VyCiAqIGFzeW5jaHJvbm91cyBjb2RlLiAgV2hlbiByZW5kZXJpbmcgY29udGVudCwgeW91IHNob3VsZCB1c2UgUGxheSdzCiAqIGRlZmF1bHQgZXhlY3V0aW9uIGNvbnRleHQsIHdoaWNoIGlzIGRlcGVuZGVuY3kgaW5qZWN0ZWQuICBJZiB5b3UgYXJlCiAqIHVzaW5nIGJsb2NraW5nIG9wZXJhdGlvbnMsIHN1Y2ggYXMgZGF0YWJhc2Ugb3IgbmV0d29yayBhY2Nlc3MsIHRoZW4geW91IHNob3VsZAogKiB1c2UgYSBkaWZmZXJlbnQgY3VzdG9tIGV4ZWN1dGlvbiBjb250ZXh0IHRoYXQgaGFzIGEgdGhyZWFkIHBvb2wgY29uZmlndXJlZCBmb3IKICogYSBibG9ja2luZyBBUEkuCiAqLwo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci8qKgp0ZXN0KCdsZXZlbFdpZHRoIHJldHVybnMgbnVtYmVyIG9mIG5vZGVzIGF0IHdpZGVzdCBwb2ludCcsICgpID0+IHsKICBjb25zdCByb290ID0gbmV3IE5vZGUoMCk7CiAgcm9vdC5hZGQoMSk7CiAgcm9vdC5jaGlsZHJlblswXS5hZGQoMik7CiAgcm9vdC5jaGlsZHJlblswXS5hZGQoMyk7CiAgcm9vdC5jaGlsZHJlblswXS5jaGlsZHJlblswXS5hZGQoNCk7CgogIGV4cGVjdChsZXZlbFdpZHRoKHJvb3QpKS50b0VxdWFsKFsxLCAxLCAyLCAxXSk7Cn0pOwogKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Im1kLWxheW91dCBjb250ZW50LXNlY3Rpb24iPgogICAgICA8ZGl2IGNsYXNzPSJtZC1sYXlvdXQtaXRlbSBtZC14c21hbGwtc2l6ZS0xMDAgbWQtc2l6ZS04NSI+CiAgICAgICAgPGFkZHJlc3MtZmllbGQ+PC9hZGRyZXNzLWZpZWxkPgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0ibWQtbGF5b3V0LWl0ZW0gbWQtc2l6ZS0xNSBtZC14c21hbGwtc2l6ZS0xMDAiPgogICAgICAgIDxtZC1idXR0b24gY2xhc3M9Im1kLXJhaXNlZCBtZC1hY2NlbnQiIHRvPSJnZXQtb2ZmZXIiPnt7bG9jYWxlcy5nb319PC9tZC1idXR0b24+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s%/to/in/g</text>
+        <text>%s/answer/value/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDwpXD4=</last-search>
+      <last-search>answer</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
-      <last-replace />
-      <last-substitute>/to/in/g</last-substitute>
+      <last-pattern>answer</last-pattern>
+      <last-replace>value</last-replace>
+      <last-substitute>answer</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>

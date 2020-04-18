@@ -6,6 +6,8 @@
       <mapping pattern="JenkinsFile*" type="Groovy" />
       <mapping pattern="jenkins-verify" type="Groovy" />
       <mapping pattern="Jenkinsfile-verify" type="Groovy" />
+      <mapping pattern="faq-locale" type="JSON" />
+      <mapping pattern="faq-locale.json" type="PLAIN_TEXT" />
       <mapping pattern=".tsconfig" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
