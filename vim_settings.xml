@@ -77,12 +77,6 @@
         <mark key="." line="65" column="17" />
         <mark key="^" line="65" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/store/status-modal/getters.ts" timestamp="1587230081245">
-        <mark key="[" line="4" column="40" />
-        <mark key="]" line="4" column="39" />
-        <mark key="^" line="4" column="39" />
-        <mark key="." line="4" column="38" />
-      </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/GetOfferContent.vue" timestamp="1587233736809">
         <mark key="[" line="56" column="33" />
         <mark key="]" line="57" column="22" />
@@ -95,11 +89,11 @@
         <mark key="^" line="1" column="50" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/views/Faq.vue" timestamp="1587239400607">
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="3" column="33" />
-        <mark key="^" line="3" column="33" />
-        <mark key="." line="3" column="32" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/views/Faq.vue" timestamp="1587240337391">
+        <mark key="[" line="44" column="23" />
+        <mark key="]" line="45" column="21" />
+        <mark key="^" line="45" column="21" />
+        <mark key="." line="45" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/tsconfig.json" timestamp="1587230269523">
         <mark key="[" line="9" column="34" />
