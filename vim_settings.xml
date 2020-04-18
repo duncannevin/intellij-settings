@@ -71,21 +71,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/TopBar.vue" timestamp="1587229389868">
-        <mark key="[" line="47" column="24" />
-        <mark key="]" line="47" column="23" />
-        <mark key="." line="47" column="22" />
-        <mark key="^" line="47" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/models/index.ts" timestamp="1587229819574">
-        <mark key="[" line="30" column="36" />
-        <mark key="]" line="30" column="23" />
-        <mark key="." line="30" column="22" />
-        <mark key="^" line="30" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/SuccessModal.vue" timestamp="1587229555063">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="24" column="3" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/TopBar.vue" timestamp="1587233976771">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/store/status-modal/getters.ts" timestamp="1587230081245">
         <mark key="[" line="4" column="40" />
@@ -93,23 +82,23 @@
         <mark key="^" line="4" column="39" />
         <mark key="." line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/ErrorModal.vue" timestamp="1587229570526">
-        <mark key="[" line="19" column="23" />
-        <mark key="]" line="19" column="27" />
-        <mark key="." line="19" column="26" />
-        <mark key="^" line="19" column="27" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/GetOfferContent.vue" timestamp="1587233736809">
+        <mark key="[" line="56" column="33" />
+        <mark key="]" line="57" column="22" />
+        <mark key="." line="57" column="21" />
+        <mark key="^" line="57" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/views/Home.vue" timestamp="1587228603731">
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/views/Home.vue" timestamp="1587231151702">
         <mark key="[" line="1" column="27" />
-        <mark key="]" line="1" column="50" />
+        <mark key="]" line="1" column="27" />
         <mark key="^" line="1" column="50" />
-        <mark key="." line="1" column="49" />
+        <mark key="." line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/views/Faq.vue" timestamp="1587231015688">
-        <mark key="[" line="58" column="13" />
-        <mark key="]" line="59" column="24" />
-        <mark key="^" line="59" column="24" />
-        <mark key="." line="59" column="23" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/views/Faq.vue" timestamp="1587234311114">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="71" />
+        <mark key="^" line="39" column="19" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/store/status-modal/types.ts" timestamp="1587230029845">
         <mark key="[" line="0" column="24" />
@@ -123,70 +112,79 @@
         <mark key="^" line="9" column="34" />
         <mark key="." line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/public/locale.json" timestamp="1587229513348">
-        <mark key="[" line="28" column="69" />
-        <mark key="]" line="28" column="50" />
-        <mark key="." line="28" column="49" />
-        <mark key="^" line="28" column="50" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/public/faq-list.json" timestamp="1587235036645">
+        <mark key="'" line="1" column="2" />
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="24" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/store/status-modal/index.ts" timestamp="1587230022479">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="14" />
-        <mark key="^" line="4" column="14" />
-        <mark key="." line="4" column="13" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/public/locale.json" timestamp="1587233488408">
+        <mark key="[" line="28" column="18" />
+        <mark key="]" line="28" column="48" />
+        <mark key="." line="28" column="47" />
+        <mark key="^" line="28" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/StatusModal.vue" timestamp="1587230172868">
-        <mark key="[" line="12" column="43" />
-        <mark key="]" line="12" column="42" />
-        <mark key="." line="12" column="41" />
-        <mark key="^" line="12" column="42" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/StatusModal.vue" timestamp="1587234524138">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/App.vue" timestamp="1587230670953">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="63" column="16" />
-        <mark key="^" line="4" column="13" />
-        <mark key="." line="4" column="12" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/services/interceptor.service.ts" timestamp="1587233430477">
+        <mark key="[" line="41" column="31" />
+        <mark key="]" line="41" column="32" />
+        <mark key="." line="41" column="31" />
+        <mark key="^" line="41" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/App.vue" timestamp="1587233212907">
+        <mark key="[" line="39" column="30" />
+        <mark key="]" line="39" column="45" />
+        <mark key="^" line="39" column="45" />
+        <mark key="." line="39" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/Logo.vue" timestamp="1587230552329">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="6" />
         <mark key="." line="26" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/OfferForm.vue" timestamp="1587229958891">
-        <mark key="[" line="244" column="57" />
-        <mark key="]" line="244" column="59" />
-        <mark key="." line="244" column="58" />
-        <mark key="^" line="244" column="59" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/OfferForm.vue" timestamp="1587232964798">
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="0" />
+        <mark key="." line="244" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/store/status-modal/mutations.ts" timestamp="1587230093600">
-        <mark key="[" line="4" column="44" />
-        <mark key="]" line="4" column="43" />
-        <mark key="^" line="4" column="43" />
-        <mark key="." line="4" column="42" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/services/interceptor.service.impl.ts" timestamp="1587233227448">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/HomeContent.vue" timestamp="1587228682494">
-        <mark key="[" line="10" column="37" />
-        <mark key="]" line="10" column="35" />
-        <mark key="." line="10" column="34" />
-        <mark key="^" line="10" column="35" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/store/status-modal/mutations.ts" timestamp="1587234552480">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/views/GetOffer.vue" timestamp="1587228839266">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="15" />
-        <mark key="." line="3" column="14" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/HomeContent.vue" timestamp="1587234061108">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/views/GetOffer.vue" timestamp="1587231141945">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="13" />
+        <mark key="." line="1" column="13" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/store/index.ts" timestamp="1587229980914">
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="7" column="15" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="7" column="14" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/styles/global.scss" timestamp="1587234211950">
+        <mark key="[" line="118" column="11" />
+        <mark key="]" line="118" column="11" />
+        <mark key="^" line="118" column="11" />
+        <mark key="." line="118" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/store/status-modal/actions.ts" timestamp="1587230056667">
-        <mark key="[" line="5" column="40" />
-        <mark key="]" line="5" column="39" />
-        <mark key="^" line="5" column="39" />
-        <mark key="." line="5" column="38" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/store/status-modal/actions.ts" timestamp="1587234628369">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="9" column="38" />
+        <mark key="^" line="9" column="38" />
+        <mark key="." line="9" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -209,44 +207,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>how to</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LmFjY29yZGlvbl9fdmFsdWU6OmFmdGVyLCA=</text>
+        <text>how to</text>
       </register>
       <register name="/" type="4">
         <text>answer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5mYXFfX25hdi1pdGVtLmZhcV9fbmF2LWl0ZW1fYWN0aXZlLAogICAgICAgICAgLmFjY29yZGlvbl9fdGl0bGUuYWNjb3JkaW9uX190aXRsZV9hY3RpdmUgewo=</text>
+        <text encoding="base64">ICBAbWVkaWEgKG1heC13aWR0aDogNTAwcHgpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQ7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaGlkZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQ7Cg==</text>
+        <text encoding="base64">ICAgIAogICAgbW91bnRlZCgpIHsKICAgICAgY29uc29sZS5sb2coKQogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iaGF2ZS1xdWVzdGlvbiI+PGEgaHJlZj0iIyI+SGF2ZSBhIHF1ZXN0aW9uPzwvYT48L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQ7Cg==</text>
+        <text encoding="base64">ICBAbWVkaWEgKG1heC13aWR0aDogMzc1cHgpIHsKICB9CgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5mYXFfX25hdi1pdGVtLmZhcV9fbmF2LWl0ZW1fYWN0aXZlLAogICAgICAgICAgLmFjY29yZGlvbl9fdGl0bGUuYWNjb3JkaW9uX190aXRsZV9hY3RpdmUgewoK</text>
+        <text encoding="base64">ICBAbWVkaWEgKG1heC13aWR0aDogMzc1cHgpIHsKICB9CgoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5mYXFfX25hdi1pdGVtLmZhcV9fbmF2LWl0ZW1fYWN0aXZlLAogICAgICAgICAgLmFjY29yZGlvbl9fdGl0bGUuYWNjb3JkaW9uX190aXRsZV9hY3RpdmUgewo=</text>
+        <text encoding="base64">ICAgIHRvcDogMTAlOwogICAgbGVmdDogMXJlbTsKICAgIHJpZ2h0OiAxcmVtOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogJGFjY2VudC1ibHVlOwo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDNlbTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogJGFjY2VudC1ibHVlOwo=</text>
+        <text encoding="base64">ICAgIEBtZWRpYSAobWF4LXdpZHRoOiAzNzVweCkgewogICAgICBtYXJnaW4tdG9wOiAzZW07CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9wOiAwOwogICAgICAgICAgICBsZWZ0OiAwOwogICAgICAgICAgICBib3R0b206IDA7CiAgICAgICAgICAgIHJpZ2h0OiAwOwogICAgICAgICAgICBwb3NpdGlvbjogYWJzb2x1dGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/answer/value/g</text>
