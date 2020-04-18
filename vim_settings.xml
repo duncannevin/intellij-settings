@@ -71,10 +71,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/TopBar.vue" timestamp="1587233976771">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/TopBar.vue" timestamp="1587237344577">
+        <mark key="[" line="69" column="29" />
+        <mark key="]" line="70" column="34" />
+        <mark key="." line="70" column="33" />
+        <mark key="^" line="70" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/store/status-modal/getters.ts" timestamp="1587230081245">
         <mark key="[" line="4" column="40" />
@@ -142,10 +143,11 @@
         <mark key="^" line="39" column="45" />
         <mark key="." line="39" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/Logo.vue" timestamp="1587230552329">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="6" />
-        <mark key="." line="26" column="6" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/Logo.vue" timestamp="1587236542561">
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="34" column="27" />
+        <mark key="." line="34" column="26" />
+        <mark key="^" line="34" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/OfferForm.vue" timestamp="1587232964798">
         <mark key="[" line="244" column="0" />
@@ -208,10 +210,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>how to</text>
+        <text>start</text>
       </register>
       <register name="-" type="4">
-        <text>how to</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text>answer</text>
@@ -220,31 +222,31 @@
         <text encoding="base64">ICBAbWVkaWEgKG1heC13aWR0aDogNTAwcHgpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaGlkZQo=</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXItYm90dG9tOiAycHggc29saWQgJGFjY2VudC1ibHVlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgbW91bnRlZCgpIHsKICAgICAgY29uc29sZS5sb2coKQogICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iaGF2ZS1xdWVzdGlvbiI+PGEgaHJlZj0iIyI+SGF2ZSBhIHF1ZXN0aW9uPzwvYT48L2Rpdj4K</text>
+        <text encoding="base64">CiAgICAgICAgY29sb3I6ICRwcmltYXJ5LWJsdWU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAbWVkaWEgKG1heC13aWR0aDogMzc1cHgpIHsKICB9CgoK</text>
+        <text encoding="base64">ICAgICAgICAuYWNjZW50IHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAbWVkaWEgKG1heC13aWR0aDogMzc1cHgpIHsKICB9CgoK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbG9yOiAkcHJpbWFyeS1ibHVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRvcDogMTAlOwogICAgbGVmdDogMXJlbTsKICAgIHJpZ2h0OiAxcmVtOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuaGlkZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDNlbTsK</text>
+        <text encoding="base64">ICAgIAogICAgbW91bnRlZCgpIHsKICAgICAgY29uc29sZS5sb2coKQogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBtZWRpYSAobWF4LXdpZHRoOiAzNzVweCkgewogICAgICBtYXJnaW4tdG9wOiAzZW07CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iaGF2ZS1xdWVzdGlvbiI+PGEgaHJlZj0iIyI+SGF2ZSBhIHF1ZXN0aW9uPzwvYT48L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAbWVkaWEgKG1heC13aWR0aDogMzc1cHgpIHsKICB9CgoK</text>
       </register>
       <register name=":" type="4">
         <text>%s/answer/value/g</text>
