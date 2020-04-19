@@ -78,6 +78,12 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/App.vue" timestamp="1587238967529">
+        <mark key="[" line="51" column="29" />
+        <mark key="]" line="51" column="25" />
+        <mark key="^" line="51" column="25" />
+        <mark key="." line="51" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/TopBar.vue" timestamp="1587240085058">
         <mark key="[" line="65" column="18" />
         <mark key="]" line="65" column="18" />
@@ -90,10 +96,19 @@
         <mark key="^" line="33" column="41" />
         <mark key="." line="33" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/StatusModal.vue" timestamp="1587234524138">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/Logo.vue" timestamp="1587238464274">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="34" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="34" column="27" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1587310620602">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/views/welcome.scala.html" timestamp="1587310553558">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/public/index.html" timestamp="1587238958014">
         <mark key="[" line="36" column="33" />
@@ -101,16 +116,45 @@
         <mark key="^" line="36" column="33" />
         <mark key="." line="36" column="32" />
       </file>
+      <file name="/" timestamp="1587310581728">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/convert_flow/Responseflow.scala" timestamp="1587310813406">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/views/Faq.vue" timestamp="1587240337391">
+        <mark key="[" line="44" column="23" />
+        <mark key="]" line="45" column="21" />
+        <mark key="^" line="45" column="21" />
+        <mark key="." line="45" column="20" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/MakeEnvController.scala" timestamp="1587308744424">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="14" column="30" />
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/convert_flow/RequestFlow.scala" timestamp="1587310267585">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/loris_editor/conf/routes" timestamp="1587310522016">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/convert_flow/RequestFlow.scala" timestamp="1587310762269">
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="16" column="37" />
+        <mark key="." line="16" column="36" />
+        <mark key="^" line="16" column="37" />
+      </file>
+      <file name="/sbtShell" timestamp="1587310464413">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/EnvController.scala" timestamp="1587310207087">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/AsyncController.scala" timestamp="1587308659914">
         <mark key="[" line="36" column="0" />
@@ -120,59 +164,11 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/App.vue" timestamp="1587238967529">
-        <mark key="[" line="51" column="29" />
-        <mark key="]" line="51" column="25" />
-        <mark key="^" line="51" column="25" />
-        <mark key="." line="51" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/Logo.vue" timestamp="1587238464274">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="34" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="34" column="27" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1587310384854">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/GetOfferContent.vue" timestamp="1587233736809">
-        <mark key="[" line="56" column="33" />
-        <mark key="]" line="57" column="22" />
-        <mark key="." line="57" column="21" />
-        <mark key="^" line="57" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/store/status-modal/mutations.ts" timestamp="1587234552480">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/views/Faq.vue" timestamp="1587240337391">
-        <mark key="[" line="44" column="23" />
-        <mark key="]" line="45" column="21" />
-        <mark key="^" line="45" column="21" />
-        <mark key="." line="45" column="20" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/loris_editor/conf/routes" timestamp="1587309297130">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="8" column="69" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/EnvController.scala" timestamp="1587310207087">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/HomeContent.vue" timestamp="1587234061108">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/styles/global.scss" timestamp="1587234211950">
-        <mark key="[" line="118" column="11" />
-        <mark key="]" line="118" column="11" />
-        <mark key="^" line="118" column="11" />
-        <mark key="." line="118" column="10" />
+      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/convert_flow/ResponseFlow.scala" timestamp="1587311141382">
+        <mark key="[" line="16" column="82" />
+        <mark key="]" line="16" column="80" />
+        <mark key="^" line="16" column="80" />
+        <mark key="." line="16" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/store/status-modal/actions.ts" timestamp="1587234628369">
         <mark key="[" line="9" column="39" />
@@ -202,10 +198,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBvYmplY3QgV1NSZXF1ZXN0IHsKICAgIAogIH0KCg==</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkubXZjLkJvZHlQYXJzZXIuSnNvbgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNhc2Ug</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>answer</text>
@@ -214,31 +210,31 @@
         <text encoding="base64">ICBkZWYgbWVzc2FnZSA9IEFjdGlvbi5hc3luYyB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBvYmplY3QgV1NSZXF1ZXN0IHsKICAgIAogIH0KCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjYXNlIGNsYXNzIEZvbygpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHBsYXkubXZjLkJvZHlQYXJzZXIuSnNvbgo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8YSBocmVmPSJAcm91dGVzLkNvdW50Q29udHJvbGxlci5jb3VudCI+Q2xpY2sgaGVyZSBmb3IgdGhlIENvdW50Q29udHJvbGxlciBhY3Rpb24hPC9hPgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8YSBocmVmPSJAcm91dGVzLkFzeW5jQ29udHJvbGxlci5tZXNzYWdlIj5DbGljayBoZXJlIGZvciB0aGUgQXN5bmNDb250cm9sbGVyIGFjdGlvbiE8L2E+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">UE9TVCAgICAvbWFrZWVudiAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuRW52Q29udHJvbGxlci5tYWtlRW52Cgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvYmplY3QgV1NSZXF1ZXN0IHt9Cg==</text>
+        <text encoding="base64">ICBvYmplY3QgV1NSZXF1ZXN0IHsKICAgIAogIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2FzZSBjbGFzcyBXU1JlcXVlc3QoYWN0aW9uOiBTdHJpbmcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjYXNlIGNsYXNzIFdTUmVxdWVzdChhY3Rpb246IFN0cmluZykK</text>
+        <text encoding="base64">ICBjYXNlIGNsYXNzIEZvbygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgV1NSZXF1ZXN0Lgo=</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkubXZjLkJvZHlQYXJzZXIuSnNvbgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBvYmplY3QgV1NSZXF1ZXN0IHt9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/answer/value/g</text>
