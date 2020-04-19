@@ -137,10 +137,16 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/loris_editor/conf/routes" timestamp="1587310522016">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/loris_editor/conf/routes" timestamp="1587311929903">
+        <mark key="[" line="6" column="68" />
+        <mark key="]" line="8" column="68" />
+        <mark key="." line="8" column="67" />
+        <mark key="^" line="8" column="68" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/WSController.scala" timestamp="1587313172378">
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/loris_editor/app/convert_flow/RequestFlow.scala" timestamp="1587311846253">
         <mark key="[" line="17" column="12" />
@@ -148,11 +154,11 @@
         <mark key="." line="17" column="11" />
         <mark key="^" line="17" column="12" />
       </file>
-      <file name="/sbtShell" timestamp="1587310464413">
+      <file name="/sbtShell" timestamp="1587312052871">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/EnvController.scala" timestamp="1587311834906">
-        <mark key="[" line="20" column="38" />
+      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/EnvController.scala" timestamp="1587311946335">
+        <mark key="[" line="13" column="7" />
         <mark key="]" line="20" column="39" />
         <mark key="." line="20" column="38" />
         <mark key="^" line="20" column="39" />
@@ -170,12 +176,6 @@
         <mark key="]" line="16" column="80" />
         <mark key="^" line="16" column="80" />
         <mark key="." line="16" column="79" />
-      </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/store/status-modal/actions.ts" timestamp="1587234628369">
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="9" column="38" />
-        <mark key="^" line="9" column="38" />
-        <mark key="." line="9" column="37" />
       </file>
     </filemarks>
     <jumps>
