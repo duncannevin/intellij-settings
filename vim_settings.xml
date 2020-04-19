@@ -116,7 +116,7 @@
         <mark key="^" line="36" column="33" />
         <mark key="." line="36" column="32" />
       </file>
-      <file name="/" timestamp="1587310581728">
+      <file name="/" timestamp="1587328097756">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/loris_editor/app/convert_flow/Responseflow.scala" timestamp="1587310813406">
@@ -148,11 +148,11 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/convert_flow/RequestFlow.scala" timestamp="1587311846253">
-        <mark key="[" line="19" column="12" />
-        <mark key="]" line="19" column="12" />
-        <mark key="." line="19" column="11" />
-        <mark key="^" line="19" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/convert_flow/RequestFlow.scala" timestamp="1587328014742">
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="8" column="44" />
+        <mark key="." line="8" column="44" />
+        <mark key="^" line="17" column="12" />
       </file>
       <file name="/sbtShell" timestamp="1587312052871">
         <mark key="[" line="0" column="0" />
@@ -199,7 +199,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>requestHeader: RequestHeader</text>
+        <text encoding="base64">IHsKICAgIG92ZXJyaWRlIGRlZiBlcXVhbHModGhhdDogQW55KTogQm9vbGVhbiA9ID8/PwogIH0=</text>
       </register>
       <register name="-" type="4">
         <text>requestHeader: RequestHeader</text>
@@ -210,32 +210,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBkZWYgbWVzc2FnZSA9IEFjdGlvbi5hc3luYyB7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHsKICAgIG92ZXJyaWRlIGRlZiBlcXVhbHModGhhdDogQW55KTogQm9vbGVhbiA9ID8/PwogIH0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgZGVmIGFwcGx5KHJlcXVlc3Q6IFJlcXVlc3RIZWFkZXIpOiBGbG93W0pzVmFsdWVdID0gPz8/IHt9Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgZm9vOiBXZWJTb2NrZXQgPSBSZXNwb25zZUZsb3coKQoK</text>
+        <text encoding="base64">CiAgZGVmIGFwcGx5KHJlcXVlc3Q6IFJlcXVlc3RIZWFkZXIpOiBGbG93W0pzVmFsdWVdID0gPz8/IHt9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkubXZjLkJvZHlQYXJzZXIuSnNvbgo=</text>
+        <text encoding="base64">ICBkZWYgZm9vOiBXZWJTb2NrZXQgPSBSZXNwb25zZUZsb3coKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBocmVmPSJAcm91dGVzLkNvdW50Q29udHJvbGxlci5jb3VudCI+Q2xpY2sgaGVyZSBmb3IgdGhlIENvdW50Q29udHJvbGxlciBhY3Rpb24hPC9hPgo=</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkubXZjLkJvZHlQYXJzZXIuSnNvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBocmVmPSJAcm91dGVzLkFzeW5jQ29udHJvbGxlci5tZXNzYWdlIj5DbGljayBoZXJlIGZvciB0aGUgQXN5bmNDb250cm9sbGVyIGFjdGlvbiE8L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YSBocmVmPSJAcm91dGVzLkNvdW50Q29udHJvbGxlci5jb3VudCI+Q2xpY2sgaGVyZSBmb3IgdGhlIENvdW50Q29udHJvbGxlciBhY3Rpb24hPC9hPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UE9TVCAgICAvbWFrZWVudiAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuRW52Q29udHJvbGxlci5tYWtlRW52Cgo=</text>
+        <text encoding="base64">ICAgICAgICA8YSBocmVmPSJAcm91dGVzLkFzeW5jQ29udHJvbGxlci5tZXNzYWdlIj5DbGljayBoZXJlIGZvciB0aGUgQXN5bmNDb250cm9sbGVyIGFjdGlvbiE8L2E+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBvYmplY3QgV1NSZXF1ZXN0IHsKICAgIAogIH0KCg==</text>
+        <text encoding="base64">UE9TVCAgICAvbWFrZWVudiAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuRW52Q29udHJvbGxlci5tYWtlRW52Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvYmplY3QgV1NSZXF1ZXN0IHsKICAgIAogIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/answer/value/g</text>
