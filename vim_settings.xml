@@ -77,11 +77,11 @@
         <mark key="^" line="33" column="41" />
         <mark key="." line="33" column="40" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/actors/WSActor.scala" timestamp="1587385960411">
-        <mark key="[" line="9" column="37" />
-        <mark key="]" line="9" column="41" />
-        <mark key="." line="9" column="40" />
-        <mark key="^" line="9" column="41" />
+      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/actors/WSActor.scala" timestamp="1587386176646">
+        <mark key="[" line="11" column="3" />
+        <mark key="]" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+        <mark key="^" line="10" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/MakeEnvController.scala" timestamp="1587308744424">
         <mark key="[" line="9" column="7" />
@@ -89,11 +89,11 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/WSController.scala" timestamp="1587385934624">
-        <mark key="[" line="23" column="11" />
-        <mark key="]" line="21" column="65" />
-        <mark key="." line="21" column="65" />
-        <mark key="^" line="21" column="67" />
+      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/WSController.scala" timestamp="1587386137580">
+        <mark key="[" line="24" column="37" />
+        <mark key="]" line="24" column="43" />
+        <mark key="." line="24" column="42" />
+        <mark key="^" line="24" column="43" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/loris_editor/app/convert_flow/RequestFlow.scala" timestamp="1587330945360">
         <mark key="[" line="5" column="0" />
@@ -197,10 +197,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">eyBfID0+CiAgfQ==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>answer</text>
