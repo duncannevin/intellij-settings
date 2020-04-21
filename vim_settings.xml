@@ -66,6 +66,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -88,11 +91,11 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/WSController.scala" timestamp="1587400644541">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="18" column="74" />
-        <mark key="." line="18" column="47" />
-        <mark key="^" line="18" column="48" />
+      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/WSController.scala" timestamp="1587500402295">
+        <mark key="[" line="18" column="101" />
+        <mark key="]" line="18" column="101" />
+        <mark key="." line="18" column="101" />
+        <mark key="^" line="18" column="111" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/loris_editor/app/convert_flow/RequestFlow.scala" timestamp="1587330945360">
         <mark key="[" line="5" column="0" />
@@ -195,11 +198,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWYgYXBwbHkoKSA9IEFjdG9yRmxvdy5hY3RvclJlZiB7IG91dCA9PgogICAgUHJvcHMobmV3IFdTQWN0b3Iob3V0KSkKICB9Cgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">d2l0aCBBY3RvciA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiBXU0FjdG9yIA==</text>
+        <text encoding="base64">d2l0aCBBY3RvciA=</text>
       </register>
       <register name="/" type="4">
         <text>answer</text>
@@ -208,31 +211,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbXBsaWNpdCB2YWwgYWN0b3JTeXN0ZW06IEFjdG9yU3lzdGVtLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGltcGxpY2l0IHZhbCBtYXRlcmlhbGl6ZXI6IE1hdGVyaWFsaXplcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgYXBwbHkoKSA9IEFjdG9yRmxvdy5hY3RvclJlZiB7IG91dCA9PgogICAgUHJvcHMobmV3IFdTQWN0b3Iob3V0KSkKICB9Cgo=</text>
+        <text encoding="base64">CiAgb3ZlcnJpZGUgZGVmIHJlY2VpdmU6IFJlY2VpdmUgPSA/Pz8K</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICBkZWYgYXBwbHkoKSA9IEFjdG9yRmxvdy5hY3RvclJlZiB7IG91dCA9PgogICAgUHJvcHMobmV3IFdTQWN0b3Iob3V0KSkKICB9Cgo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgYWN0b3JTeXN0ZW06IEFjdG9yU3lzdGVtID0gQWN0b3JTeXN0ZW0oKQogIGltcGxpY2l0IHZhbCBtYXRlcmlhbGl6ZXI6IE1hdGVyaWFsaXplciA9IE1hdGVyaWFsaXplcigpCgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">UHJvcHN7IG91dCA9PgogICAgbmV3IFdTQWN0b3Iob3V0KQogIH0=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">eyBfID0+CiAgfQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIEFjdG9yRmxvdy5hY3RvclJlZnsgb3V0ID0+Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIFByb3BzKG5ldyBXU0FjdG9yKG91dCkpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG5ldyBXU0FjdG9yKG91dCkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgcHJvcHMob3V0OiBBY3RvclJlZik6IFByb3BzID0gUHJvcHMgewogICAgbmV3IFdTQWN0b3Iob3V0KQogIH0K</text>
+        <text encoding="base64">ICAgIG5ldyBXU0FjdG9yKG91dCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/answer/value/g</text>
