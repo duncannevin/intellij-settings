@@ -74,13 +74,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/GraphQL.result.json" timestamp="1587507040338">
+      <file name="/GraphQL.result.json" timestamp="1587507254118">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/loris_editor/app/views/welcome.scala.html" timestamp="1587310553558">
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/tarsier/build.sbt" timestamp="1587507294783">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/components/GetOfferContent.vue" timestamp="1587330305945">
         <mark key="[" line="55" column="17" />
@@ -107,11 +113,11 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/views/Faq.vue" timestamp="1587240337391">
-        <mark key="[" line="44" column="23" />
-        <mark key="]" line="45" column="21" />
-        <mark key="^" line="45" column="21" />
-        <mark key="." line="45" column="20" />
+      <file name="$USER_HOME$/IdeaProjects/tarsier/README.md" timestamp="1587507945996">
+        <mark key="[" line="8" column="100" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="4" column="8" />
+        <mark key="^" line="4" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/MakeEnvController.scala" timestamp="1587308744424">
         <mark key="[" line="9" column="7" />
@@ -157,14 +163,6 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/AsyncController.scala" timestamp="1587308659914">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="30" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/HomeController.scala" timestamp="1587308584915">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="89" />
-      </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/styles/global.scss" timestamp="1587330745610">
         <mark key="[" line="170" column="0" />
         <mark key="]" line="170" column="0" />
@@ -176,6 +174,12 @@
         <mark key="]" line="16" column="80" />
         <mark key="^" line="16" column="80" />
         <mark key="." line="16" column="79" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/tarsier/LICENSE" timestamp="1587507341394">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -198,11 +202,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>scala-play-react-seed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>scala-play-react-seed</text>
+        <text encoding="base64">VXNlIHBsYXkgZnJhbWV3b3JrIHRvIGRldmVsb3AgdGhlIHdlYiBhcHBsaWNhdGlvbiBiYWNrZW5kL3NlcnZpY2VzIGFuZCBmcm9udGVuZCB1c2luZyBSZWFjdCBDcmVhdGUgQXBwLCBhbGwgaW4gYSB0b3RhbGx5IGludGVncmF0ZWQgd29ya2Zsb3cgYW5kIHNpbmdsZSB1bmlmaWVkIGNvbnNvbGUuIFRoaXMgYXBwcm9hY2ggd2lsbCBkZWxpdmVyIHBlcmZlY3QgZGV2ZWxvcG1lbnQgZXhwZXJpZW5jZSB3aXRob3V0IENPUlMgaGFzc2xlLiA=</text>
       </register>
       <register name="/" type="4">
         <text>answer</text>
@@ -211,31 +215,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbXBsaWNpdCB2YWwgYWN0b3JTeXN0ZW06IEFjdG9yU3lzdGVtLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGltcGxpY2l0IHZhbCBtYXRlcmlhbGl6ZXI6IE1hdGVyaWFsaXplcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgb3ZlcnJpZGUgZGVmIHJlY2VpdmU6IFJlY2VpdmUgPSA/Pz8K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgYXBwbHkoKSA9IEFjdG9yRmxvdy5hY3RvclJlZiB7IG91dCA9PgogICAgUHJvcHMobmV3IFdTQWN0b3Iob3V0KSkKICB9Cgo=</text>
+        <text encoding="base64">IVthbHQgdGV4dF0odWkvcHVibGljL3RhcnNpZXItaW1nLmpwZykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgYWN0b3JTeXN0ZW06IEFjdG9yU3lzdGVtID0gQWN0b3JTeXN0ZW0oKQogIGltcGxpY2l0IHZhbCBtYXRlcmlhbGl6ZXI6IE1hdGVyaWFsaXplciA9IE1hdGVyaWFsaXplcigpCgo=</text>
+        <text encoding="base64">WyFbU2NhbGEgUGxheSBSZWFjdCBTZWVkXShodHRwczovL2dpdGh1Yi5jb20veW9oYW5nei9zY2FsYS1wbGF5LXJlYWN0LXNlZWQvYmxvYi9tYXN0ZXIvcmVhY3QucG5nKV0oaHR0cDovL2JpdC5seS8yQTFBekVxKQoK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">UHJvcHN7IG91dCA9PgogICAgbmV3IFdTQWN0b3Iob3V0KQogIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">IAoKUmVhZCBtb3JlIEAgaHR0cDovL2JpdC5seS8yQTFBekVxCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">eyBfID0+CiAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">PiBUaGUgZ29hbCBvZiBldmVyeSBkZXZlbG9wZXIgaXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFjdG9yRmxvdy5hY3RvclJlZnsgb3V0ID0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">WyFbTUlUIExpY2Vuc2VdW2xpY2Vuc2UtYmFkZ2VdXVtMSUNFTlNFXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFByb3BzKG5ldyBXU0FjdG9yKG91dCkpCg==</text>
+        <text encoding="base64">CiAgb3ZlcnJpZGUgZGVmIHJlY2VpdmU6IFJlY2VpdmUgPSA/Pz8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5ldyBXU0FjdG9yKG91dCkK</text>
+        <text encoding="base64">ICBkZWYgYXBwbHkoKSA9IEFjdG9yRmxvdy5hY3RvclJlZiB7IG91dCA9PgogICAgUHJvcHMobmV3IFdTQWN0b3Iob3V0KSkKICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/answer/value/g</text>
