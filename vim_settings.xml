@@ -74,47 +74,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/pragmatic_offers/ui/public/locale.json" timestamp="1587240247047">
-        <mark key="[" line="33" column="12" />
-        <mark key="]" line="33" column="41" />
-        <mark key="^" line="33" column="41" />
-        <mark key="." line="33" column="40" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/actors/WSActor.scala" timestamp="1587400675826">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/MakeEnvController.scala" timestamp="1587308744424">
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="14" column="30" />
-        <mark key="." line="14" column="29" />
-        <mark key="^" line="14" column="30" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/WSController.scala" timestamp="1587500402295">
-        <mark key="[" line="18" column="101" />
-        <mark key="]" line="18" column="101" />
-        <mark key="." line="18" column="101" />
-        <mark key="^" line="18" column="111" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/convert_flow/RequestFlow.scala" timestamp="1587330945360">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="16" column="12" />
-      </file>
-      <file name="/sbtShell" timestamp="1587328318650">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/AsyncController.scala" timestamp="1587308659914">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="30" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/HomeController.scala" timestamp="1587308584915">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="89" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1587506503093">
+      <file name="/GraphQL.result.json" timestamp="1587506538939">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/loris_editor/app/views/welcome.scala.html" timestamp="1587310553558">
@@ -133,6 +93,11 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/actors/WSActor.scala" timestamp="1587400675826">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="/" timestamp="1587328097756">
         <mark key="[" line="0" column="0" />
       </file>
@@ -148,11 +113,38 @@
         <mark key="^" line="45" column="21" />
         <mark key="." line="45" column="20" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/MakeEnvController.scala" timestamp="1587308744424">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="29" />
+        <mark key="^" line="14" column="30" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/loris_editor/conf/routes" timestamp="1587311929903">
         <mark key="[" line="6" column="68" />
         <mark key="]" line="8" column="68" />
         <mark key="." line="8" column="67" />
         <mark key="^" line="8" column="68" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/loris_edit/build.sbt" timestamp="1587506833401">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="14" />
+        <mark key="^" line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/WSController.scala" timestamp="1587500402295">
+        <mark key="[" line="18" column="101" />
+        <mark key="]" line="18" column="101" />
+        <mark key="." line="18" column="101" />
+        <mark key="^" line="18" column="111" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/convert_flow/RequestFlow.scala" timestamp="1587330945360">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="16" column="12" />
+      </file>
+      <file name="/sbtShell" timestamp="1587506730841">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/EnvController.scala" timestamp="1587311946335">
         <mark key="[" line="13" column="7" />
@@ -164,6 +156,14 @@
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/AsyncController.scala" timestamp="1587308659914">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="30" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/loris_editor/app/controllers/HomeController.scala" timestamp="1587308584915">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="89" />
       </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/ui/src/styles/global.scss" timestamp="1587330745610">
         <mark key="[" line="170" column="0" />
@@ -199,10 +199,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">d2l0aCBBY3RvciA=</text>
+        <text>scala-play-react-seed</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2l0aCBBY3RvciA=</text>
+        <text>scala-play-react-seed</text>
       </register>
       <register name="/" type="4">
         <text>answer</text>
