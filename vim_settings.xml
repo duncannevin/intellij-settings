@@ -74,24 +74,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/.gitignore" timestamp="1587515631670">
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="10" column="7" />
-        <mark key="^" line="10" column="7" />
-        <mark key="." line="10" column="6" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/ui/src/router.ts" timestamp="1587514856691">
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="24" column="21" />
-        <mark key="." line="24" column="20" />
-        <mark key="^" line="24" column="21" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/ui/src/store/todo/types.ts" timestamp="1587513629381">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="23" />
-        <mark key="." line="13" column="22" />
-        <mark key="^" line="13" column="23" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/tarsier/ui/src/views/Todo.vue" timestamp="1587515274852">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="4" />
@@ -104,21 +86,6 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="33" column="14" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/conf/routes" timestamp="1587523175946">
-        <mark key="[" line="10" column="70" />
-        <mark key="]" line="10" column="81" />
-        <mark key="." line="10" column="80" />
-        <mark key="^" line="10" column="81" />
-      </file>
-      <file name="/sbtShell" timestamp="1587520168348">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/ui/src/store/todo/index.ts" timestamp="1587513206019">
-        <mark key="[" line="7" column="33" />
-        <mark key="]" line="8" column="10" />
-        <mark key="^" line="8" column="10" />
-        <mark key="." line="8" column="9" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/tarsier/app/controllers/TodoController.scala" timestamp="1587523202560">
         <mark key="'" line="58" column="1" />
         <mark key="[" line="34" column="45" />
@@ -126,17 +93,8 @@
         <mark key="." line="34" column="45" />
         <mark key="^" line="34" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/ui/vue.config.js" timestamp="1587515016232">
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="2" column="33" />
-        <mark key="." line="2" column="32" />
-        <mark key="^" line="2" column="33" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/ui/src/store/todo/actions.ts" timestamp="1587514587931">
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="6" column="24" />
-        <mark key="^" line="6" column="25" />
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/mutable_linkedlist/LinkedListSpec.scala" timestamp="1587592943954">
+        <mark key="[" line="5" column="6" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tarsier/ui/src/store/index.ts" timestamp="1587515198017">
         <mark key="[" line="14" column="13" />
@@ -149,6 +107,51 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/linkedlist/LinkedList.scala" timestamp="1587593299856">
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/tarsier/ui/src/store/todo/getters.ts" timestamp="1587514707564">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/tarsier/.gitignore" timestamp="1587515631670">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="6" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/tarsier/ui/src/router.ts" timestamp="1587514856691">
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="24" column="21" />
+        <mark key="." line="24" column="20" />
+        <mark key="^" line="24" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/linkedlist/LinkedListSpec.scala" timestamp="1587593088084">
+        <mark key="'" line="201" column="1" />
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+        <mark key="^" line="5" column="2" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/tarsier/conf/routes" timestamp="1587523175946">
+        <mark key="[" line="10" column="70" />
+        <mark key="]" line="10" column="81" />
+        <mark key="." line="10" column="80" />
+        <mark key="^" line="10" column="81" />
+      </file>
+      <file name="/sbtShell" timestamp="1587520168348">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/tarsier/ui/vue.config.js" timestamp="1587515016232">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="33" />
+        <mark key="." line="2" column="32" />
+        <mark key="^" line="2" column="33" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1587587305439">
         <mark key="[" line="0" column="0" />
@@ -164,16 +167,11 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/ui/src/store/todo/getters.ts" timestamp="1587514707564">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/ui/src/store/todo/mutations.ts" timestamp="1587514062999">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="25" />
-        <mark key="." line="5" column="24" />
-        <mark key="^" line="5" column="25" />
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/mutable_linkedlist/MutableLinkedListSpec.scala" timestamp="1587593013600">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="201" column="3" />
+        <mark key="^" line="5" column="29" />
+        <mark key="." line="5" column="28" />
       </file>
       <file name="/fragment.java" timestamp="1587516108248">
         <mark key="[" line="0" column="0" />
@@ -196,61 +194,62 @@
       <jump line="35" column="2" filename="$USER_HOME$/Documents/pragmatic_offers/ui/public/faq-list.json" />
       <jump line="1" column="2" filename="$USER_HOME$/Documents/pragmatic_offers/ui/public/faq-list.json" />
       <jump line="58" column="1" filename="$USER_HOME$/IdeaProjects/tarsier/app/controllers/TodoController.scala" />
+      <jump line="201" column="1" filename="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/linkedlist/LinkedListSpec.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>one</text>
+        <text>Mutable</text>
       </register>
       <register name="-" type="4">
-        <text>one</text>
+        <text>Mutable</text>
       </register>
       <register name="/" type="4">
-        <text>answer</text>
+        <text>MutableLinkedList</text>
       </register>
-      <register name="0" type="4">
-        <text>TodoUpdate(None, None, None, Some(done))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAiSW5zZXJ0IEZpcnN0IiBzaG91bGQgImFwcGVuZCBhIG5vZGUgdG8gdGhlIHN0YXJ0IG9mIHRoZSBsaXN0IiBpbiB7CiAgICB2YWwgbGwgPSBuZXcgTXV0YWJsZUxpbmtlZExpc3RbSW50XQogICAgbGwuaW5zZXJ0Rmlyc3QoMSkKCiAgICBhc3NlcnQobGwuZ2V0Rmlyc3QuZGF0YSA9PSAxKQogIH0KCiAgIkluc2VydCBGaXJzdCIgc2hvdWxkICJpbnNlcnQgYSBub2RlIHRvIHRoZSBzdGFydCBvZiBhIGxpc3Qgd2l0aCB0aGUgaGVhZCBhbHJlYWR5IGRlZmluZWQiIGluIHsKICAgIHZhbCBsbCA9IG5ldyBNdXRhYmxlTGlua2VkTGlzdFtJbnRdCiAgICBsbC5pbnNlcnRGaXJzdCgxKQogICAgbGwuaW5zZXJ0Rmlyc3QoMikKICAgIGxsLmluc2VydEZpcnN0KDMpCgogICAgYXNzZXJ0KGxsLmdldEZpcnN0LmRhdGEgPT0gMykKICAgIGFzc2VydChsbC5nZXRGaXJzdC5nZXROZXh0LmRhdGEgPT0gMikKICAgIGFzc2VydChsbC5nZXRGaXJzdC5nZXROZXh0LmdldE5leHQuZGF0YSA9PSAxKQogIH0KCiAgIlNpemUiIHNob3VsZCAicmV0dXJuIDAgZm9yIG5vIGl0ZW1zIiBpbiB7CiAgICAgIHZhbCBsbCA9IG5ldyBNdXRhYmxlTGlua2VkTGlzdFtJbnRdCgogICAgICBhc3NlcnQobGwuc2l6ZSA9PSAwKQogIH0KCiAgIlNpemUiIHNob3VsZCAicmV0dXJuIDEgZm9yIGEgc2luZ2xlIGl0ZW0iIGluIHsKICAgIHZhbCBsbCA9IG5ldyBNdXRhYmxlTGlua2VkTGlzdFtJbnRdCiAgICBsbC5pbnNlcnRGaXJzdCgxKQoKICAgIGFzc2VydChsbC5zaXplID09IDEpCiAgfQoKICAiU2l6ZSIgc2hvdWxkICJyZXR1cm4gdGhlIG51bWJlciBvZiBpdGVtcyBpbiB0aGUgbGlua2VkIGxpc3QiIGluIHsKICAgIHZhbCBsbCA9IG5ldyBNdXRhYmxlTGlua2VkTGlzdFtJbnRdCiAgICBsbC5pbnNlcnRGaXJzdCgxKQogICAgbGwuaW5zZXJ0Rmlyc3QoMSkKICAgIGxsLmluc2VydEZpcnN0KDEpCiAgICBsbC5pbnNlcnRGaXJzdCgxKQogICAgbGwuaW5zZXJ0Rmlyc3QoMSkKCiAgICBhc3NlcnQobGwuc2l6ZSA9PSA1KQogIH0KCiAgIkdldCBGaXJzdCIgc2hvdWxkICJyZXR1cm4gdGhlIGZpcnN0IGVsZW1lbnQiIGluIHsKICAgIHZhbCBsbCA9IG5ldyBNdXRhYmxlTGlua2VkTGlzdFtJbnRdCiAgICBsbC5pbnNlcnRGaXJzdCgxKQoKICAgIGFzc2VydChsbC5nZXRGaXJzdC5kYXRhID09IDEpCiAgfQoKICAiR2V0IEZpcnN0IiBzaG91bGQgInJldHVybiB0aGUgZmlyc3QgZWxlbWVudCB3aGVuIG11bHRpcGxlIGVsZW1lbnRzIGFkZGVkIiBpbiB7CiAgICB2YWwgbGwgPSBuZXcgTXV0YWJsZUxpbmtlZExpc3RbSW50XQogICAgbGwuaW5zZXJ0Rmlyc3QoMSkKICAgIGxsLmluc2VydEZpcnN0KDIpCgogICAgYXNzZXJ0KGxsLmdldEZpcnN0LmRhdGEgPT0gMikKICB9CgogICJHZXQgTGFzdCIgc2hvdWxkICJyZXR1cm4gdGhlIGxhc3QgZWxlbWVudCB3aGVuIHRoZXJlIGlzIGEgc2luZ2xlIGVsZW1lbnQiIGluIHsKICAgIHZhbCBsbCA9IG5ldyBNdXRhYmxlTGlua2VkTGlzdFtJbnRdCiAgICBsbC5pbnNlcnRGaXJzdCgxKQoKICAgIGFzc2VydChsbC5nZXRMYXN0LmRhdGEgPT0gMSkKICB9CgogICJHZXQgTGFzdCIgc2hvdWxkICJyZXR1cm4gdGhlIGxhc3QgZWxlbWVudCB3aGVuIHRoZXJlIGFyZSBtdWx0aXBsZSBlbGVtZW50cyIgaW4gewogICAgdmFsIGxsID0gbmV3IE11dGFibGVMaW5rZWRMaXN0W0ludF0KICAgIGxsLmluc2VydEZpcnN0KDEpCiAgICBsbC5pbnNlcnRGaXJzdCgyKQogICAgbGwuaW5zZXJ0Rmlyc3QoMykKICAgIGxsLmluc2VydEZpcnN0KDQpCiAgICBsbC5pbnNlcnRGaXJzdCg1KQoKICAgIGFzc2VydChsbC5nZXRMYXN0LmRhdGEgPT0gMSkKICB9CgogICJDbGVhciIgc2hvdWxkICJjbGVhciBvdXQgdGhlIGxpc3QiIGluIHsKICAgIHZhbCBsbCA9IG5ldyBNdXRhYmxlTGlua2VkTGlzdFtJbnRdCiAgICBsbC5pbnNlcnRGaXJzdCgxKQogICAgbGwuaW5zZXJ0Rmlyc3QoMikKICAgIGxsLmluc2VydEZpcnN0KDMpCiAgICBsbC5pbnNlcnRGaXJzdCg0KQogICAgbGwuaW5zZXJ0Rmlyc3QoNSkKICAgIGxsLmluc2VydEZpcnN0KDYpCiAgICBsbC5pbnNlcnRGaXJzdCg3KQoKICAgIGFzc2VydChsbC5zaXplID09IDcpCiAgICBsbC5jbGVhcigpCiAgICBhc3NlcnQobGwuc2l6ZSA9PSAwKQogIH0KCiAgIlJlbW92ZSBGaXJzdCIgc2hvdWxkICJyZW1vdmUgdGhlIGZpcnN0IG5vZGUgd2hlbiB0aGUgbGlzdCBoYXMgYSBzaXplIG9mIG9uZSIgaW4gewogICAgdmFsIGxsID0gbmV3IE11dGFibGVMaW5rZWRMaXN0W1N0cmluZ10KICAgIGxsLmluc2VydEZpcnN0KCJhIikKICAgIGxsLnJlbW92ZUZpcnN0KCkKCiAgICBhc3NlcnQobGwuc2l6ZSA9PSAwKQogICAgYXNzZXJ0KGxsLmdldEZpcnN0ID09IG51bGwpCiAgfQoKICAiUmVtb3ZlIEZpcnN0IiBzaG91bGQgInJlbW92ZSB0aGUgZmlyc3Qgbm9kZSB3aGVuIHRoZSBsaXN0IGhhcyBhIHNpemUgb2YgdGhyZWUiIGluIHsKICAgIHZhbCBsbCA9IG5ldyBNdXRhYmxlTGlua2VkTGlzdFtDaGFyXQogICAgbGwuaW5zZXJ0Rmlyc3QoJ2MnKQogICAgbGwuaW5zZXJ0Rmlyc3QoJ2InKQogICAgbGwuaW5zZXJ0Rmlyc3QoJ2EnKQogICAgbGwucmVtb3ZlRmlyc3QoKQoKICAgIGFzc2VydChsbC5zaXplID09IDIpCiAgICBhc3NlcnQobGwuZ2V0Rmlyc3QuZGF0YSA9PSAnYicpCgogICAgbGwucmVtb3ZlRmlyc3QoKQoKICAgIGFzc2VydChsbC5nZXRGaXJzdC5kYXRhID09ICdjJykKICAgIGFzc2VydChsbC5zaXplID09IDEpCiAgfQoKICAiUmVtb3ZlIExhc3QiIHNob3VsZCAicmVtb3ZlIHRoZSBsYXN0IG5vZGUgd2hlbiB0aGUgbGlzdCBpcyBlbXB0eSIgaW4gewogICAgdmFsIGxsID0gbmV3IE11dGFibGVMaW5rZWRMaXN0W0NoYXJdCgogICAgbm9FeGNlcHRpb24gc2hvdWxkIGJlIHRocm93bkJ5IGxsLnJlbW92ZUxhc3QoKQogIH0KCiAgIlJlbW92ZSBMYXN0IiBzaG91bGQgInJlbW92ZSB0aGUgbGFzdCBub2RlIHdoZW4gdGhlIGxpc3QgaXMgbGVuZ3RoIDEiIGluIHsKICAgIHZhbCBsbCA9IG5ldyBNdXRhYmxlTGlua2VkTGlzdFtDaGFyXQogICAgbGwuaW5zZXJ0Rmlyc3QoJ2EnKQogICAgbGwucmVtb3ZlTGFzdCgpCgogICAgYXNzZXJ0KGxsLmdldEZpcnN0ID09IG51bGwpCiAgfQoKICAiUmVtb3ZlIExhc3QiIHNob3VsZCAicmVtb3ZlIHRoZSBsYXN0IG5vZGUgd2hlbiB0aGUgbGlzdCBpcyBsZW5ndGggMiIgaW4gewogICAgdmFsIGxsID0gbmV3IE11dGFibGVMaW5rZWRMaXN0W0NoYXJdCiAgICBsbC5pbnNlcnRGaXJzdCgnYScpCiAgICBsbC5pbnNlcnRGaXJzdCgnYicpCiAgICBsbC5yZW1vdmVMYXN0KCkKCiAgICBhc3NlcnQobGwuZ2V0Rmlyc3QuZGF0YSA9PSAnYicpCiAgICBhc3NlcnQobGwuZ2V0Rmlyc3QuZGF0YSA9PSAnYicpCiAgICBhc3NlcnQobGwuc2l6ZSA9PSAxKQogIH0KCiAgIlJlbW92ZSBMYXN0IiBzaG91bGQgInJlbW92ZSB0aGUgbGFzdCBub2RlIHdoZW4gdGhlIGxpc3QgaXMgbGVuZ3RoIDMiIGluIHsKICAgIHZhbCBsbCA9IG5ldyBNdXRhYmxlTGlua2VkTGlzdFtDaGFyXQogICAgbGwuaW5zZXJ0Rmlyc3QoJ2EnKQogICAgbGwuaW5zZXJ0Rmlyc3QoJ2InKQogICAgbGwuaW5zZXJ0Rmlyc3QoJ2MnKQogICAgbGwucmVtb3ZlTGFzdCgpCiAgICBsbC5yZW1vdmVMYXN0KCkKCiAgICBhc3NlcnQobGwuZ2V0TGFzdC5kYXRhID09ICdjJykKICAgIGFzc2VydChsbC5zaXplID09IDEpCiAgfQoKICAiSW5zZXJ0IExhc3QiIHNob3VsZCAiaW5zZXJ0IHdoZW4gbGlzdCBpcyBlbXB0eSIgaW4gewogICAgdmFsIGxsID0gbmV3IE11dGFibGVMaW5rZWRMaXN0W0NoYXJdCiAgICBsbC5pbnNlcnRMYXN0KCdhJykKCiAgICBhc3NlcnQobGwuZ2V0Rmlyc3QuZGF0YSA9PSAnYScpCiAgfQoKICAiSW5zZXJ0IExhc3QiIHNob3VsZCAiaW5zZXJ0IHdoZW4gbGlzdCBoYXMgYSBsZW5ndGggb2Ygb25lIiBpbiB7CiAgICB2YWwgbGwgPSBuZXcgTXV0YWJsZUxpbmtlZExpc3RbQ2hhcl0KICAgIGxsLmluc2VydExhc3QoJ2EnKQogICAgbGwuaW5zZXJ0TGFzdCgnYicpCgogICAgYXNzZXJ0KGxsLmdldExhc3QuZGF0YSA9PSAnYicpCiAgfQoKICAiSW5zZXJ0IExhc3QiIHNob3VsZCAiaW5zZXJ0IGFuIGVsZW1lbnQgYXQgdGhlIGVuZCBvZiB0aGUgbGlzdCIgaW4gewogICAgdmFsIGxsID0gbmV3IE11dGFibGVMaW5rZWRMaXN0W0NoYXJdCiAgICBsbC5pbnNlcnRGaXJzdCgnYScpCiAgICBsbC5pbnNlcnRGaXJzdCgnYicpCgogICAgYXNzZXJ0KGxsLnNpemUgPT0gMikKCiAgICBsbC5pbnNlcnRMYXN0KCcyJykKCiAgICBhc3NlcnQobGwuc2l6ZSA9PSAzKQogICAgYXNzZXJ0KGxsLmdldExhc3QuZGF0YSA9PSAnMicpCiAgfQoKICAiR2V0IEF0IiBzaG91bGQgInJldHVybiB0aGUgbm9kZSBhdCBhIGdpdmVuIGluZGV4IiBpbiB7CiAgICB2YWwgbGwgPSBuZXcgTXV0YWJsZUxpbmtlZExpc3RbSW50XQoKICAgIGFzc2VydChsbC5nZXRBdCgwKSA9PSBudWxsKQoKICAgIGxsLmluc2VydExhc3QoMSkKICAgIGxsLmluc2VydExhc3QoMikKICAgIGxsLmluc2VydExhc3QoMykKICAgIGxsLmluc2VydExhc3QoNCkKCiAgICBhc3NlcnQobGwuZ2V0QXQoMCkuZGF0YSA9PSAxKQogICAgYXNzZXJ0KGxsLmdldEF0KDEpLmRhdGEgPT0gMikKICAgIGFzc2VydChsbC5nZXRBdCgyKS5kYXRhID09IDMpCiAgICBhc3NlcnQobGwuZ2V0QXQoMykuZGF0YSA9PSA0KQogIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cHJpdmF0ZSBkZWYgdXBkYXRlVG9kbyhpbmRleDogSW50LCB0b2RvOiBUb2RvVXBkYXRlKSA6IEZ1dHVyZVtPcHRpb25bVG9kb11dID0gRmFzdEZ1dHVyZS5zdWNjZXNzZnVsIHsKICAgIHRvZG9zLmxpZnQoaW5kZXgpIG1hcCB7IHRvZG9Ub1VwZGF0ZSA9PgogICAgICB2YWwgdXBkYXRlZFRvZG8gPSB0b2RvIG1hdGNoIHsKICAgICAgICBjYXNlIFRvZG9VcGRhdGUoU29tZSh0aXRsZSksIE5vbmUsIE5vbmUsIE5vbmUpID0+IHRvZG9Ub1VwZGF0ZS5jb3B5KHRpdGxlKQogICAgICAgIGNhc2UgVG9kb1VwZGF0ZShOb25lLCBTb21lKGRlc2NyaXB0aW9uKSwgTm9uZSwgTm9uZSkgPT4gdG9kb1RvVXBkYXRlLmNvcHkoZGVzY3JpcHRpb24pCiAgICAgICAgY2FzZSBUb2RvVXBkYXRlKE5vbmUsIE5vbmUsIFNvbWUoaW5Qcm9ncmVzcyksIE5vbmUpID0+IHRvZG9Ub1VwZGF0ZS5jb3B5KGluUHJvZ3Jlc3MgPSBpblByb2dyZXNzKQogICAgICAgIGNhc2UgVG9kb1VwZGF0ZShOb25lLCBOb25lLCBOb25lLCBTb21lKGRvbmUpKSA9PiB0b2RvVG9VcGRhdGUuY29weShkb25lID0gZG9uZSkKICAgICAgICBjYXNlIFRvZG9VcGRhdGUoTm9uZSwgTm9uZSwgTm9uZSwgU29tZShkb25lKSkgPT4gdG9kb1RvVXBkYXRlLmNvcHkoKQogICAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IG11dGFibGVfbGlua2VkbGlzdC5NdXRhYmxlTGlua2VkTGlzdAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgdG9kb3NGb3JtYXQ6IEZvcm1hdFtMaXN0W1RvZG9dXSA9IEpzb24uZm9ybWF0W0xpc3RbVG9kb11dCg==</text>
+        <text encoding="base64">Y2xhc3MgTGlua2VkTGlzdFNwZWMgZXh0ZW5kcyBBbnlGbGF0U3BlYyB3aXRoIE1hdGNoZXJzIHsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgdG9kb3NGb3JtYXQ6IEZvcm1hdFtMaXN0W1RvZG9dXSA9IEpzb24uZm9ybWF0W0xpc3RbVG9kb11dCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">cHJpdmF0ZSBkZWYgdXBkYXRlVG9kbyhpbmRleDogSW50LCB0b2RvOiBUb2RvVXBkYXRlKSA6IEZ1dHVyZVtPcHRpb25bVG9kb11dID0gRmFzdEZ1dHVyZS5zdWNjZXNzZnVsIHsKICAgIHRvZG9zLmxpZnQoaW5kZXgpIG1hcCB7IHRvZG9Ub1VwZGF0ZSA9PgogICAgICB2YWwgdXBkYXRlZFRvZG8gPSB0b2RvIG1hdGNoIHsKICAgICAgICBjYXNlIFRvZG9VcGRhdGUoU29tZSh0aXRsZSksIE5vbmUsIE5vbmUsIE5vbmUpID0+IHRvZG9Ub1VwZGF0ZS5jb3B5KHRpdGxlKQogICAgICAgIGNhc2UgVG9kb1VwZGF0ZShOb25lLCBTb21lKGRlc2NyaXB0aW9uKSwgTm9uZSwgTm9uZSkgPT4gdG9kb1RvVXBkYXRlLmNvcHkoZGVzY3JpcHRpb24pCiAgICAgICAgY2FzZSBUb2RvVXBkYXRlKE5vbmUsIE5vbmUsIFNvbWUoaW5Qcm9ncmVzcyksIE5vbmUpID0+IHRvZG9Ub1VwZGF0ZS5jb3B5KGluUHJvZ3Jlc3MgPSBpblByb2dyZXNzKQogICAgICAgIGNhc2UgVG9kb1VwZGF0ZShOb25lLCBOb25lLCBOb25lLCBTb21lKGRvbmUpKSA9PiB0b2RvVG9VcGRhdGUuY29weShkb25lID0gZG9uZSkKICAgICAgICBjYXNlIFRvZG9VcGRhdGUoTm9uZSwgTm9uZSwgTm9uZSwgU29tZShkb25lKSkgPT4gdG9kb1RvVXBkYXRlLmNvcHkoKQogICAgICB9</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgdG9kb3NGb3JtYXQ6IEZvcm1hdFtMaXN0W1RvZG9dXSA9IEpzb24uZm9ybWF0W0xpc3RbVG9kb11dCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdG9kb3MgPSB0b2Rvcy50YWtlKGluZGV4ICsgMSkgOjogdXBkYXRlZFRvZG8gOjogdG9kb3MuZHJvcChpbmRleCArIDIpCiAgICAgIHVwZGF0ZWRUb2RvCg==</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgdG9kb3NGb3JtYXQ6IEZvcm1hdFtMaXN0W1RvZG9dXSA9IEpzb24uZm9ybWF0W0xpc3RbVG9kb11dCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgdHJ5IHsKICAgICAgdmFsIHRvZG9Ub1VwZGF0ZSA9IHRvZG9zKGluZGV4KQogICAgfSBjYXRjaCB7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/answer/value/g</text>
+        <text>%s/MutableLinkedList/LinkedList/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>answer</last-search>
+      <last-search>MutableLinkedList</last-search>
       <last-offset />
-      <last-pattern>answer</last-pattern>
-      <last-replace>value</last-replace>
-      <last-substitute>answer</last-substitute>
+      <last-pattern>MutableLinkedList</last-pattern>
+      <last-replace>LinkedList</last-replace>
+      <last-substitute>MutableLinkedList</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
