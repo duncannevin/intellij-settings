@@ -86,12 +86,6 @@
         <mark key="." line="24" column="20" />
         <mark key="^" line="24" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/ui/src/App.vue" timestamp="1587512868753">
-        <mark key="[" line="52" column="21" />
-        <mark key="]" line="53" column="28" />
-        <mark key="^" line="53" column="28" />
-        <mark key="." line="53" column="27" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/tarsier/ui/src/store/todo/types.ts" timestamp="1587513629381">
         <mark key="[" line="13" column="15" />
         <mark key="]" line="13" column="23" />
@@ -155,6 +149,9 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1587587305439">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tarsier/ui/src/models/index.ts" timestamp="1587515087508">
         <mark key="[" line="3" column="0" />
