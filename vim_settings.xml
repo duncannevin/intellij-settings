@@ -95,11 +95,11 @@
         <mark key="^" line="46" column="31" />
         <mark key="." line="46" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/price/Price.scala" timestamp="1587682094181">
-        <mark key="[" line="6" column="37" />
-        <mark key="]" line="6" column="54" />
-        <mark key="." line="6" column="53" />
-        <mark key="^" line="6" column="54" />
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/price/Price.scala" timestamp="1587684625477">
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="30" />
+        <mark key="." line="26" column="29" />
+        <mark key="^" line="26" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tarsier/ui/src/views/Todo.vue" timestamp="1587515274852">
         <mark key="[" line="3" column="0" />
@@ -163,7 +163,7 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="/Dummy.scala" timestamp="1587673911635">
+      <file name="/Dummy.scala" timestamp="1587684307483">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1587516108248">
@@ -200,10 +200,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>dowText</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>dowText</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
@@ -212,31 +212,31 @@
         <text encoding="base64">ICAgICAgMjAyMC0xLTExLHd3dy5zb21wbGFjZS5jb20sc2ZqO2wyMzEsc2ZqOWo5aiwxLjAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgZGVmIHByaWNlRGF0YSA9CiAgIiIiCiAgIiIiLnN0cmlwTWFyZ2luCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGRhdGUgPSBuZXcgU2ltcGxlRGF0ZUZvcm1hdCgiRSIpCiAgICAgICAgICAgIHZhbCBkb3dUZXh0ID0gZGF0ZS5mb3JtYXQoZCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGRvd1Rlc3QgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGF0ZSxob3N0LHVwYyxxcl9jb2RlLHByaWNlCjIwMjAtMTAtMTAsd3d3LndhbG1hcnQuY29tLDEyMzQsYXNkZjIzMjM0LDEwLjAwCjIwMjAtMTAtMTAsd3d3LndhbG1hcnQuY29tLDEyMzEyMyxhc2RmMjMyMzQsMS4wMAoyMDIwLTAxLTEwLHd3dy53YWxtYXJ0LmNvbSwxMjNpMTIzLGFzZGYyMzIzNCwxMi4xMAoyMDIwLTAyLTEwLHd3dy53YWxtYXJ0LmNvbSwxMmk5MDA5YXNkZixhc2RmMjMyMzQsNC40NAoyMDIwLTAxLTExLHd3dy5zb21lcGxhY2UuY29tLHNmajtsMjMxLHNmajlqOWosMTEuMDAKMjAyMC0xMy0xMSx3d3cuc29tZXBsYWNlLmNvbSxzZmo7bDIzMSxzZmo5ajlqLDEyLjAwCjIwMjAtMTEtMTEsd3d3LnNvbWVwbGFjZS5jb20sc2ZqO2wyMzEsc2ZqOWo5aiwxNDMuMDAKMjAyMC0wMS0xMSx3d3cuc29tZXBsYWNlLmNvbSxzZmo7bDIzMSxzZmo5ajlqLDExMS4wMAoyMDIwLTAzLTExLHd3dy5zb21lcGxhY2UuY29tLHNmajtsMjMxLHNmajlqOWosOTkuMDAKMjAyMC0wMi0xMSx3d3cuc29tZXBsYWNlLmNvbSxzZmo7bDIzMSxzZmo5ajlqLDEuMzAKMjAyMC0wOS0xMSx3d3cuc29tZXBsYWNlLmNvbSxzZmo7bDIzMSxzZmo5ajlqLDQuMTAK</text>
+        <text encoding="base64">ICAgIHZhbCBBcnJheShkYXRlLCBob3N0LCB1cGMsIHFyX2NvZGUsIHByaWNlKSA9IGxpbmVzLmhlYWQuc3BsaXQoIiwiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oZm9vKQo=</text>
+        <text encoding="base64">ICAgICAgICAudG9NYXAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBmb28gPSBwcmljZURhdGEKICAgICAgLnNwbGl0KCJcbiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAuZ3JvdXBCeSgoZGF0ZSwgaG9zdCwgdXBjLCBxcl9jb2RlLCBwcmljZSkgPT4gKGRhdGUsIHVwYywgaG9zdCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLnRvU2VxCiAgICAgIC5tYXAocyA9PiBzLnRyaW0oKSkKICAgICAgLmZpbHRlcihfLm5vbkVtcHR5KQogICAgICAudGFpbAogICAgICAuZ3JvdXBCeShzdHIgPT4gewogICAgICAgIHZhbCBzcGxpdCA9IHN0ci5zcGxpdCgiLCIpCiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAubWFwIHsgY2FzZSBBcnJheShkYXRlLCBob3N0LCB1cGMsIHFyX2NvZGUsIHByaWNlKSA9PiAoZGF0ZSwgaG9zdCwgdXBjLCBxcl9jb2RlLCBwcmljZSkgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAoc3BsaXQpCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oaGVhZGVyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLmZpbHRlcihzID0+IHMudHJpbSgpKQo=</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLmZpbHRlcih2ID0+ICkK</text>
+        <text encoding="base64">ICAgIHZhbCBncm91cGVkID0gbGluZXMKICAgICAgICAuCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
