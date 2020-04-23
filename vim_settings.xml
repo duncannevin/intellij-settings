@@ -86,7 +86,7 @@
       <file name="/a.dummy" timestamp="1587595301668">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1587668454457">
+      <file name="/GraphQL.result.json" timestamp="1587681766532">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/linkedlist/LinkedList.scala" timestamp="1587599609206">
@@ -95,11 +95,11 @@
         <mark key="^" line="46" column="31" />
         <mark key="." line="46" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/price/Price.scala" timestamp="1587674730349">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="22" />
-        <mark key="^" line="8" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/price/Price.scala" timestamp="1587682094181">
+        <mark key="[" line="6" column="37" />
+        <mark key="]" line="6" column="54" />
+        <mark key="." line="6" column="53" />
+        <mark key="^" line="6" column="54" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tarsier/ui/src/views/Todo.vue" timestamp="1587515274852">
         <mark key="[" line="3" column="0" />
@@ -148,7 +148,7 @@
       <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/mutable_linkedlist/LinkedListSpec.scala" timestamp="1587592943954">
         <mark key="[" line="5" column="6" />
       </file>
-      <file name="/sbtShell" timestamp="1587672943346">
+      <file name="/sbtShell" timestamp="1587681963008">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/mutable_linkedlist/MutableLinkedListSpec.scala" timestamp="1587593013600">
@@ -200,10 +200,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>()</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
@@ -212,31 +212,31 @@
         <text encoding="base64">ICAgICAgMjAyMC0xLTExLHd3dy5zb21wbGFjZS5jb20sc2ZqO2wyMzEsc2ZqOWo5aiwxLjAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLmZpbHRlcihzID0+IHMudHJpbSgpKQo=</text>
+        <text encoding="base64">CiAgZGVmIHByaWNlRGF0YSA9CiAgIiIiCiAgIiIiLnN0cmlwTWFyZ2luCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLmZpbHRlcih2ID0+ICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuZmlsdGVyKHYgPT4gKQo=</text>
+        <text encoding="base64">ZGF0ZSxob3N0LHVwYyxxcl9jb2RlLHByaWNlCjIwMjAtMTAtMTAsd3d3LndhbG1hcnQuY29tLDEyMzQsYXNkZjIzMjM0LDEwLjAwCjIwMjAtMTAtMTAsd3d3LndhbG1hcnQuY29tLDEyMzEyMyxhc2RmMjMyMzQsMS4wMAoyMDIwLTAxLTEwLHd3dy53YWxtYXJ0LmNvbSwxMjNpMTIzLGFzZGYyMzIzNCwxMi4xMAoyMDIwLTAyLTEwLHd3dy53YWxtYXJ0LmNvbSwxMmk5MDA5YXNkZixhc2RmMjMyMzQsNC40NAoyMDIwLTAxLTExLHd3dy5zb21lcGxhY2UuY29tLHNmajtsMjMxLHNmajlqOWosMTEuMDAKMjAyMC0xMy0xMSx3d3cuc29tZXBsYWNlLmNvbSxzZmo7bDIzMSxzZmo5ajlqLDEyLjAwCjIwMjAtMTEtMTEsd3d3LnNvbWVwbGFjZS5jb20sc2ZqO2wyMzEsc2ZqOWo5aiwxNDMuMDAKMjAyMC0wMS0xMSx3d3cuc29tZXBsYWNlLmNvbSxzZmo7bDIzMSxzZmo5ajlqLDExMS4wMAoyMDIwLTAzLTExLHd3dy5zb21lcGxhY2UuY29tLHNmajtsMjMxLHNmajlqOWosOTkuMDAKMjAyMC0wMi0xMSx3d3cuc29tZXBsYWNlLmNvbSxzZmo7bDIzMSxzZmo5ajlqLDEuMzAKMjAyMC0wOS0xMSx3d3cuc29tZXBsYWNlLmNvbSxzZmo7bDIzMSxzZmo5ajlqLDQuMTAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oZm9vKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIC5tYXAoXy5zdHJpcE1hcmdpbikK</text>
+        <text encoding="base64">ICAgIHZhbCBmb28gPSBwcmljZURhdGEKICAgICAgLnNwbGl0KCJcbiIpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLnRvU2VxCiAgICAgIC5tYXAocyA9PiBzLnRyaW0oKSkKICAgICAgLmZpbHRlcihfLm5vbkVtcHR5KQogICAgICAudGFpbAogICAgICAuZ3JvdXBCeShzdHIgPT4gewogICAgICAgIHZhbCBzcGxpdCA9IHN0ci5zcGxpdCgiLCIpCiAgICAgIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAoc3BsaXQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgICB8CiAgICAgIHwiIiIuc3RyaXBNYXJnaW4K</text>
+        <text encoding="base64">ICAgICAgLmZpbHRlcihzID0+IHMudHJpbSgpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgICB8CiAgICAgIHwiIiIuc3RyaXBNYXJnaW4KICAgCg==</text>
+        <text encoding="base64">ICAgICAgLmZpbHRlcih2ID0+ICkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
