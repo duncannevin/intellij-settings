@@ -156,6 +156,12 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/gather_price/GatherPrice.scala" timestamp="1587668569877">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="21" />
+      </file>
       <file name="/fragment.java" timestamp="1587516108248">
         <mark key="[" line="0" column="0" />
       </file>
@@ -190,10 +196,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>init()</text>
+        <text>class</text>
       </register>
       <register name="-" type="4">
-        <text>init()</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
