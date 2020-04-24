@@ -105,18 +105,12 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/gateway/Dockerfile" timestamp="1587758972028">
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="14" column="11" />
-        <mark key="^" line="14" column="11" />
-        <mark key="." line="14" column="10" />
+      <file name="$USER_HOME$/IdeaProjects/tarsier/gateway/Dockerfile" timestamp="1587760987820">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/gateway/docker-compose.yml" timestamp="1587759942855">
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="26" column="23" />
-        <mark key="^" line="26" column="23" />
-        <mark key="." line="26" column="22" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/tarsier/gateway/docker-compose.yml" timestamp="1587759982641" />
       <file name="$USER_HOME$/IdeaProjects/tarsier/todo-service/project/plugins.sbt" timestamp="1587756116099">
         <mark key="[" line="2" column="66" />
         <mark key="]" line="3" column="0" />
@@ -143,7 +137,7 @@
       <file name="$USER_HOME$/IdeaProjects/tarsier/gateway/project/plugins.sbt" timestamp="1587757782146">
         <mark key="[" line="0" column="79" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1587759250377">
+      <file name="/GraphQL.result.json" timestamp="1587759994019">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tarsier/app/models/Todo.scala" timestamp="1587753561563">
@@ -157,17 +151,17 @@
         <mark key="^" line="19" column="31" />
         <mark key="." line="19" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/nginx.conf" timestamp="1587757683200">
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="15" column="2" />
-        <mark key="." line="15" column="1" />
-        <mark key="^" line="15" column="2" />
+      <file name="$USER_HOME$/IdeaProjects/tarsier/nginx.conf" timestamp="1587761806649">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="26" />
+        <mark key="^" line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/gateway/src/main/resources/application.conf" timestamp="1587759641525">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="5" />
-        <mark key="." line="20" column="4" />
-        <mark key="^" line="20" column="5" />
+      <file name="$USER_HOME$/IdeaProjects/tarsier/gateway/src/main/resources/application.conf" timestamp="1587760632811">
+        <mark key="[" line="23" column="53" />
+        <mark key="]" line="23" column="53" />
+        <mark key="." line="23" column="53" />
+        <mark key="^" line="25" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tarsier/app/dao/TodoDAO.scala" timestamp="1587755116061">
         <mark key="[" line="47" column="11" />
@@ -175,11 +169,11 @@
         <mark key="." line="47" column="22" />
         <mark key="^" line="47" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/docker-compose.yml" timestamp="1587759140647">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="32" column="8" />
-        <mark key="^" line="32" column="8" />
-        <mark key="." line="32" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/tarsier/docker-compose.yml" timestamp="1587761802293">
+        <mark key="[" line="12" column="49" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="14" />
+        <mark key="^" line="14" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -205,44 +199,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwb3N0Z3JlczoKICAgIGltYWdlOiBwb3N0Z3JlczpsYXRlc3QKICAgIHBvcnRzOgogICAgICAtICI1NDMyOjU0MzIiCiAgICB2b2x1bWVzOgogICAgICAtIHBvc3RncmVzLWRhdGE6L3Zhci9saWIvcG9zdGdyZXNxbC9kYXRhCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LSA=</text>
       </register>
       <register name="-" type="4">
-        <text>postgres</text>
+        <text encoding="base64">LSA=</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRvZG9zID0gdG9kb3MudGFrZShpbmRleCkgOjo6IHRvZG9zLmRyb3AoaW5kZXggKyAxKQo=</text>
+      <register name="0" type="4">
+        <text>${TARSIER_GATEWAY_MYSQL_PW}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwb3N0Z3JlczoKICAgIGltYWdlOiBwb3N0Z3JlczpsYXRlc3QKICAgIHBvcnRzOgogICAgICAtICI1NDMyOjU0MzIiCiAgICB2b2x1bWVzOgogICAgICAtIHBvc3RncmVzLWRhdGE6L3Zhci9saWIvcG9zdGdyZXNxbC9kYXRhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHJvdXRlcy5Sb3V0ZXIK</text>
+        <text encoding="base64">RVhQT1NFIDgwODAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZWRpc19kYXRhOiBkcml2ZXI6IGxvY2FsCg==</text>
+        <text encoding="base64">ICAgICAgLSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgcmVkaXM6CiAgICBpbWFnZTogImJpdG5hbWkvcmVkaXM6bGF0ZXN0IgogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gQUxMT1dfRU1QVFlfUEFTU1dPUkQ9eWVzCiAgICAgIC0gUkVESVNfRElTQUJMRV9DT01NQU5EUz1GTFVTSERCLEZMVVNIQUxMCiAgICBsYWJlbHM6CiAgICAgIGtvbXBvc2Uuc2VydmljZS50eXBlOiBub2RlcG9ydAogICAgcG9ydHM6CiAgICAgIC0gIjYzNzk6NjM3OSIKICAgIHZvbHVtZXM6CiAgICAgIC0gInJlZGlzX2RhdGE6L2JpdG5hbWkvcmVkaXMiCiAgICBkZXBlbmRzX29uOgogICAgICAtIHJldmVyc2Vwcm94eQo=</text>
+        <text encoding="base64">ICAgICAgLQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwb2Rpby1zZXJ2aWNlOgogICAgaW1hZ2U6IHByYWdtYWkvcG9kaW8tc2VydmljZToke1RBRzotbGF0ZXN0fQogICAgYnVpbGQ6CiAgICAgIGNvbnRleHQ6IC4vcG9kaW8tc2VydmljZQogICAgICBkb2NrZXJmaWxlOiBEb2NrZXJmaWxlCiAgICB2b2x1bWVzOgogICAgLSAvdmFyL2xvZy9wcmFnbWF0aWM6L3Zhci9sb2cKICAgIGVudmlyb25tZW50OgogICAgICAtIFBSQUdNQVRJQ19QT0RJT19JRD0ke1BSQUdNQVRJQ19QT0RJT19JRH0KICAgICAgLSBQUkFHTUFUSUNfUE9ESU9fU0VDUkVUPSR7UFJBR01BVElDX1BPRElPX1NFQ1JFVH0KICAgICAgLSBQUkFHTUFUSUNfU0VMTEVSX0lEPSR7UFJBR01BVElDX1NFTExFUl9JRH0KICAgICAgLSBQUkFHTUFUSUNfU0VMTEVSX1RPS0VOPSR7UFJBR01BVElDX1NFTExFUl9UT0tFTn0KICAgICAgLSBQUkFHTUFUSUNfVVNFUk5BTUU9JHtQUkFHTUFUSUNfVVNFUk5BTUV9CiAgICAgIC0gUFJBR01BVElDX1BXPSR7UFJBR01BVElDX1BXfQogICAgICAtIFJFRElTX0hPU1Q9cmVkaXMKICAgIGRlcGVuZHNfb246CiAgICAgIC0gcmVkaXMKICAgICAgLSByZXZlcnNlcHJveHkKCg==</text>
+        <text encoding="base64">ICAgICAgIyBXaGVyZSBvdXIgZGF0YSB3aWxsIGJlIHBlcnNpc3RlZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAjIEhUVFAg4oCUIHJlZGlyZWN0IGFsbCB0cmFmZmljIHRvIEhUVFBTCiAgICBzZXJ2ZXIgewogICAgICAgIGxpc3RlbiA4MDsKICAgICAgICBsaXN0ZW4gWzo6XTo4MCBkZWZhdWx0X3NlcnZlciBpcHY2b25seT1vbjsKICAgICAgICByZXR1cm4gMzAxIGh0dHBzOi8vJGhvc3QkcmVxdWVzdF91cmk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgIyBPcGVucyBwb3J0IDMzMDYgb24gdGhlIGNvbnRhaW5lcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiMjIyBWZXJzaW9uIFN1bW1hcnkKCiogW1BsYXkgRnJhbWV3b3JrOiAyLjguMF0oaHR0cHM6Ly93d3cucGxheWZyYW1ld29yay5jb20vZG9jdW1lbnRhdGlvbi8yLjgueC9Ib21lKQoqIFtWdWU6IDIuNi4xMF0oaHR0cHM6Ly92dWVqcy5vcmcvKQoKIyMgSG93IHRvIHVzZSBpdD8KCiMjIyBQcmVyZXF1aXNpdGVzCgoqIFtOb2RlLmpzXShodHRwczovL25vZGVqcy5vcmcvKQoqIFtzY2FsYV0oaHR0cHM6Ly93d3cuc2NhbGEtbGFuZy5vcmcvZG93bmxvYWQvKQoKIyMjIExldCdzIGdldCBzdGFydGVkLAoKKiBVc2VkIGFueSBvZiB0aGUgZm9sbG93aW5nIFtTQlRdKGh0dHA6Ly93d3cuc2NhbGEtc2J0Lm9yZy8pIGNvbW1hbmRzIHdoaWNoIHdpbGwgaW50ZXJuIHRyaWdnZXIgZnJvbnRlbmQgYXNzb2NpYXRlZCBucG0gc2NyaXB0cy4KCmBgYAogICAgc2J0IGNsZWFuICAgICAgICAgICAjIENsZWFuIGV4aXN0aW5nIGJ1aWxkIGFydGlmYWN0cwoKICAgIHNidCBzdGFnZSAgICAgICAgICAgIyBCdWlsZCB5b3VyIGFwcGxpY2F0aW9uIGZyb20geW91ciBwcm9qZWN04oCZcyBzb3VyY2UgZGlyZWN0b3J5CgogICAgc2J0IHJ1biAgICAgICAgICAgICAjIFJ1biBib3RoIGJhY2tlbmQgYW5kIGZyb250ZW5kIGJ1aWxkcyBpbiB3YXRjaCBtb2RlCgogICAgc2J0IGRpc3QgICAgICAgICAgICAjIEJ1aWxkIGJvdGggYmFja2VuZCBhbmQgZnJvbnRlbmQgc291cmNlcyBpbnRvIGEgc2luZ2xlIGRpc3RyaWJ1dGlvbiBhcnRpZmFjdAoKICAgIHNidCB0ZXN0ICAgICAgICAgICAgIyBSdW4gYm90aCBiYWNrZW5kIGFuZCBmcm9udGVuZCB1bml0IHRlc3RzCmBgYAoKIyMgV2hhdCBpcyBuZXcgaW4gaGVyZT8KCiMjIyBGcm9udGVuZENvbW1hbmRzLnNjYWxhCgoqIEZyb250ZW5kIGJ1aWxkIGNvbW1hbmQgbWFwcGluZyBjb25maWd1cmF0aW9uLgoKYGBgCiAgICDilJzilIDilIAgL3Byb2plY3QvCiAgICDilIIgICAgIOKUnOKUgOKUgCBGcm9udGVuZENvbW1hbmRzLnNjYWxhCmBgYAoKCiMjIyBGcm9udGVuZFJ1bkhvb2suc2NhbGEKCiogUGxheVJ1bkhvb2sgaW1wbGVtZW50YXRpb24gdG8gdHJpZ2dlciBgYG5wbSBydW4gc3RhcnRgYCBvbiBgYHNidCBydW5gYC4KCmBgYAogICAg4pSc4pSA4pSAIC9wcm9qZWN0LwogICAg4pSCICAgICDilJzilIDilIAgRnJvbnRlbmRSdW5Ib29rLnNjYWxhCmBgYAoKIyMjIEZyb250ZW5kQ29udHJvbGxlci5zY2FsYQoKKiBBc3NldCBjb250cm9sbGVyIHdyYXBwZXIgc2VydmluZyBmcm9udGVuZCBhc3NldHMgYW5kIGFydGlmYWN0cy4KCmBgYAogICAg4pSc4pSA4pSAIC9hcHAvICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICDilIIgICAgIOKUlOKUgOKUgCAvY29udHJvbGxlcnMvICAgICAgICAgICAgICAgICAgIAogICAg4pSCICAgICAgICAgICDilJTilIDilIAgRnJvbnRlbmRDb250cm9sbGVyLnNjYWxhCmBgYAoKIyMjIHVpLWJ1aWxkLnNidAoKKiBUaGlzIGZpbGUgY29udGFpbnMgdGhlIGJ1aWxkIHRhc2sgaG9va3MgdG8gdHJpZ2dlciBmcm9udGVuZCBucG0gc2NyaXB0cyBvbiBzYnQgY29tbWFuZCBleGVjdXRpb24uCgojIyMgbnBtIHJ1biBjb21tYW5kcwoKKiBOZXcgYW5kIG1vZGlmaWVkIG5wbSBzY3JpcHRzIG9mIFtDcmVhdGUgUmVhY3QgQXBwXShodHRwczovL2dpdGh1Yi5jb20vZmFjZWJvb2tpbmN1YmF0b3IvY3JlYXRlLXJlYWN0LWFwcCkgZ2VuZXJhdGVkIHBhY2thZ2UuanNvbi4KKiBDaGVjayBbVUkgUkVBRE1FLm1kXSguL3VpL1JFQURNRS5tZCkgdG8gc2VlIGFsbCBhdmFpbGFibGUgZnJvbnRlbmQgYnVpbGQgdGFza3MuCgpgYGAK4pSc4pSA4pSAIC91aS8gICAgICAgICAgICAgICAgICAgICAgIArilIIgICAgIOKUnOKUgOKUgCBwYWNrYWdlLmpzb24gICAgICAgICAgCmBgYAoKIyMgUm91dGVzCgpgYGAK4pSc4pSA4pSAIC9jb25mLyAgICAgIArilIIgICAgIOKUnOKUgOKUgCByb3V0ZXMKYGBgCgoqIFRoZSBmb2xsb3dpbmcgcm91dGUgY29uZmlndXJhdGlvbiBtYXAgaW5kZXguaHRtbCB0byBlbnRyeSByb3V0ZSAocm9vdCkuIFRoaXMgc2hvdWxkIGJlIHBsYWNlZCBhcyB0aGUgaW5pdGlhbCByb3V0ZS4KCmBgYApHRVQgICAgICAgIC8gICAgICAgICAgICAgY29udHJvbGxlcnMuRnJvbnRlbmRDb250cm9sbGVyLmluZGV4KCkKYGBgCgoqIEFsbCBBUEkgcm91dGVzIHNob3VsZCBiZSBwcmVmaXhlZCB3aXRoIEFQSSBwcmVmaXggZGVmaW5lZCB1bmRlciBgYGFwcGxpY2F0aW9uLmNvbmZgYCAoRGVmYXVsdCBwcmVmaXggYGBhcGlQcmVmaXggPSAiYXBpImBgKSAKCkV4YW1wbGUgQVBJIHJvdXRlOgoKYGBgCkdFVCAgICAgICAgL2FwaS9zdW1tYXJ5ICBjb250cm9sbGVycy5Ib21lQ29udHJvbGxlci5hcHBTdW1tYXJ5CmBgYAoKKiBUaGUgZm9sbG93aW5nIHJvdXRlIGlzIGJlaW5nIHVzZWQgdG8gc2VydmUgZnJvbnRlbmQgYXNzb2NpYXRlZCBidWlsZCBhcnRpZmFjdHMgKGNzcywganMpIGFuZCBzdGF0aWMgYXNzZXRzIChpbWFnZXMsIGV0Yy4pLiBUaGlzIHNob3VsZCBiZSBwbGFjZWQgYXMgdGhlIGZpbmFsIHJvdXRlLgoKYGBgCkdFVCAgICAgICAgLypmaWxlICAgICAgICBjb250cm9sbGVycy5Gcm9udGVuZENvbnRyb2xsZXIuYXNzZXRPckRlZmF1bHQoZmlsZSkKYGBgCgoqKk5vdGU6IF9PbiBwcm9kdWN0aW9uIGJ1aWxkIGFsbCB0aGUgZnJvbnQgZW5kIFJlYWN0IGJ1aWxkIGFydGlmYWN0cyB3aWxsIGJlIGNvcGllZCB0byB0aGUgYHB1YmxpY2AgZm9sZGVyLl8qKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgZ2F0ZXdheToKICAgIGltYWdlOiB0YXJzaWVyL2dhdGV3YXk6JHtUQUc6LWxhdGVzdH0KICAgIGJ1aWxkOgogICAgICBjb250ZXh0OiAuL2dhdGV3YXkKICAgICAgZG9ja2VyZmlsZTogRG9ja2VyZmlsZQogICAgdm9sdW1lczoKICAgIC0gL3Zhci9sb2cvcHJhZ21hdGljOi92YXIvbG9nCiAgICBlbnZpcm9ubWVudDoKICAgICAgLSBSRURJU19IT1NUPXJlZGlzCiAgICAgIC0gUE9ESU9fU0VSVklDRT0iUE9ESU9fU0VSVklDRSIKICAgIGRlcGVuZHNfb246CiAgICAgIC0gcmVkaXMKICAgICAgLSByZXZlcnNlcHJveHkKCiAgdWk6CiAgICBpbWFnZTogdGFyc2llci91aToke1RBRzotbGF0ZXN0fQogICAgYnVpbGQ6CiAgICAgIGNvbnRleHQ6IC4vdWkKICAgICAgZG9ja2VyZmlsZTogRG9ja2VyZmlsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
