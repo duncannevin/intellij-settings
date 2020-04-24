@@ -137,21 +137,19 @@
         <mark key="^" line="60" column="20" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/sbtShell" timestamp="1587756237911">
+      <file name="/sbtShell" timestamp="1587758008327">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/conf/application.conf" timestamp="1587752267012">
-        <mark key="[" line="38" column="33" />
-        <mark key="]" line="38" column="33" />
-        <mark key="^" line="39" column="13" />
-        <mark key="." line="38" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/tarsier/gateway/build.sbt" timestamp="1587757840679">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/app/config/ConfigMethods.scala" timestamp="1587752135568">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/tarsier/gateway/project/plugins.sbt" timestamp="1587757782146">
+        <mark key="[" line="0" column="79" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1587757390026">
+      <file name="/GraphQL.result.json" timestamp="1587757952041">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tarsier/app/models/Todo.scala" timestamp="1587753561563">
@@ -207,11 +205,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICByZWRpc19kYXRhOiBkcml2ZXI6IGxvY2FsCg==</text>
+      <register name="&quot;" type="4">
+        <text>akkahttp-quiwckstart</text>
       </register>
       <register name="-" type="4">
-        <text>ic_offers</text>
+        <text>akkahttp-quiwckstart</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
