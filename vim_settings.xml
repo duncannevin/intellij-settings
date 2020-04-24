@@ -112,8 +112,8 @@
         <mark key="^" line="19" column="31" />
         <mark key="." line="19" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/nginx.conf" timestamp="1587761806649">
-        <mark key="[" line="9" column="27" />
+      <file name="$USER_HOME$/IdeaProjects/tarsier/nginx.conf" timestamp="1587766719658">
+        <mark key="[" line="14" column="7" />
         <mark key="]" line="9" column="27" />
         <mark key="." line="9" column="26" />
         <mark key="^" line="9" column="27" />
@@ -163,11 +163,11 @@
         <mark key="." line="47" column="22" />
         <mark key="^" line="47" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/docker-compose.yml" timestamp="1587765399790">
-        <mark key="[" line="44" column="29" />
-        <mark key="]" line="44" column="28" />
-        <mark key="." line="44" column="27" />
-        <mark key="^" line="44" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/tarsier/docker-compose.yml" timestamp="1587766814375">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="25" column="15" />
+        <mark key="." line="25" column="14" />
+        <mark key="^" line="25" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tarsier/gateway/build.sbt" timestamp="1587757840679">
         <mark key="[" line="2" column="9" />
