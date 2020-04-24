@@ -83,12 +83,6 @@
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/app/actors/TodoActor.scala" timestamp="1587743430574">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="16" column="40" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/tarsier/app/config/TarsierConfigFactory.scala" timestamp="1587752899467">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="30" />
@@ -123,17 +117,17 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/conf/routes" timestamp="1587743150796">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="12" />
-        <mark key="." line="8" column="11" />
-        <mark key="^" line="8" column="12" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/tarsier/README.md" timestamp="1587755925327">
         <mark key="[" line="28" column="14" />
         <mark key="]" line="30" column="4" />
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/tarsier/todo-service/project/plugins.sbt" timestamp="1587756116099">
+        <mark key="[" line="2" column="66" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="2" column="66" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tarsier/app/controllers/TodoController.scala" timestamp="1587755023568">
         <mark key="'" line="54" column="1" />
@@ -142,7 +136,7 @@
         <mark key="^" line="60" column="20" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/sbtShell" timestamp="1587755281126">
+      <file name="/sbtShell" timestamp="1587756237911">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tarsier/conf/application.conf" timestamp="1587752267012">
@@ -156,7 +150,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1587755835186">
+      <file name="/GraphQL.result.json" timestamp="1587756208476">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tarsier/app/models/Todo.scala" timestamp="1587753561563">
@@ -169,6 +163,12 @@
         <mark key="]" line="20" column="60" />
         <mark key="^" line="20" column="60" />
         <mark key="." line="20" column="59" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/tarsier/todo-service/build.sbt" timestamp="1587756133761">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="19" column="31" />
+        <mark key="^" line="19" column="31" />
+        <mark key="." line="19" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tarsier/app/config/ConfigImpl.scala" timestamp="1587744692670">
         <mark key="[" line="8" column="60" />
