@@ -83,10 +83,16 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="6" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/tarsier/app/actors/TodoActor.scala" timestamp="1587741917707">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+        <mark key="." line="5" column="11" />
+      </file>
       <file name="/a.dummy" timestamp="1587595301668">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1587741703951">
+      <file name="/GraphQL.result.json" timestamp="1587741929265">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/linkedlist/LinkedList.scala" timestamp="1587599609206">
@@ -168,12 +174,6 @@
       <file name="/fragment.java" timestamp="1587516108248">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/ui/src/store/index.ts" timestamp="1587515198017">
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="15" />
-        <mark key="^" line="15" column="16" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="4" column="0" filename="$USER_HOME$/Documents/nestjs-course-task-management/Makefile" />
@@ -198,11 +198,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXBjOiBTdHJpbmcsIA==</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
