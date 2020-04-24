@@ -101,20 +101,61 @@
         <mark key="." line="7" column="11" />
         <mark key="^" line="7" column="12" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1587751863448">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/tarsier/app/Module.scala" timestamp="1587753252560">
         <mark key="[" line="22" column="2" />
         <mark key="]" line="22" column="2" />
         <mark key="." line="22" column="2" />
         <mark key="^" line="21" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/linkedlist/LinkedList.scala" timestamp="1587599609206">
-        <mark key="[" line="46" column="29" />
-        <mark key="]" line="46" column="31" />
-        <mark key="^" line="46" column="31" />
-        <mark key="." line="46" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/tarsier/app/models/TodoUpdate.scala" timestamp="1587753585876">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/price/Price.scala" timestamp="1587741689593">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/tarsier/app/models/Todos.scala" timestamp="1587753610181">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/tarsier/conf/routes" timestamp="1587743150796">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/tarsier/app/controllers/TodoController.scala" timestamp="1587755023568">
+        <mark key="'" line="54" column="1" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="60" column="20" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="/sbtShell" timestamp="1587753264764">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/tarsier/conf/application.conf" timestamp="1587752267012">
+        <mark key="[" line="38" column="33" />
+        <mark key="]" line="38" column="33" />
+        <mark key="^" line="39" column="13" />
+        <mark key="." line="38" column="33" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/tarsier/app/config/ConfigMethods.scala" timestamp="1587752135568">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1587751863448">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/tarsier/app/models/Todo.scala" timestamp="1587753561563">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tarsier/app/actors/messages/CatchAllMsg.scala" timestamp="1587742716275">
         <mark key="[" line="2" column="100" />
@@ -128,11 +169,6 @@
         <mark key="^" line="20" column="60" />
         <mark key="." line="20" column="59" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/price/Price.scala" timestamp="1587741689593">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/tarsier/app/config/ConfigImpl.scala" timestamp="1587744692670">
         <mark key="[" line="8" column="60" />
         <mark key="]" line="8" column="59" />
@@ -144,46 +180,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/conf/routes" timestamp="1587743150796">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="12" />
-        <mark key="." line="8" column="11" />
-        <mark key="^" line="8" column="12" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/app/controllers/TodoController.scala" timestamp="1587753480638">
-        <mark key="'" line="63" column="1" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="73" column="3" />
-        <mark key="." line="14" column="47" />
-        <mark key="^" line="14" column="48" />
-      </file>
-      <file name="/sbtShell" timestamp="1587753264764">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/conf/application.conf" timestamp="1587752267012">
-        <mark key="[" line="38" column="33" />
-        <mark key="]" line="38" column="33" />
-        <mark key="^" line="39" column="13" />
-        <mark key="." line="38" column="33" />
-      </file>
-      <file name="/Dummy.scala" timestamp="1587684307483">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/gather_price/GatherPrice.scala" timestamp="1587668569877">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="7" column="21" />
-        <mark key="." line="7" column="20" />
-        <mark key="^" line="7" column="21" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/app/dao/TodoDAO.scala" timestamp="1587753485178">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="12" column="3" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/tarsier/app/config/ConfigMethods.scala" timestamp="1587752135568">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/tarsier/app/dao/TodoDAO.scala" timestamp="1587755116061">
+        <mark key="[" line="47" column="11" />
+        <mark key="]" line="47" column="23" />
+        <mark key="." line="47" column="22" />
+        <mark key="^" line="47" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -209,44 +210,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWYgcHVzaFRvZG8oKSA9IHt9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiBwdXNoVG9kbyh0b2RvOiBUb2RvKTogRnV0dXJlW1RvZG9dID0gRmFzdEZ1dHVyZS5zdWNjZXNzZnVsIHsKICAgIHRvZG9zID0gdG9kb3MgOisgdG9kbwogICAgdG9kbwogIH0K</text>
+        <text encoding="base64">ICAgIHRvZG9zID0gdG9kb3MudGFrZShpbmRleCkgOjo6IHRvZG9zLmRyb3AoaW5kZXggKyAxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgcHVzaFRvZG8oKSA9IHt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vbmdvREIoKQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGRlZiBwdXNoVG9kbyh0b2RvOiBUb2RvKTogRnV0dXJlW1RvZG9dID0gRmFzdEZ1dHVyZS5zdWNjZXNzZnVsIHsKICAgIHRvZG9zID0gdG9kb3MgOisgdG9kbwogICAgdG9kbwogIH0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAKICBleHRlbmRzIENvbmZpZ01ldGhvZHMgewoKfQo=</text>
+        <text encoding="base64">ICAgIHRvZG9zID0gdG9kb3MudGFrZShpbmRleCkgOjo6IHRvZG9zLmRyb3AoaW5kZXggKyAxKQogICAgT2sKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIHZhbCBwcmVmaXggPSAibW9uZ28tZGIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAKICBleHRlbmRzIENvbmZpZ01ldGhvZHMgewogIHByaXZhdGUgZmluYWwgdmFsIHByZWZpeCA9ICJtb25nby1kYiIKCn0K</text>
+        <text encoding="base64">ICAgICAgICB9ewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSBTb21lKHRvZG9VcGRhdGUpID0+IHVwZGF0ZVRvZG8oaW5kZXgsIHRvZG9VcGRhdGUpIG1hcCB7CiAgICAgICAgY2FzZSBOb25lID0+IEJhZFJlcXVlc3QocyJJbmRleCBvdXQgb2YgYm91bmRzOiAke2luZGV4fSIpCiAgICAgICAgY2FzZSBTb21lKHRvZG8pID0+IE9rKEpzb24udG9Kc29uKHRvZG8pKQogICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmaW5hbCB2YWwgbmFtZSA9IGdldENvbmZpZyhzIiRwcmVmaXgubmFtZSIsIHYgPT4gdikKICBmaW5hbCB2YWwgcG9ydCA9IGdldENvbmZpZyhzIiRwcmVmaXgucG9ydCIsIF8udG9JbnQpCiAgZmluYWwgdmFsIGxvY2F0aW9uID0gZ2V0Q29uZmlnKHMiJHByZWZpeC5sb2NhdGlvbiIsIHYgPT4gdikK</text>
+        <text encoding="base64">ICBwcml2YXRlIGRlZiB1cGRhdGVUb2RvKGluZGV4OiBJbnQsIHRvZG86IFRvZG9VcGRhdGUpIDogRnV0dXJlW09wdGlvbltUb2RvXV0gPSBGYXN0RnV0dXJlLnN1Y2Nlc3NmdWwgewogICAgdG9kb3MubGlmdChpbmRleCkgbWFwIHsgdG9kb1RvVXBkYXRlID0+CiAgICAgIHZhbCB1cGRhdGVkVG9kbyA9IHRvZG8gbWF0Y2ggewogICAgICAgIGNhc2UgVG9kb1VwZGF0ZShTb21lKHRpdGxlKSwgTm9uZSwgTm9uZSwgTm9uZSkgPT4gdG9kb1RvVXBkYXRlLmNvcHkodGl0bGUpCiAgICAgICAgY2FzZSBUb2RvVXBkYXRlKE5vbmUsIFNvbWUoZGVzY3JpcHRpb24pLCBOb25lLCBOb25lKSA9PiB0b2RvVG9VcGRhdGUuY29weShkZXNjcmlwdGlvbikKICAgICAgICBjYXNlIFRvZG9VcGRhdGUoTm9uZSwgTm9uZSwgU29tZShpblByb2dyZXNzKSwgTm9uZSkgPT4gdG9kb1RvVXBkYXRlLmNvcHkoaW5Qcm9ncmVzcyA9IGluUHJvZ3Jlc3MpCiAgICAgICAgY2FzZSBUb2RvVXBkYXRlKE5vbmUsIE5vbmUsIE5vbmUsIFNvbWUoZG9uZSkpID0+IHRvZG9Ub1VwZGF0ZS5jb3B5KGRvbmUgPSBkb25lKQogICAgICAgIGNhc2UgVG9kb1VwZGF0ZShTb21lKHRpdGxlKSwgU29tZShkZXNjcmlwdGlvbiksIFNvbWUoaW5Qcm9ncmVzcyksIFNvbWUoZG9uZSkpID0+IHRvZG9Ub1VwZGF0ZS5jb3B5KHRpdGxlLCBkZXNjcmlwdGlvbiwgaW5Qcm9ncmVzcyA9IGluUHJvZ3Jlc3MsIGRvbmUgPSBkb25lKQogICAgICAgIGNhc2UgXyA9PiB0b2RvVG9VcGRhdGUKICAgICAgfQoKICAgICAgdG9kb3MgPSAodG9kb3MudGFrZShpbmRleCkgOjo6ICh1cGRhdGVkVG9kbyA6OiB0b2Rvcy5kcm9wKGluZGV4ICsgMSkpKQoKICAgICAgdXBkYXRlZFRvZG8KICAgIH0KICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YWwgbW9uZ29Db25maWcgPSBNYXAoCiAgICAKICApCg==</text>
+        <text encoding="base64">ICAgIGZvciB7IH0geWllbGQgdG9kb09wdCBtYXRjaCB7CiAgICAgIGNhc2UgTm9uZSA9PiBGYXN0RnV0dXJlLnN1Y2Nlc3NmdWwoQmFkUmVxdWVzdCkKICAgIH0KICAgIAogICAgKGZvciB7CiAgICAgIHNhdmVkVG9kbyA9IHB1c2hUb2RvKHRvZG9PcHQpCiAgICB9IHlpZWxkIHNhdmVkVG9kbykgbWF0Y2ggewogICAgICBjYXNlIE5vbmUgPT4gRmFzdEZ1dHVyZS5zdWNjZXNzZnVsKEJhZFJlcXVlc3QocyJNYWxmb3JtZWQgaW5wdXQ6ICR7cmVxdWVzdC5ib2R5fSIpKQogICAgICBjYXNlIFNvbWUodG9kb0YpID0+IHRvZG9GLm1hcCh0ID0+IE9rKEpzb24udG9Kc29uKHQpKSkKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSB0b2RvID0+IAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
