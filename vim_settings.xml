@@ -77,17 +77,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/tarsier/shared/model/user-service-config.model.ts" timestamp="1587849081554">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="1" column="16" />
-        <mark key="." line="1" column="15" />
-        <mark key="^" line="1" column="16" />
-      </file>
       <file name="$USER_HOME$/Documents/tarsier/gateway/src/app.module.ts" timestamp="1587849349355">
         <mark key="[" line="23" column="9" />
         <mark key="]" line="23" column="9" />
         <mark key="." line="23" column="8" />
         <mark key="^" line="23" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/tarsier/gateway/tsconfig.json" timestamp="1587852423941">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="17" />
+        <mark key="^" line="13" column="17" />
+        <mark key="." line="13" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/gateway/config/default.yml" timestamp="1587849162139">
         <mark key="[" line="5" column="12" />
@@ -95,30 +95,23 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/user-service/src/user.service.ts" timestamp="1587848470547">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="49" />
-        <mark key="^" line="5" column="49" />
-        <mark key="." line="5" column="48" />
-      </file>
       <file name="$USER_HOME$/Documents/tarsier/user-service/src/enum/message.enum.ts" timestamp="1587849591787">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="1" column="26" />
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/docker-compose.dev.yml" timestamp="1587851068811">
-        <mark key="'" line="63" column="4" />
-        <mark key="[" line="25" column="17" />
-        <mark key="]" line="25" column="18" />
-        <mark key="." line="25" column="17" />
-        <mark key="^" line="25" column="18" />
+      <file name="$USER_HOME$/Documents/tarsier/docker-compose.dev.yml" timestamp="1587852587621">
+        <mark key="'" line="60" column="4" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/user-service/src/main.ts" timestamp="1587848268886">
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="26" />
-        <mark key="." line="16" column="25" />
-        <mark key="^" line="16" column="26" />
+      <file name="$USER_HOME$/Documents/tarsier/user-service/tsconfig.build.json" timestamp="1587852125698">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/Makefile" timestamp="1587850861360">
         <mark key="[" line="5" column="23" />
@@ -126,17 +119,22 @@
         <mark key="." line="5" column="48" />
         <mark key="^" line="5" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/user-service/src/user.controller.spec.ts" timestamp="1587848695508">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="2" column="35" />
-        <mark key="." line="2" column="34" />
-        <mark key="^" line="2" column="35" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/gateway/src/app.service.ts" timestamp="1587851397995">
+        <mark key="[" line="39" column="77" />
+        <mark key="]" line="40" column="23" />
+        <mark key="." line="40" column="22" />
+        <mark key="^" line="40" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/gateway/src/app.controller.ts" timestamp="1587849846788">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="13" />
-        <mark key="^" line="8" column="13" />
-        <mark key="." line="8" column="12" />
+      <file name="$USER_HOME$/Documents/tarsier/gateway/tsconfig.build.json" timestamp="1587852357935">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/tarsier/gateway/src/app.controller.ts" timestamp="1587851215422">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="3" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/ui/Dockerfile.dev" timestamp="1587850254515">
         <mark key="[" line="3" column="22" />
@@ -154,40 +152,34 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/tarsier/shared/index.ts" timestamp="1587852260252">
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1587851132951">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/tarsier/user-service/src/user.controller.ts" timestamp="1587849639689">
         <mark key="[" line="9" column="25" />
         <mark key="]" line="9" column="43" />
         <mark key="^" line="9" column="43" />
         <mark key="." line="9" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/shared/model/location-config.model.js" timestamp="1587848117320">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/pragmatic_offers/gateway/src/app.controller.ts" timestamp="1587851253133">
+        <mark key="^" line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/gateway/src/app.service.ts" timestamp="1587850460179">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="16" column="40" />
+      <file name="$USER_HOME$/Documents/tarsier/gateway/src/app.service.ts" timestamp="1587852651398">
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="5" column="35" />
+        <mark key="." line="5" column="35" />
+        <mark key="^" line="5" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/shared/messages/user-service.message.ts" timestamp="1587849605276">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/tarsier/user-service/src/app.module.ts" timestamp="1587848663245">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="2" column="35" />
-        <mark key="." line="2" column="34" />
-        <mark key="^" line="2" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/tarsier/user-service/src/app.controller.ts" timestamp="1587848397404">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="3" column="12" />
-        <mark key="^" line="3" column="12" />
-        <mark key="." line="3" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/gateway/config/custom-environment-variables.yml" timestamp="1587849183445">
         <mark key="[" line="2" column="18" />
@@ -220,44 +212,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC91c3Ivc3JjL3NoYXJlZAo=</text>
+      <register name="&quot;" type="4">
+        <text>./shared</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>./shared</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC91c3Ivc3JjL2FwcAo=</text>
+        <text encoding="base64">ICAiaW5jbHVkZSI6Ii4uL3NoYXJlZCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC91c3Ivc3JjL3NoYXJlZAo=</text>
+        <text encoding="base64">ICAgICAgLSAnLi9zaGFyZWQvOi91c3Ivc3JjL3NoYXJlZCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC91c3Ivc3JjL3NoYXJlZAo=</text>
+        <text encoding="base64">ICAgICAgLSAnLi9zaGFyZWQvOi91c3Ivc3JjL3NoYXJlZCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubG9nZ2VyLmVycm9yKGBnZXRIZWxsbyBmYWlsdXJlOiAke0pTT04uc3RyaW5naWZ5KGVycil9YCkK</text>
+        <text encoding="base64">ICAgICAgLSAnLi9zaGFyZWQvOi91c3Ivc3JjL3NoYXJlZCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBCYWRSZXF1ZXN0RXhjZXB0aW9uKCkK</text>
+        <text encoding="base64">ICAgICAgLSAnLi9zaGFyZWQvOi91c3Ivc3JjL3NoYXJlZCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnSGVsbG8gV29ybGQhJzsK</text>
+        <text encoding="base64">ICAgICAgLSAnLi9zaGFyZWQvOi91c3Ivc3JjL3NoYXJlZCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtNZXNzYWdlRW51bX0gZnJvbSAiLi9lbnVtL21lc3NhZ2UuZW51bSI7Cg==</text>
+        <text encoding="base64">ICAiaW5jbHVkZSI6IFsiLi4vc2hhcmVkIl0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBCYWRSZXF1ZXN0RXhjZXB0aW9uKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRocm93IG5ldyBCYWRSZXF1ZXN0RXhjZXB0aW9uKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRocm93IG5ldyBCYWRSZXF1ZXN0RXhjZXB0aW9uKCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
