@@ -94,6 +94,12 @@
         <mark key="." line="11" column="27" />
         <mark key="^" line="11" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/tarsier/docker-compose.yml" timestamp="1587832095239">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="22" />
+        <mark key="." line="18" column="21" />
+        <mark key="^" line="18" column="22" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/tarsier/gateway/src/main/scala/Main.scala" timestamp="1587767538386">
         <mark key="[" line="22" column="57" />
         <mark key="]" line="22" column="68" />
@@ -109,7 +115,7 @@
         <mark key="^" line="11" column="105" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1587768455372">
+      <file name="/GraphQL.result.json" timestamp="1587831998299">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tarsier/todo-service/build.sbt" timestamp="1587756133761">
@@ -196,10 +202,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>?user=root</text>
+        <text>pragmatic</text>
       </register>
       <register name="-" type="4">
-        <text>?user=root</text>
+        <text>pragmatic</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
@@ -208,31 +214,31 @@
         <text encoding="base64">ICBnYXRld2F5X215c3FsOgogICAgaW1hZ2U6IG15c3FsOjUuNwogICAgcmVzdGFydDogYWx3YXlzCiAgICBlbnZpcm9ubWVudDoKICAgICAgLSBNWVNRTF9EQVRBQkFTRT0ndGFyc2llcl9nYXRld2F5JwogICAgICAjIFNvIHlvdSBkb24ndCBoYXZlIHRvIHVzZSByb290LCBidXQgeW91IGNhbiBpZiB5b3UgbGlrZQogICAgICAtIE1ZU1FMX1VTRVI9JHtUQVJTSUVSX0dBVEVXQVlfTVlTUUxfVVNFUn0KICAgICAgIyBZb3UgY2FuIHVzZSB3aGF0ZXZlciBwYXNzd29yZCB5b3UgbGlrZQogICAgICAtIE1ZU1FMX1BBU1NXT1JEPSR7VEFSU0lFUl9HQVRFV0FZX01ZU1FMX1BXfQogICAgICAjIFBhc3N3b3JkIGZvciByb290IGFjY2VzcwogICAgICAtIE1ZU1FMX1JPT1RfUEFTU1dPUkQ9JycKICAgIHBvcnRzOgogICAgICAjIDxQb3J0IGV4cG9zZWQ+IDogPCBNeVNRTCBQb3J0IHJ1bm5pbmcgaW5zaWRlIGNvbnRhaW5lcj4KICAgICAgLSAnMzMwNjozMzA2JwogICAgZXhwb3NlOgogICAgICAtICczMzA2JwogICAgdm9sdW1lczoKICAgICAgLSAvdmFyL2xpYi90YXJzaWVyX2dhdGV3YXlfbXlzcWw6L3Zhci9saWIvbXlzcWwKCiMgTmFtZXMgb3VyIHZvbHVtZQp2b2x1bWVzOgogIG15LWRiOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4cG9zZToKICAgICAgLSAnMzMwNicK</text>
+        <text encoding="base64">ICBwb2Rpby1zZXJ2aWNlOgogICAgaW1hZ2U6IC9wb2Rpby1zZXJ2aWNlOiR7VEFHOi1sYXRlc3R9CiAgICBidWlsZDoKICAgICAgY29udGV4dDogLi9wb2Rpby1zZXJ2aWNlCiAgICAgIGRvY2tlcmZpbGU6IERvY2tlcmZpbGUKICAgIHZvbHVtZXM6CiAgICAtIC92YXIvbG9nL3ByYWdtYXRpYzovdmFyL2xvZwogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gUFJBR01BVElDX1BPRElPX0lEPSR7UFJBR01BVElDX1BPRElPX0lEfQogICAgICAtIFBSQUdNQVRJQ19QT0RJT19TRUNSRVQ9JHtQUkFHTUFUSUNfUE9ESU9fU0VDUkVUfQogICAgICAtIFBSQUdNQVRJQ19TRUxMRVJfSUQ9JHtQUkFHTUFUSUNfU0VMTEVSX0lEfQogICAgICAtIFBSQUdNQVRJQ19TRUxMRVJfVE9LRU49JHtQUkFHTUFUSUNfU0VMTEVSX1RPS0VOfQogICAgICAtIFBSQUdNQVRJQ19VU0VSTkFNRT0ke1BSQUdNQVRJQ19VU0VSTkFNRX0KICAgICAgLSBQUkFHTUFUSUNfUFc9JHtQUkFHTUFUSUNfUFd9CiAgICAgIC0gUkVESVNfSE9TVD1yZWRpcwogICAgZGVwZW5kc19vbjoKICAgICAgLSByZWRpcwogICAgICAtIHJldmVyc2Vwcm94eQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsYXp5IHZhbCBkYiA9IERhdGFiYXNlQ29uZmlnLmZvclVSSSgiamRiYzpwb3N0Z3Jlc3FsOi8vcG9zdGdyZXM6NTQzMi9EQl9OQU1FIiwgJHtVU0VSfSwgJHtQQVNTV09SRH0pCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIGV4cG9zZToKICAgICAgLSAnMzMwNicK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBsYXp5IHZhbCBkYiA9IERhdGFiYXNlQ29uZmlnLmZvclVSSSgiamRiYzpwb3N0Z3Jlc3FsOi8vcG9zdGdyZXM6NTQzMi9EQl9OQU1FIiwgJHtVU0VSfSwgJHtQQVNTV09SRH0pCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIyBTbyB5b3UgZG9uJ3QgaGF2ZSB0byB1c2Ugcm9vdCwgYnV0IHlvdSBjYW4gaWYgeW91IGxpa2UKICAgICAgLSBNWVNRTF9VU0VSPSR7VEFSU0lFUl9HQVRFV0FZX01ZU1FMX1VTRVJ9CiAgICAgICMgWW91IGNhbiB1c2Ugd2hhdGV2ZXIgcGFzc3dvcmQgeW91IGxpa2UKICAgICAgLSBNWVNRTF9QQVNTV09SRD0ke1RBUlNJRVJfR0FURVdBWV9NWVNRTF9QV30K</text>
+        <text encoding="base64">ICAgIGV4cG9zZToKICAgICAgLSAnMzMwNicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIyBTbyB5b3UgZG9uJ3QgaGF2ZSB0byB1c2Ugcm9vdCwgYnV0IHlvdSBjYW4gaWYgeW91IGxpa2UKICAgICAgLSBNWVNRTF9VU0VSPSR7VEFSU0lFUl9HQVRFV0FZX01ZU1FMX1VTRVJ9CiAgICAgICMgWW91IGNhbiB1c2Ugd2hhdGV2ZXIgcGFzc3dvcmQgeW91IGxpa2UKICAgICAgLSBNWVNRTF9QQVNTV09SRD0ke1RBUlNJRVJfR0FURVdBWV9NWVNRTF9QV30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBOYW1lcyBvdXIgdm9sdW1lCnZvbHVtZXM6CiAgdGFyc2llcl9nYXRld2F5Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBOYW1lcyBvdXIgdm9sdW1lCnZvbHVtZXM6Cgo=</text>
+        <text encoding="base64">IyBOYW1lcyBvdXIgdm9sdW1lCnZvbHVtZXM6CiAgdGFyc2llcl9nYXRld2F5Ogo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0YXJzaWVyX2dhdGV3YXk6Cg==</text>
+        <text encoding="base64">IyBOYW1lcyBvdXIgdm9sdW1lCnZvbHVtZXM6Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZWRpczoKICAgIGltYWdlOiAiYml0bmFtaS9yZWRpczpsYXRlc3QiCiAgICBlbnZpcm9ubWVudDoKICAgICAgIyBBTExPV19FTVBUWV9QQVNTV09SRCBpcyByZWNvbW1lbmRlZCBvbmx5IGZvciBkZXZlbG9wbWVudC4KICAgICAgLSBBTExPV19FTVBUWV9QQVNTV09SRD15ZXMKICAgICAgLSBSRURJU19ESVNBQkxFX0NPTU1BTkRTPUZMVVNIREIsRkxVU0hBTEwKICAgIGxhYmVsczoKICAgICAga29tcG9zZS5zZXJ2aWNlLnR5cGU6IG5vZGVwb3J0CiAgICBwb3J0czoKICAgICAgLSAiNjM3OTo2Mzc5IgogICAgdm9sdW1lczoKICAgICAgLSAicmVkaXNfZGF0YTovYml0bmFtaS9yZWRpcyIK</text>
+        <text encoding="base64">ICB0YXJzaWVyX2dhdGV3YXk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
