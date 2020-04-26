@@ -83,8 +83,8 @@
         <mark key="." line="24" column="17" />
         <mark key="^" line="24" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/ui/proxy.config.json" timestamp="1587916461245">
-        <mark key="[" line="2" column="33" />
+      <file name="$USER_HOME$/Documents/tarsier/ui/proxy.config.json" timestamp="1587916581302">
+        <mark key="[" line="2" column="36" />
         <mark key="]" line="2" column="36" />
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="35" />
@@ -140,11 +140,6 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/gateway/tsconfig.build.json" timestamp="1587852357935">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/tarsier/README.md" timestamp="1587915968030">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="42" column="0" />
@@ -155,6 +150,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/tarsier/ui/src/app/app.component.html" timestamp="1587916642057">
+        <mark key="[" line="526" column="41" />
+        <mark key="]" line="526" column="33" />
+        <mark key="^" line="526" column="33" />
+        <mark key="." line="526" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/user-service/config/custom-environment-variables.yml" timestamp="1587910171403">
         <mark key="[" line="2" column="18" />
