@@ -83,11 +83,11 @@
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/config/server/server.config.ts" timestamp="1588000318290">
-        <mark key="[" line="10" column="45" />
-        <mark key="]" line="10" column="45" />
-        <mark key="^" line="10" column="45" />
-        <mark key="." line="10" column="44" />
+      <file name="$USER_HOME$/Documents/tarsier/server/src/config/server/server.config.ts" timestamp="1588006883358">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="9" column="45" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/config/default.yml" timestamp="1587999159295">
         <mark key="[" line="0" column="0" />
@@ -110,6 +110,12 @@
         <mark key="]" line="5" column="26" />
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/tarsier/server/src/socket/socket.gateway.spec.ts" timestamp="1588006997906">
+        <mark key="[" line="1" column="38" />
+        <mark key="]" line="1" column="45" />
+        <mark key="." line="1" column="44" />
+        <mark key="^" line="1" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/utils/index.ts" timestamp="1588001492724">
         <mark key="[" line="1" column="26" />
@@ -152,15 +158,7 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1587996973787">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/socket/socket.gateway.ts" timestamp="1588004758013">
-        <mark key="[" line="21" column="47" />
-        <mark key="]" line="21" column="48" />
-        <mark key="." line="21" column="47" />
-        <mark key="^" line="21" column="48" />
-      </file>
+      <file name="$USER_HOME$/Documents/tarsier/server/src/socket/socket.gateway.ts" timestamp="1588004758013" />
       <file name="$USER_HOME$/Documents/tarsier/server/config/custom-environment-variables.yml" timestamp="1587999089815">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -205,11 +203,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZGVsYXkoMTAwMCksCg==</text>
+      <register name="&quot;" type="4">
+        <text>controller</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>controller</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
@@ -218,33 +216,33 @@
         <text encoding="base64">ICAgIHRoaXMubG9nZ2VyLmxvZyhgRXZlbnQgcmVjZWl2ZWQgYSBtZXNzYWdlYCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVsYXkoMTAwMCksCg==</text>
+        <text encoding="base64">aW1wb3J0IHtTZXJ2ZXJDb25maWdJbXBsfSBmcm9tICcuL3NlcnZlci5jb25maWcuaW1wbCcK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgZGVsYXkoMTAwMCksCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgY29uY2F0TWFwKGl0ZW0gPT4gdGltZXIoMTAwMCkubWFwKF8gPT4gaXRlbSkpLAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>{
         
       }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGVsYXkoNTAwKSwK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG51bWJlcnMgPSAK</text>
+        <text encoding="base64">ICAgICAgZGVsYXkoNTAwKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVsYXkoNTAwKSwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IG51bWJlcnMgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAoK</text>
+        <text encoding="base64">ICAgICAgZGVsYXkoNTAwKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IAoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbWFwKGhhbmRsZUVycm9yKGxvZ2dlcikpLAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
