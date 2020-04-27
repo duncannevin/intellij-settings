@@ -77,11 +77,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/config/server/server.config.spec.ts" timestamp="1588020726570">
-        <mark key="[" line="33" column="30" />
-        <mark key="]" line="33" column="34" />
-        <mark key="." line="33" column="33" />
-        <mark key="^" line="33" column="34" />
+      <file name="$USER_HOME$/Documents/tarsier/server/src/config/server/server.config.spec.ts" timestamp="1588023982215">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/config/config.module.ts" timestamp="1588000141403">
         <mark key="[" line="4" column="14" />
@@ -93,11 +93,6 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/config/default.yml" timestamp="1587999159295">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/config/development.yml" timestamp="1588020155317">
         <mark key="[" line="0" column="0" />
@@ -140,11 +135,6 @@
         <mark key="." line="8" column="14" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/config/production.yml" timestamp="1587999148946">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/config/server.config/server.config.ts" timestamp="1588000067321">
         <mark key="[" line="3" column="33" />
         <mark key="]" line="3" column="25" />
@@ -157,6 +147,12 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/tarsier/server/src/logger/logger.logger.spec.ts" timestamp="1588024110476">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/socket/socket.gateway.ts" timestamp="1588016905784">
         <mark key="[" line="18" column="59" />
         <mark key="]" line="18" column="65" />
@@ -167,6 +163,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="17" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/tarsier/server/src/logger/tarsier.logger.ts" timestamp="1588023556117">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="35" />
+        <mark key="^" line="7" column="50" />
+        <mark key="." line="7" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/logger/logger.module.ts" timestamp="1588001616382">
         <mark key="[" line="1" column="33" />
@@ -208,43 +210,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dHlwZW9mIA==</text>
+        <text>mockImplementation</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHlwZW9mIA==</text>
+        <text>mockImplementation</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChzZXJ2aWNlLkhPU1QpLnRvRXF1YWwobW9ja0NvbmZpZ3MuaG9zdCkK</text>
+      <register name="0" type="4">
+        <text>mockImplementation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICAKCg==</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlLnNldENvbnRleHQoJ2Zvb0JhcicpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMgPSBjb25maWcuZ2V0KCdzZXJ2ZXInKQo=</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNweU9uKGluc3RhbmNlLCAnc2V0Q29udGV4dCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgYmVmb3JlRWFjaCgoKSA9PiB7CiAgICBjb25maWdTcHkgPSBqZXN0LnNweU9uKGNvbmZpZywgJ2dldCcpCiAgICBjb25maWdTcHkuYW5kLnJldHVyblZhbHVlKHtob3N0OiAnbG9jYWxob3N0JywgcG9ydDogJzExMTEnLCBuYW1lOiAndGhlcmVhbHRhcnNpZXInfSkKICB9KQo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdChpbnN0YW5jZS5jb250ZXh0KS50b0JlKCdmb29CYXInKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgY29uZmlnIGZyb20gJ2NvbmZpZycKCmV4cG9ydCBkZWZhdWx0ICgpIHt9Cg==</text>
+        <text encoding="base64">ICAgIHNweU9uKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlLnNldENvbnRleHQoJ0Zvb0JhcicpCiAgICBleHBlY3QoaW5zdGFuY2UuZ2UpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgogIGNvbnN0cnVjdG9yKCkgewogICAgdGhpcy5zZXJ2ZXJDb25mID0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICAKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtTZXJ2ZXJDb25maWdJbXBsfSBmcm9tICcuL3NlcnZlci5jb25maWcuaW1wbCcK</text>
+        <text encoding="base64">ICAgIHRoaXMgPSBjb25maWcuZ2V0KCdzZXJ2ZXInKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGVsYXkoMTAwMCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
