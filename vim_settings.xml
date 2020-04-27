@@ -155,11 +155,11 @@
       <file name="/GraphQL.result.json" timestamp="1587996973787">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/socket/socket.gateway.ts" timestamp="1588003827287">
-        <mark key="[" line="22" column="7" />
-        <mark key="]" line="22" column="10" />
-        <mark key="." line="22" column="9" />
-        <mark key="^" line="22" column="10" />
+      <file name="$USER_HOME$/Documents/tarsier/server/src/socket/socket.gateway.ts" timestamp="1588004758013">
+        <mark key="[" line="21" column="47" />
+        <mark key="]" line="21" column="48" />
+        <mark key="." line="21" column="47" />
+        <mark key="^" line="21" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/config/custom-environment-variables.yml" timestamp="1587999089815">
         <mark key="[" line="0" column="0" />
@@ -205,11 +205,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>ap</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZGVsYXkoMTAwMCksCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ap</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
@@ -218,31 +218,33 @@
         <text encoding="base64">ICAgIHRoaXMubG9nZ2VyLmxvZyhgRXZlbnQgcmVjZWl2ZWQgYSBtZXNzYWdlYCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+        <text encoding="base64">ICAgICAgZGVsYXkoMTAwMCksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbWFwKGhhbmRsZUVycm9yKGxvZ2dlcikpLAo=</text>
+        <text encoding="base64">ICAgICAgY29uY2F0TWFwKGl0ZW0gPT4gdGltZXIoMTAwMCkubWFwKF8gPT4gaXRlbSkpLAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXBwLgo=</text>
+      <register name="3" type="4">
+        <text>{
+        
+      }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtJTmVzdEFwcGxpY2F0aW9ufSBmcm9tICdAbmVzdGpzL2NvbW1vbicK</text>
+        <text encoding="base64">ICAgICAgZGVsYXkoNTAwKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgYm9vdHN0cmFwID0gZ2V0RGVwZW5kZW5jaWVzID0+IGRvQm9vdHN0cmFwCiAgCmNvbnN0IGdldERlcGVuZGVuY2llczogT2JzZXJ2YWJsZTx7IGFwcDogSU5lc3RBcHBsaWNhdGlvbiwgbG9nZ2VyOkwgfT4gPSAoKSA9PiB7CiAgcmV0dXJuIGZyb20oTmVzdEZhY3RvcnkuY3JlYXRlKEFwcE1vZHVsZSkpCiAgICAucGlwZSgKICAgICAgbWFwKGFwcCA9PiB7CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgIGFwcCwKICAgICAgICAgIGxvZ2dlcjogYXBwLmdldCgnVGFyc2llckxvZ2dlcicpLAogICAgICAgICAgc2VydmVyQ29uZmlnOiBhcHAuZ2V0KCdTZXJ2ZXJDb25maWcnKQogICAgICAgIH0KICAgICAgfSkKICAgICkKfQoK</text>
+        <text encoding="base64">ICAgIGNvbnN0IG51bWJlcnMgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVsYXkoNTAwKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc3dpdGNoTWFwKCh7IGFwcCwgc2VydmVyQ29uZmlnIH0pID0+IHsKICAgICAgICByZXR1cm4gZnJvbShhcHAubGlzdGVuKHNlcnZlckNvbmZpZy5QT1JUKSkKICAgICAgICAgIC5waXBlKG1hcCgoKSA9PiAoeyBhcHAsIHNlcnZlckNvbmZpZyB9KSkpCiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IAoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBsb2dnZXIgPSBuZXcgVGFyc2llckxvZ2dlcigpCiAgbG9nZ2VyLnNldENvbnRleHQoJ2Jvb3RzdHJhcCcpCgo=</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0RGVwZW5kZW5jaWVzID0KCg==</text>
+        <text encoding="base64">ICAgICAgbWFwKGhhbmRsZUVycm9yKGxvZ2dlcikpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
