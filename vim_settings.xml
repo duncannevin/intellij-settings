@@ -158,7 +158,12 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/socket/socket.gateway.ts" timestamp="1588004758013" />
+      <file name="$USER_HOME$/Documents/tarsier/server/src/socket/socket.gateway.ts" timestamp="1588016905784">
+        <mark key="[" line="18" column="59" />
+        <mark key="]" line="18" column="65" />
+        <mark key="^" line="18" column="65" />
+        <mark key="." line="18" column="64" />
+      </file>
       <file name="$USER_HOME$/Documents/tarsier/server/config/custom-environment-variables.yml" timestamp="1587999089815">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -204,10 +209,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>controller</text>
+        <text>number</text>
       </register>
       <register name="-" type="4">
-        <text>controller</text>
+        <text>number</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
