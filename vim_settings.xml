@@ -135,17 +135,17 @@
         <mark key="." line="8" column="14" />
         <mark key="^" line="8" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/tarsier/server/src/logger/tarsier.logger.impl.ts" timestamp="1588080432240">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/config/server.config/server.config.ts" timestamp="1588000067321">
         <mark key="[" line="3" column="33" />
         <mark key="]" line="3" column="25" />
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/config/config.service.ts" timestamp="1587999979811">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="5" column="29" />
-        <mark key="^" line="5" column="29" />
-        <mark key="." line="5" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/logger/logger.logger.spec.ts" timestamp="1588026990346">
         <mark key="[" line="5" column="0" />
@@ -153,11 +153,11 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="60" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/utils/utils.spec.ts" timestamp="1588080347646">
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="15" column="28" />
-        <mark key="^" line="15" column="35" />
-        <mark key="." line="15" column="28" />
+      <file name="$USER_HOME$/Documents/tarsier/server/src/utils/utils.spec.ts" timestamp="1588081148935">
+        <mark key="[" line="33" column="48" />
+        <mark key="]" line="33" column="48" />
+        <mark key="^" line="33" column="48" />
+        <mark key="." line="33" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/socket/socket.gateway.ts" timestamp="1588016905784">
         <mark key="[" line="18" column="59" />
@@ -170,11 +170,11 @@
         <mark key="]" line="3" column="17" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/logger/tarsier.logger.ts" timestamp="1588024340204">
-        <mark key="[" line="26" column="10" />
-        <mark key="]" line="26" column="53" />
-        <mark key="^" line="7" column="50" />
-        <mark key="." line="7" column="49" />
+      <file name="$USER_HOME$/Documents/tarsier/server/src/logger/tarsier.logger.ts" timestamp="1588080459078">
+        <mark key="[" line="7" column="41" />
+        <mark key="]" line="7" column="41" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="7" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/logger/logger.module.ts" timestamp="1588001616382">
         <mark key="[" line="1" column="33" />
@@ -182,11 +182,11 @@
         <mark key="." line="1" column="39" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/config/model/server.config.ts" timestamp="1587999387346">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="14" />
-        <mark key="^" line="1" column="14" />
-        <mark key="." line="1" column="13" />
+      <file name="$USER_HOME$/Documents/tarsier/server/src/logger/tarsier.logger.mock.ts" timestamp="1588081034749">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="22" />
+        <mark key="^" line="13" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -217,45 +217,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgLm1vY2tJbXBsZW1lbnRhdGlvbigoKSA9PiB7fSk=</text>
+        <text>rn</text>
       </register>
       <register name="-" type="4">
-        <text>new Logger()</text>
+        <text>rn</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVzY3JpYmUoJ0xvZ2dlclNlcnZpY2UnLCAoKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgc3B5T24obG9nZ2VyU3VwZXIsICd3YXJuJykK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgLm1vY2tJbXBsZW1lbnRhdGlvbigoKSA9PiB7fSk=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAKICBwcml2YXRlIG1vY2tTdXBlcnMoKSB7CiAgICBzdXBlci5kZWJ1ZyA9ICgpID0+IHt9CiAgfQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IHtMb2dnZXJ9IGZyb20gJ0BuZXN0anMvY29tbW9uJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgZnVuY3Rpb24gbWFrZU1zZyhtc2c6IHN0cmluZykgewogICAgcmV0dXJuIGAke25ldyBEYXRlKCl9IFtibGFdICR7bXNnfVxyXG5gCiAgfQo=</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICB9Cgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>expect.objectContaining({
-      two: makeMsg(msg)
-    })</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHN1cGVyKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgZnVuY3Rpb24gaGFuZGxlcihlcnIsIGRhdGEpIHt9Cg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvciB7CiAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGluc3RhbmNlLnNldENvbnRleHQoJ2JsYScpCg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcihzdXBlcikgewogIH0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGluc3RhbmNlLnNldENvbnRleHQoJ2JsYScpCg==</text>
+        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKQogICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGluc3RhbmNlLnNldENvbnRleHQoJ2JsYScpCg==</text>
+        <text encoding="base64">ICBnZXRTdXBlcnMoKSB7CiAgICByZXR1cm4gc3VwZXIKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGYoKSB7Cgp9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtPYnNlcnZhYmxlfSBmcm9tICdyeGpzJwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
