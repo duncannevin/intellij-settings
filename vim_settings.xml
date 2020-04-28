@@ -153,11 +153,11 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="60" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/utils/utils.spec.ts" timestamp="1588027191170">
-        <mark key="[" line="10" column="48" />
-        <mark key="]" line="10" column="61" />
-        <mark key="^" line="10" column="61" />
-        <mark key="." line="10" column="60" />
+      <file name="$USER_HOME$/Documents/tarsier/server/src/utils/utils.spec.ts" timestamp="1588080347646">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="28" />
+        <mark key="^" line="15" column="35" />
+        <mark key="." line="15" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/socket/socket.gateway.ts" timestamp="1588016905784">
         <mark key="[" line="18" column="59" />
@@ -217,10 +217,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>vice</text>
+        <text encoding="base64">CiAgICAgICAgLm1vY2tJbXBsZW1lbnRhdGlvbigoKSA9PiB7fSk=</text>
       </register>
       <register name="-" type="4">
-        <text>vice</text>
+        <text>new Logger()</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
@@ -228,34 +228,34 @@
       <register name="0" type="2">
         <text encoding="base64">ZGVzY3JpYmUoJ0xvZ2dlclNlcnZpY2UnLCAoKSA9PiB7Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgLm1vY2tJbXBsZW1lbnRhdGlvbigoKSA9PiB7fSk=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHtMb2dnZXJ9IGZyb20gJ0BuZXN0anMvY29tbW9uJwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CiAgZnVuY3Rpb24gbWFrZU1zZyhtc2c6IHN0cmluZykgewogICAgcmV0dXJuIGAke25ldyBEYXRlKCl9IFtibGFdICR7bXNnfVxyXG5gCiAgfQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>expect.objectContaining({
       two: makeMsg(msg)
     })</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgZnVuY3Rpb24gaGFuZGxlcihlcnIsIGRhdGEpIHt9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGluc3RhbmNlLnNldENvbnRleHQoJ2JsYScpCg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGluc3RhbmNlLnNldENvbnRleHQoJ2JsYScpCg==</text>
+        <text encoding="base64">CiAgZnVuY3Rpb24gaGFuZGxlcihlcnIsIGRhdGEpIHt9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGluc3RhbmNlLnNldENvbnRleHQoJ2JsYScpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGYoKSB7Cgp9Cg==</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlLnNldENvbnRleHQoJ2JsYScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGluc3RhbmNlLnNldENvbnRleHQoJ2Zvb0JhcicpCg==</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlLnNldENvbnRleHQoJ2JsYScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGluc3RhbmNlLgo=</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGYoKSB7Cgp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
