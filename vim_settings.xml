@@ -80,11 +80,11 @@
       <file name="$USER_HOME$/Documents/tarsier/server/src/mocks/config.mock.ts" timestamp="1588081880142">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/socket/socket.module.ts" timestamp="1588086467001">
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/Documents/tarsier/server/src/socket/socket.module.ts" timestamp="1588095805847">
+        <mark key="[" line="7" column="24" />
         <mark key="]" line="7" column="43" />
-        <mark key="." line="6" column="26" />
-        <mark key="^" line="5" column="26" />
+        <mark key="." line="7" column="42" />
+        <mark key="^" line="7" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/mocks/logger/logger.module.mock.ts" timestamp="1588085293057">
         <mark key="[" line="5" column="24" />
