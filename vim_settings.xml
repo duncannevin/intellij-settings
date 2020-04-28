@@ -98,11 +98,11 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/socket/socket.gateway.ts" timestamp="1588016905784">
-        <mark key="[" line="18" column="59" />
-        <mark key="]" line="18" column="65" />
-        <mark key="^" line="18" column="65" />
-        <mark key="." line="18" column="64" />
+      <file name="$USER_HOME$/Documents/tarsier/server/src/mocks/logger/logger.module.mock.ts" timestamp="1588085293057">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/tsconfig.build.json" timestamp="1588081821666">
         <mark key="[" line="7" column="9" />
@@ -110,17 +110,23 @@
         <mark key="^" line="7" column="13" />
         <mark key="." line="7" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/logger/tarsier.logger.ts" timestamp="1588080459078">
-        <mark key="[" line="7" column="41" />
-        <mark key="]" line="7" column="41" />
-        <mark key="^" line="7" column="27" />
-        <mark key="." line="7" column="41" />
+      <file name="$USER_HOME$/Documents/tarsier/server/src/mocks/common/fs.mock.ts" timestamp="1588084148446">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/logger/logger.module.ts" timestamp="1588001616382">
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="1" column="40" />
-        <mark key="." line="1" column="39" />
-        <mark key="^" line="1" column="40" />
+      <file name="$USER_HOME$/Documents/tarsier/server/src/logger/tarsier.logger.ts" timestamp="1588084788750">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="55" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/tarsier/server/src/mocks/logger/tarsier.logger.mock.ts" timestamp="1588085362024">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="32" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/logger/tarsier.logger.mock.ts" timestamp="1588081658270">
         <mark key="[" line="21" column="0" />
@@ -138,10 +144,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/main.ts" timestamp="1588002547161">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Documents/tarsier/server/src/mocks/logger/logger.module.ts" timestamp="1588082369857">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="29" />
+        <mark key="^" line="5" column="29" />
+        <mark key="." line="5" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/socket/socket.gateway.spec.ts" timestamp="1588082118668">
         <mark key="[" line="9" column="0" />
@@ -149,17 +156,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/app.module.ts" timestamp="1588001600354">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="15" />
-        <mark key="." line="8" column="14" />
-        <mark key="^" line="8" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/logger/logger.logger.spec.ts" timestamp="1588026990346">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="33" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="60" column="43" />
+      <file name="$USER_HOME$/Documents/tarsier/server/src/logger/logger.logger.spec.ts" timestamp="1588085348602">
+        <mark key="[" line="20" column="48" />
+        <mark key="]" line="21" column="58" />
+        <mark key="." line="21" column="57" />
+        <mark key="^" line="21" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/utils/utils.spec.ts" timestamp="1588081737731">
         <mark key="[" line="21" column="0" />
@@ -207,43 +208,45 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29udHJvbGxlcnM6IFtTb2NrZXRHYXRld2F5XQo=</text>
+        <text encoding="base64">aW1wb3J0IHtyZWplY3RzfSBmcm9tICdhc3NlcnQnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>spec</text>
+        <text encoding="base64">LiA=</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpbXBvcnRzOiBbTG9nZ2VyTW9kdWxlXSwKICBwcm92aWRlcnM6IFtTb2NrZXRHYXRld2F5XQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IGxvZ0xvY2F0aW9uID0gJy92YXIvbG9nL3RhcnNpZXIubG9nJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29udHJvbGxlcnM6IFtTb2NrZXRHYXRld2F5XQo=</text>
+        <text encoding="base64">aW1wb3J0IHtyZWplY3RzfSBmcm9tICdhc3NlcnQnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyU3VwZXIgPSBudWxsCg==</text>
+        <text encoding="base64">ICBleHBvcnRzOiBbVGFyc2llckxvZ2dlck1vY2tdID0gW1RhcnNpZXJMb2dnZXJNb2NrXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc3B5T24obG9nZ2VyU3VwZXIsICdlcnJvcicpCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgTW9kdWxlIH0gZnJvbSAnQG5lc3Rqcy9jb21tb24nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc3VwZXJNZXRob2QgPSBsb2dnZXIuZ2V0U3VwZXIoJ3dhcm4nKQogICAgICBzcHlPbihzdXBlck1ldGhvZCwgJ3dhcm4nKQo=</text>
+        <text encoding="base64">QE1vZHVsZSh7Cn0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc3VwZXJNZXRob2QgPSBsb2dnZXIuZ2V0U3VwZXIoJ2Vycm9yJykKICAgICAgc3B5T24oc3VwZXJNZXRob2QsICdlcnJvcicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgLyoqCiAgICogVEVTVCBNRVRIT0RTCiAgICovCiAgZ2V0U3VwZXIobmFtZTogc3RyaW5nKSB7CiAgICByZXR1cm4gc3VwZXJbbmFtZV0KICB9Cg==</text>
+        <text encoding="base64">ICBwcm92aWRlcnM6IFtUYXJzaWVyTG9nZ2VyTW9ja10sCiAgZXhwb3J0czogW1RhcnNpZXJMb2dnZXJNb2NrXQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc3B5T24obG9nZ2VyU3VwZXIsICdlcnJvcicpCg==</text>
+      <register name="7" type="4">
+        <text>{
+      providers: [TarsierLoggerMock],
+    }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3B5T24obG9nZ2VyU3VwZXIsICd3YXJuJykK</text>
+        <text encoding="base64">aW1wb3J0IHtMb2dnZXJNb2R1bGVNb2NrfSBmcm9tICcuLi9tb2Nrcy9sb2dnZXIvbG9nZ2VyLm1vZHVsZS5tb2NrJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyU3VwZXIgPSBsb2dnZXIuZ2V0U3VwZXIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
