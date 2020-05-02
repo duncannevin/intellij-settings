@@ -101,7 +101,7 @@
         <mark key="^" line="4" column="50" />
         <mark key="." line="4" column="26" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1588261527514">
+      <file name="/GraphQL.result.json" timestamp="1588453922757">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/dto/initialize-env.dto.ts" timestamp="1588197322736">
@@ -121,7 +121,7 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1588436851502">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1588436920222">
         <mark key="[" line="0" column="36" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="20" />
@@ -139,8 +139,12 @@
         <mark key="^" line="1" column="82" />
         <mark key="." line="1" column="81" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.scala" timestamp="1588436875012">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.scala" timestamp="1588436900485">
+        <mark key="'" line="1" column="0" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/socket/pipe/env.exists.pipe.pipe.ts" timestamp="1588183415086">
         <mark key="[" line="3" column="26" />
@@ -164,7 +168,6 @@
         <mark key="^" line="8" column="37" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/README.md" timestamp="1588284479003" />
       <file name="$USER_HOME$/Documents/tarsier/server/src/app.module.ts" timestamp="1588184836383">
         <mark key="[" line="10" column="33" />
         <mark key="]" line="11" column="30" />
@@ -212,12 +215,13 @@
       <jump line="30" column="35" filename="$USER_HOME$/Documents/tarsier/server/src/socket/socket.gateway.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/tarsier/server/src/socket/socket.gateway.ts" />
       <jump line="8" column="33" filename="$USER_HOME$/Documents/tarsier/server/src/socket/pipe/initialize.env.pipe.ts" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Zm9vKDEwMCkK</text>
+        <text encoding="base64">QXJyYXkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHRvIHlvdXIgZW52aXJvbm1lbnQi</text>
@@ -229,31 +233,31 @@
         <text encoding="base64">ICAgIHNvbWUtY29uZmlnLWdyb3VwOgogICAgICBhU2Vuc2l0aXZlOiAicGxlYXNlIGFkZCAke1hZWn0gdG8geW91ciBlbnZpcm9ubWVudCIKICAgICAgYW5vdGhlck9uZTogInBsZWFzZSBhZGQgJHthc2RmfSB0byB5b3VyIGVudmlyb25tZW50Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zm9vKDEwMCkK</text>
+        <text encoding="base64">QXJyYXkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9vKDEwMCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnZhbCBmb28gPSBMaXN0LnJhbmdlKDEsIDExKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVudmlyb25tZW50SWQsIHRoaXMuZW52aXJvbm1lbnRzLmhhc093blByb3BlcnR5KGVudmlyb25tZW50SWQpLCB0aGlzLmVudmlyb25tZW50cykK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CnZhbCBmb28gPSBMaXN0LnJhbmdlKDEsIDExKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVudmlyb25tZW50SWQsIHRoaXMuZW52aXJvbm1lbnRzLmhhc093blByb3BlcnR5KGVudmlyb25tZW50SWQpLCB0aGlzLmVudmlyb25tZW50cykK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGpvaW5FbnZEdG8uc29ja2V0ID0gc29ja2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGpvaW5FbnZEdG8uZW52aXJvbm1lbnRJZCkK</text>
+        <text encoding="base64">ICAgIGpvaW5FbnZEdG8uc29ja2V0ID0gc29ja2V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGpvaW5FbnZEdG8uZW52aXJvbm1lbnRJZCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
