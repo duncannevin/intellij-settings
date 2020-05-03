@@ -114,11 +114,10 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1588532143134">
-        <mark key="[" line="1" column="2" />
-        <mark key="]" line="1" column="69" />
-        <mark key="." line="1" column="69" />
-        <mark key="^" line="1" column="70" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1588534947677">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/environment/interface/allowed-clients.interface.ts" timestamp="1588182889162">
         <mark key="[" line="1" column="29" />
@@ -148,11 +147,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/happy_number/HappyNumber.scala" timestamp="1588532854544">
-        <mark key="[" line="18" column="33" />
-        <mark key="]" line="18" column="33" />
-        <mark key="." line="18" column="32" />
-        <mark key="^" line="18" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/happy_number/HappyNumber.scala" timestamp="1588534910378">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="21" column="2" />
+        <mark key="." line="21" column="1" />
+        <mark key="^" line="21" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/socket/socket.module.ts" timestamp="1588184802689">
         <mark key="[" line="8" column="48" />
@@ -221,11 +220,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>ations</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
@@ -234,31 +233,31 @@
         <text encoding="base64">ICBwcmludGxuKEhhcHB5TnVtYmVyLmlzSGFwcHkoMTApKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhc2UgaW50IGlmIGludCA8IDEgPT4gZmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAKICBwcmludGxuKHMiMTk6IEhhcHB5TnVtYmVyLmlzSGFwcHkoMTkpfSIpCiAgcHJpbnRsbihIYXBweU51bWJlci5pc0hhcHB5KDEwKSkKICBwcmludGxuKEhhcHB5TnVtYmVyLmlzSGFwcHkoMTEpKQogIHByaW50bG4oSGFwcHlOdW1iZXIuaXNIYXBweSgxKSkK</text>
+        <text encoding="base64">NC5zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhc2UgaW50IGlmIGludCA8IDAgPT4gZmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIAo=</text>
+        <text encoding="base64">ICAgICAgZmFsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TWF0aC5wb3coMSwgMikgKyBNYXRoLnBvdyg5LCAyKQo=</text>
+        <text encoding="base64">ICAgIGNhc2UgaW50IGlmIGludCA8IDEwID0+IGZhbHNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFsIGZvbyA9IEFycmF5KDEsIDEsIDIsIDIsIDMsIDQsIDQpCgoK</text>
+        <text encoding="base64">ICAgIGNhc2UgaW50IGlmIGludCA8IDEgPT4gZmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNhc2UgXyA9PiA/Pz8K</text>
+        <text encoding="base64">ICAKICBwcmludGxuKHMiMTk6IEhhcHB5TnVtYmVyLmlzSGFwcHkoMTkpfSIpCiAgcHJpbnRsbihIYXBweU51bWJlci5pc0hhcHB5KDEwKSkKICBwcmludGxuKEhhcHB5TnVtYmVyLmlzSGFwcHkoMTEpKQogIHByaW50bG4oSGFwcHlOdW1iZXIuaXNIYXBweSgxKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhc2UgKGluZCwgXykgaWYgaW5kIDwgMCA9PiBuCg==</text>
+        <text encoding="base64">ICAgIGNhc2UgaW50IGlmIGludCA8IDAgPT4gZmFsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
