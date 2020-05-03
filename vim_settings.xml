@@ -89,6 +89,32 @@
         <mark key="." line="25" column="24" />
         <mark key="^" line="25" column="25" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/linkedlist/LinkedListSpec.scala" timestamp="1588525715693">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/happy_number/HappyNumber.scala" timestamp="1588534910378">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="21" column="2" />
+        <mark key="." line="21" column="1" />
+        <mark key="^" line="21" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/tarsier/server/src/socket/socket.module.ts" timestamp="1588184802689">
+        <mark key="[" line="8" column="48" />
+        <mark key="]" line="8" column="48" />
+        <mark key="." line="8" column="48" />
+        <mark key="^" line="8" column="30" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1588542103166">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/tarsier/server/src/app.module.ts" timestamp="1588184836383">
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="11" column="30" />
+        <mark key="." line="11" column="29" />
+        <mark key="^" line="11" column="30" />
+      </file>
       <file name="/GraphQL.result.json" timestamp="1588453922757">
         <mark key="[" line="0" column="0" />
       </file>
@@ -115,11 +141,11 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1588538899195">
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="22" />
-        <mark key="^" line="1" column="23" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1588541149422">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="29" />
+        <mark key="^" line="4" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/environment/interface/allowed-clients.interface.ts" timestamp="1588182889162">
         <mark key="[" line="1" column="29" />
@@ -134,11 +160,6 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/linkedlist/LinkedListSpec.scala" timestamp="1588525715693">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/socket/pipe/env.exists.pipe.pipe.ts" timestamp="1588183415086">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="3" column="26" />
@@ -149,34 +170,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/happy_number/HappyNumber.scala" timestamp="1588534910378">
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="21" column="2" />
-        <mark key="." line="21" column="1" />
-        <mark key="^" line="21" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/socket/socket.module.ts" timestamp="1588184802689">
-        <mark key="[" line="8" column="48" />
-        <mark key="]" line="8" column="48" />
-        <mark key="." line="8" column="48" />
-        <mark key="^" line="8" column="30" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/max_sub_array/MaxSubArray.scala" timestamp="1588539982976">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/app.module.ts" timestamp="1588184836383">
-        <mark key="[" line="10" column="33" />
-        <mark key="]" line="11" column="30" />
-        <mark key="." line="11" column="29" />
-        <mark key="^" line="11" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/enum/event.enum.ts" timestamp="1588182579034">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="2" column="40" />
-        <mark key="^" line="2" column="40" />
-        <mark key="." line="2" column="39" />
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/max_sub_array/MaxSubArray.scala" timestamp="1588543646690">
+        <mark key="[" line="24" column="38" />
+        <mark key="]" line="24" column="39" />
+        <mark key="." line="24" column="38" />
+        <mark key="^" line="24" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/environment/environment.service.ts" timestamp="1588202407407">
         <mark key="[" line="34" column="0" />
@@ -217,48 +215,49 @@
       <jump line="12" column="19" filename="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/linkedlist/LinkedList.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/linkedlist/LinkedList.scala" />
       <jump line="26" column="28" filename="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/linkedlist/LinkedList.scala" />
+      <jump line="46" column="17" filename="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/max_sub_array/MaxSubArray.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdmFsIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">KG1heCA9PSBudWxsIHx8IA==</text>
       </register>
       <register name="-" type="4">
-        <text>nums</text>
+        <text encoding="base64">KG1heCA9PSBudWxsIHx8IA==</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
       </register>
-      <register name="0" type="4">
-        <text>-2,1,-3,4,-1,2,1,-5,4</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGRlZiBsaXN0U3VtcyhuOiBBcnJheVtJbnRdKTogQXJyYXlbKEFycmF5W0ludF0sIEludCldID0gbiBtYXRjaCB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFsIAo=</text>
+        <text encoding="base64">cHJpdmF0ZSBkZWYgbGlzdFN1bXMobjogQXJyYXlbSW50XSk6IEFycmF5WyhBcnJheVtJbnRdLCBJbnQpXSA9IG4gbWF0Y2ggewogICAgY2FzZSBBcnJheSgpID0+IEFycmF5KCkKICAgIGNhc2UgQXJyYXkoXywgXyopID0+IChuLCBuLnN1bSkgKzogbGlzdFN1bXMobi5pbml0KQogIH0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsIChsZWZ0LCByaWdodCkgPQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ewogICAgdmFsIGZvbyA9IHN1bUVtKG51bXMpCiAgICAxMAogIH0KCiAgcHJpdmF0ZSBkZWYgc3VtRW0obnVtczogQXJyYXlbSW50XSkgPSA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFssIDQsIDVdICYgWzEsIDIsIDNdCiAgICBbNCwgNV0gJiBbMSwgMl0KICAgIFs1XSAmIFsyXQo=</text>
+        <text encoding="base64">CiAgLyoKICAgIC0wCiAgICBbMSwgMiwgMywgNCwgNV0KICAgIFsxLCAyLCAzLCA0XQogICAgWzEsIDIsIDNdCiAgICBbMSwgMl0KICAgIFsxXQoKICAgIC0xCiAgICBbMiwgMywgNCwgNV0KICAgIFsyLCAzLCA0XQogICAgWzIsIDNdCiAgICBbMl0KCiAgICAtMgogICAgWzMsIDQsIDVdCiAgICBbMywgNF0KICAgIFszXQoKICAgIC0zCiAgICBbNCwgNV0KICAgIFs0XQoKICAgIC00CiAgICBbNV0KICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFsxLCAyLCAzLCA0XSAmIFsyLCAzLCA0LCA1XQogICAgWzEsIDIsIDNdICYgWzRdICYgWzIsIDMsIDRdICYgWzVdCiAgICBbMSwgMl0gJiBbM10gJiBbMiwgM10gJiBbNF0KICAgIFsxXSAmIFsyXSAmIFsyXSAmIFszXQo=</text>
+        <text encoding="base64">ICAgIHZhbCBmb28yID0gZm9vYmFyKG51bXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSBkZWYgZm9vYmFyKG46IEFycmF5W0ludF0sIGJpZ2dlc3Q6IChBcnJheVtJbnRdLCBJbnQpID0gKEFycmF5LmVtcHR5W0ludF0sIDApKTogKEFycmF5W0ludF0sIEludCkgPSBuIG1hdGNoIHsKICAgIGNhc2UgQXJyYXkoKSA9PiBiaWdnZXN0CiAgICBjYXNlIEFycmF5KF8sIF8qKSA9PgogICAgICB2YWwgc3VtID0gKG4sIG4uc3VtKQogICAgICBmb29iYXIobi5pbml0LCBpZiAoc3VtLl8yID4gYmlnZ2VzdC5fMikgc3VtIGVsc2UgYmlnZ2VzdCkKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChudW1zLmxlbmd0aCA8PSAxICYmIG51bXMuc3VtID4gc3VtKSBudW1zLnN1bQogICAgZWxzZSBpZiAobnVtcy5sZW5ndGggPD0gMSkgc3VtCiAgICBlbHNlIHsKICAgICAgdmFsIHNwbGl0QXQ6IEludCA9IG51bXMubGVuZ3RoIC8gMgogICAgICB2YWwgKGxlZnQsIHJpZ2h0KSA9IG51bXMuc3BsaXRBdChzcGxpdEF0KQogICAgICB2YWwgKGxTdW0sIHJTdW0pID0gKGxlZnQuc3VtLCByaWdodC5zdW0pCiAgICAgIHN1bUVtKGxlZnQsIGlmIChsU3VtID4gc3VtKSBsU3VtIGVsc2Ugc3VtKQogICAgICBzdW1FbShyaWdodCwgaWYgKHJTdW0gPiBzdW0pIHJTdW0gZWxzZSBzdW0pCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGRlZiBmb28oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGxTdW0gPiByU3VtKSB7CiAgICAgICAgCiAgICAgIH0gZWxzZSB7CiAgICAgICAgCiAgICAgIH0KICAgICAgCg==</text>
+        <text encoding="base64">ICAvKgogICAgLTAKICAgIFsxLCAyLCAzLCA0LCA1XQogICAgWzEsIDIsIDMsIDRdCiAgICBbMSwgMiwgM10KICAgIFsxLCAyXQogICAgWzFdCgogICAgLTEKICAgIFsyLCAzLCA0LCA1XQogICAgWzIsIDMsIDRdCiAgICBbMiwgM10KICAgIFsyXQoKICAgIC0yCiAgICBbMywgNCwgNV0KICAgIFszLCA0XQogICAgWzNdCgogICAgLTMKICAgIFs0LCA1XQogICAgWzRdCgogICAgLTQKICAgIFs1XQogICovCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICAgIGlmIChsZWZ0Lm5vbkVtcHR5KSB7CiAgICAgICAgc3VtRW0obGVmdCwgaWYgKGxTdW0gPiBzdW0pIGxTdW0gZWxzZSBzdW0pCiAgICAgIH0KCiAgICAgIGlmIChyaWdodC5ub25FbXB0eSkgewogICAgICAgIHN1bUVtKHJpZ2h0LCBpZiAoclN1bSA+IHN1bSkgclN1bSBlbHNlIHN1bSkKICAgICAgfQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ewogICAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBmOiBBcnJheVsoQXJyYXlbSW50XSwgSW50KV0gPSBmb28obnVtcykKICAgIGYK</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
