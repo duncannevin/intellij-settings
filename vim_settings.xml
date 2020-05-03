@@ -103,11 +103,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/linkedlist/LinkedList.scala" timestamp="1588529526244">
-        <mark key="[" line="68" column="20" />
-        <mark key="]" line="68" column="65" />
-        <mark key="." line="68" column="64" />
-        <mark key="^" line="68" column="65" />
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/linkedlist/LinkedList.scala" timestamp="1588530493971">
+        <mark key="[" line="88" column="36" />
+        <mark key="]" line="88" column="40" />
+        <mark key="." line="88" column="39" />
+        <mark key="^" line="88" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/socket/socket.gateway.ts" timestamp="1588202090022">
         <mark key="'" line="0" column="0" />
@@ -223,10 +223,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Node</text>
+        <text>.toSeq</text>
       </register>
       <register name="-" type="4">
-        <text>Node</text>
+        <text>.toSeq</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
@@ -235,31 +235,31 @@
         <text encoding="base64">ICBkZWYgZm9yZWFjaChjYjogVCA9PiBUKTogVW5pdCA9ICgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAdGFpbHJlYwogIHByaXZhdGUgZGVmIGluaXQobm9kZTogTm9kZVtUXSwgbmV3Tm9kZTogTm9uRW1wdHlOb2RlW1RdKTogTm9kZVtUXSA9IG5vZGUgbWF0Y2ggewogICAgY2FzZSBFbXB0eU5vZGUoKSA9PiBuZXdOb2RlCiAgICBjYXNlIE5vbkVtcHR5Tm9kZShkYXRhLCBuZXh0KSA9PiBpbml0KG5leHQsIE5vbkVtcHR5Tm9kZShkYXRhLCBuZXdOb2RlKSkKICB9Cg==</text>
+        <text encoding="base64">ICAgIGNhc2UgKGluZCwgXykgaWYgaW5kIDwgMCA9PiBuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiBpbml0KG5vZGU6IE5vbkVtcHR5Tm9kZVtUXSk6IE5vbkVtcHR5Tm9kZVtUXSA9IG5vZGUgbWF0Y2ggeyBjYXNlIE5vbkVtcHR5Tm9kZShkYXRhLCBFbXB0eU5vZGUoKSkgPT4KICB9Cg==</text>
+        <text encoding="base64">ICAgIGNhc2UgKGluZCwgXykgaSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgaW5pdDogTm9kZVtUXSA9ID8/Pwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgaW5pdDogTm9kZVtUXSA9IEVtcHR5Tm9kZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgaW5pdDogTm9kZVtUXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgdGFpbDogTm9kZVtUXQo=</text>
+        <text encoding="base64">ICBkZWYgY2xlYXIoKTogVW5pdCA9ID8/Pwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgdGFpbDogTm9kZVtUXSA9IEVtcHR5Tm9kZSgpCg==</text>
+        <text encoding="base64">ICBkZWYgY2xlYXIoKTogVW5pdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgdGFpbDogTm9kZVtUXSA9IGhlYWQubmV4dAo=</text>
+        <text encoding="base64">ICBkZWYgY2xlYXIoKTogVW5pdCA9ICgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmb28zIGZvcmVhY2ggcHJpbnRsbgo=</text>
+        <text encoding="base64">ICBAdGFpbHJlYwogIHByaXZhdGUgZGVmIGluaXQobm9kZTogTm9kZVtUXSwgbmV3Tm9kZTogTm9uRW1wdHlOb2RlW1RdKTogTm9kZVtUXSA9IG5vZGUgbWF0Y2ggewogICAgY2FzZSBFbXB0eU5vZGUoKSA9PiBuZXdOb2RlCiAgICBjYXNlIE5vbkVtcHR5Tm9kZShkYXRhLCBuZXh0KSA9PiBpbml0KG5leHQsIE5vbkVtcHR5Tm9kZShkYXRhLCBuZXdOb2RlKSkKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
