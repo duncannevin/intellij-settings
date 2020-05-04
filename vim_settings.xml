@@ -170,10 +170,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/max_sub_array/MaxSubArray.scala" timestamp="1588602286315">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/max_sub_array/MaxSubArray.scala" timestamp="1588602356673">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
         <mark key="^" line="48" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/environment/environment.service.ts" timestamp="1588202407407">
@@ -221,7 +221,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dmFsIGZvbyA9IEFycmF5KDEsIDIsIDMsIDQsIDUsIDYsIDcsIDgsIDksIDEwKQo=</text>
+        <text encoding="base64">ICBAdGFpbHJlYwo=</text>
       </register>
       <register name="-" type="4">
         <text>.empty</text>
@@ -233,31 +233,31 @@
         <text encoding="base64">dmFsIGZvbyA9IEFycmF5KDEsIDIsIDMsIDQsIDUsIDYsIDcsIDgsIDksIDEwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAdGFpbHJlYwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcmludGxuKGZvbykgLy8gPz8K</text>
+        <text encoding="base64">ICAgIC8vICAgIGZvb0JhcihhcnJzLl8xIDorIGFycnMuXzIsIGN1cnNvciArIDEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjYXNlIChBcnJheSgpLCBBcnJheSgpKSA9PiBwcmludGxuKEFycmF5KCkpCiAgY2FzZSAoQXJyYXkoKSwgYXJyMikgPT4gCiAgICBwcmludGxuKGFycjIpCiAgICBmb29CYXIoYXJyMiwgMCkKICBjYXNlIChhcnIxLCBBcnJheSgpKSA9PiAKICAgIHByaW50bG4oYXJyMSkKICAgIGZvb0JhcihhcnIxLCAwKQo=</text>
+        <text encoding="base64">ICAgICAgZm9vQmFyKGFycjEsIDApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Zm9vLnNwbGl0QXQoMCkKZm9vLnNwbGl0QXQoMSkKZm9vLnNwbGl0QXQoMikKCg==</text>
+        <text encoding="base64">ICAgICAgZm9vQmFyKGFycjIsIDApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjYXNlIEFycmF5KCkgPT4gYXJyCiAgY2FzZSBBcnJheShoZWFkLCBfKykgPT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9vIG1hdGNoIHsKICBjYXNlIEFycmF5KGhlYWQsIF8qKSA9PiBoZWFkCn0K</text>
+        <text encoding="base64">ICBwcmludGxuKGZvbykgLy8gPz8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ci8vICAgIG51bXMuemlwV2l0aEluZGV4Lm1hcCB7Ci8vICAgIGNhc2UgKF8sIGluZGV4KSA9PiBmaW5kTWF4KG51bXMuc2xpY2UoaW5kZXgsIG51bXMubGVuZ3RoKSkKLy8gIH0K</text>
+        <text encoding="base64">ICBjYXNlIChBcnJheSgpLCBBcnJheSgpKSA9PiBwcmludGxuKEFycmF5KCkpCiAgY2FzZSAoQXJyYXkoKSwgYXJyMikgPT4gCiAgICBwcmludGxuKGFycjIpCiAgICBmb29CYXIoYXJyMiwgMCkKICBjYXNlIChhcnIxLCBBcnJheSgpKSA9PiAKICAgIHByaW50bG4oYXJyMSkKICAgIGZvb0JhcihhcnIxLCAwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gIHByaW50bG4oZm9vKSAvLyAoQXJyYXkoNCwgLTEsIDIsIDEpLCA2KQo=</text>
+        <text encoding="base64">Zm9vLnNwbGl0QXQoMCkKZm9vLnNwbGl0QXQoMSkKZm9vLnNwbGl0QXQoMikKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpdmF0ZSBkZWYgbGlzdFN1bXMobjogQXJyYXlbSW50XSk6IEFycmF5WyhBcnJheVtJbnRdLCBJbnQpXSA9IG4gbWF0Y2ggewogICAgY2FzZSBBcnJheSgpID0+IEFycmF5KCkKICAgIGNhc2UgQXJyYXkoXywgXyopID0+IChuLCBuLnN1bSkgKzogbGlzdFN1bXMobi5pbml0KQogIH0K</text>
+        <text encoding="base64">ICBjYXNlIEFycmF5KCkgPT4gYXJyCiAgY2FzZSBBcnJheShoZWFkLCBfKykgPT4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
