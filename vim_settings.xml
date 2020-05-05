@@ -90,11 +90,11 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1588631311164">
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="14" column="22" />
-        <mark key="." line="14" column="21" />
-        <mark key="^" line="14" column="22" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1588633305675">
+        <mark key="[" line="9" column="59" />
+        <mark key="]" line="9" column="65" />
+        <mark key="." line="9" column="64" />
+        <mark key="^" line="9" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/socket/pipe/env.exists.pipe.ts" timestamp="1588201930139">
         <mark key="[" line="25" column="14" />
@@ -229,10 +229,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>nums.slice(0, i).concat(nums.slice(i + 1))</text>
+        <text encoding="base64">bnVtcyA9IA==</text>
       </register>
       <register name="-" type="4">
-        <text>nums.slice(0, i).concat(nums.slice(i + 1))</text>
+        <text encoding="base64">bnVtcyA9IA==</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
@@ -241,31 +241,31 @@
         <text encoding="base64">Ly8gIGRlZiBhcHBseShudW1zOiBBcnJheVtJbnRdKTogQXJyYXlbSW50XSA9IG51bXMgbWF0Y2ggewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhudW1zKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YXIgZmlyc3RaZXJvCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh6ZXJvcykKICBjb25zb2xlLmxvZyhub1plcm9zKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG51bXMgPSBudW1zLnRha2UoMikK</text>
+        <text encoding="base64">ICBudW1zLnJlZHVjZSgoemVyb3MsIG51bSwgaW5kZXgpID0+IHsKICAgIGlmIChudW0gPT09IDApIHplcm9zLnB1c2goaW5kZXgpCiAgICByZXR1cm4gemVyb3MKICB9LCBbXSkuZm9yRWFjaCgoemVyb0xvYywgXywgY29sbGVjdGlvbikgPT4gewogICAgbnVtcy5zcGxpY2UoemVyb0xvYywgMSkKICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyIiKQo=</text>
+        <text encoding="base64">ICAgIG51bXMucHVzaChudW1zLnNwbGljZSh6ZXJvTG9jLCAxKVswXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCB6ZXJvTG9jYXRpb25zID0gbnVtcy5mb2xkTGVmdCgoTGlzdC5lbXB0eVtJbnRdLCAwKSkgewogICAgICBjYXNlICgobG9jYXRpb25zLCBpdGVyYXRpb24pLCBudW0pIGlmIG51bSA9PSAwID0+IChpdGVyYXRpb246OmxvY2F0aW9ucywgaXRlcmF0aW9uICsgMSkKICAgICAgY2FzZSAoKGxvY2F0aW9ucywgaXRlcmF0aW9uKSwgXykgPT4gKGxvY2F0aW9ucywgaXRlcmF0aW9uICsgMSkKICAgIH0uXzEK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbGxlY3Rpb24pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAobG9jYXRpb25zLCApID0+IGxvY2F0aW9ucwo=</text>
+        <text encoding="base64">ICAgIGlmIChudW0gPT09IDApICwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBiZWZvcmVDb3VudCA9IG51bXMubGVuZ3RoCiAgICB2YWwgd2l0aG91dFplcm9zID0gbnVtcy5maWx0ZXJOb3QoXyA9PSAwKQogICAgdmFyIGluZGV4ID0gMAoKICAgIHdoaWxlIChpbmRleCA8IChiZWZvcmVDb3VudCAtIHdpdGhvdXRaZXJvcy5sZW5ndGgpKSB7CiAgICAgIG51bXMoaW5kZXgpID0gd2l0aG91dFplcm9zKGluZGV4KQogICAgICBpbmRleCArPSAxCiAgICB9Cg==</text>
+        <text encoding="base64">ICBjb25zdCB6ZXJvcyA9IAogIAogICAKICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbnVtcyhpbmRleCkgPSBuCg==</text>
+        <text encoding="base64">ICBmb3IgKGxldCBpbmRleCA9IDA7IGluZGV4IDwgbnVtcy5sZW5ndGg7IGluZGV4KyspIHsKICAgIGlmIChudW1zW2luZGV4XSA9PT0gMCkgewogICAgICB6ZXJvcy5wdXNoKGluZGV4KQogICAgfQogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBsZXQgbGVuID0gbnVtcy5sZW5ndGggLSAxCiAgbGV0IGluZGV4ID0gMAoKICB3aGlsZSAobGVuIC0gaW5kZXggPj0gMCkgewogICAgY29uc3QgY3VycmVudCA9IG51bXNbaW5kZXhdCiAgICBjb25zb2xlLmxvZyhjdXJyZW50LCBudW1zKQogICAgaWYgKGN1cnJlbnQgPT09IDApIHsKICAgICAgbnVtcy5zcGxpY2UoaW5kZXgsIDEpCiAgICAgIG51bXMucHVzaCgwKQogICAgICBsZW4tLQogICAgfQoKICAgIGluZGV4KysKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
