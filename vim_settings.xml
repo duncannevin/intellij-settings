@@ -118,11 +118,11 @@
       <file name="/Dummy.scala" timestamp="1588542103166">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/levelwidth/index.js" timestamp="1588871341532">
-        <mark key="[" line="27" column="39" />
-        <mark key="]" line="28" column="19" />
-        <mark key="." line="28" column="18" />
-        <mark key="^" line="28" column="19" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/levelwidth/index.js" timestamp="1588872211009">
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="24" column="13" />
+        <mark key="." line="24" column="12" />
+        <mark key="^" line="24" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/move_zeros/MoveZeros.scala" timestamp="1588630900848">
         <mark key="'" line="25" column="11" />
@@ -228,10 +228,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>st</text>
+        <text encoding="base64">ICYmIHNjcmF0Y2hbMF0gIT09IGN1cnNvcg==</text>
       </register>
       <register name="-" type="4">
-        <text>st</text>
+        <text encoding="base64">ICYmIHNjcmF0Y2hbMF0gIT09IGN1cnNvcg==</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
@@ -240,31 +240,31 @@
         <text encoding="base64">ICAgICAgaWYgKGxldHRlci5tYXRjaCgvW15hLXpBLVoxLTldLykpIGNvbnRpbnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRDb3VudCsrCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNjcmF0Y2gsIHdpZHRocykKICAgIGNvbnN0IGN1cnJlbnROb2RlID0gc2NyYXRjaC5zaGlmdCgpCgogICAgaWYgKGN1cnJlbnROb2RlID09PSBjdXJzb3IpIHsKICAgICAgd2lkdGhzLnB1c2goMCkKICAgICAgc2NyYXRjaC5wdXNoKGN1cnNvcikKICAgICAgY29udGludWUKICAgIH0KCiAgICB3aWR0aHNbd2lkdGhzLmxlbmd0aCAtIDFdICs9IDEgfHwgMQogICAgc2NyYXRjaCA9IFsuLi5zY3JhdGNoLCAuLi5jdXJyZW50Tm9kZS5jaGlsZHJlbl0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHdpZHRocykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGN1cnJlbnRDb3VudCA9IHdpZHRoc1t3aWR0aHMubGVuZ3RoXSB8fCAxCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNjcmF0Y2gpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAKICB3aGlsZSAoKSB7fQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN1cnJlbnROb2RlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAKICBmdW5jdGlvbiBjb2xsZWN0V2lkdGhzKCkge30K</text>
+        <text encoding="base64">ICAgIHNjcmF0Y2guc2hpZnQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBjdXJzb3IgPSAnYycKCiAgcmV0dXJuIGNhbGN1bGF0ZVdpZHRocyhbcm9vdCwgY3Vyc29yXSwgWzBdKQoKICBmdW5jdGlvbiBjYWxjdWxhdGVXaWR0aHMoc2xhdGUsIHdpZHRocykgewogICAgaWYgKHNsYXRlLmxlbmd0aCA8PSAxKSByZXR1cm4gd2lkdGhzCgogICAgY29uc3QgaGVhZCA9IHNsYXRlLnNoaWZ0KCkKCiAgICBpZiAoaGVhZCA9PT0gY3Vyc29yKSB7CiAgICAgIHJldHVybiBjYWxjdWxhdGVXaWR0aHMoWy4uLnNsYXRlLCBjdXJzb3JdLCBbLi4ud2lkdGhzLCAwXSkKICAgIH0KCiAgICB3aWR0aHNbd2lkdGhzLmxlbmd0aCAtIDFdKysKCiAgICByZXR1cm4gY2FsY3VsYXRlV2lkdGhzKFsuLi5zbGF0ZSwgLi4uaGVhZC5jaGlsZHJlbl0sIHdpZHRocykKICB9Cg==</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRDb3VudCsrCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBub2RlcyA9IFtdCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNodW5rZWQpCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGN1cnJlbnRDb3VudCA9IHdpZHRoc1t3aWR0aHMubGVuZ3RoXSB8fCAxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAKICB3aGlsZSAoKSB7fQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
