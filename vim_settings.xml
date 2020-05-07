@@ -131,11 +131,11 @@
         <mark key="." line="15" column="27" />
         <mark key="^" line="15" column="25" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1588878720760">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="18" />
-        <mark key="." line="3" column="17" />
-        <mark key="^" line="3" column="18" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1588879504695">
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="30" column="31" />
+        <mark key="." line="30" column="30" />
+        <mark key="^" line="30" column="31" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1588684710002">
         <mark key="[" line="0" column="0" />
@@ -229,44 +229,44 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBkaXJlY3Rpb25zID0gewogIC8vICAgUklHSFQ6ICdyJywKICAvLyAgIERPV046ICdkJywKICAvLyAgIExFRlQ6ICdsJywKICAvLyAgIFVQOiAndScKICAvLyB9CiAgLy8gbGV0IGN1cnJlbnREaXJlY3Rpb24gPSBkaXJlY3Rpb25zLlJJR0hUCiAgLy8gbGV0IHggPSAwCiAgLy8gbGV0IHkgPSAwCiAgLy8gbGV0IGNvdW50ID0gMAogIC8vIGNvbnN0IHRvdGFsUG9zaXRpb25zID0gbiAqIG4KICAvLwogIC8vIHdoaWxlIChjb3VudCA8PSB0b3RhbFBvc2l0aW9ucykgewogIC8vICAgaWYgKGN1cnJlbnREaXJlY3Rpb24gPT09IGRpcmVjdGlvbnMuUklHSFQpIHsKICAvLyAgICAgZm9yICh4OyB4IDwgbjsgeCsrKSB7CiAgLy8gICAgICAgc3BpcmFsW3ldW3hdID0gKytjb3VudAogIC8vICAgICB9CiAgLy8gICAgIGN1cnJlbnREaXJlY3Rpb24gPSBkaXJlY3Rpb25zLkRPV04KICAvLyAgIH0KICAvLyAgIC8vCiAgLy8gICAvLyBpZiAoY3VycmVudERpcmVjdGlvbiA9PT0gZGlyZWN0aW9ucy5ET1dOKSB7CiAgLy8gICAvLyAgIHdoaWxlICh5IDwgbikgewogIC8vICAgLy8gICAgIHNwaXJhbFt5XVt4XSA9ICsrY291bnQKICAvLyAgIC8vICAgICB5KysKICAvLyAgIC8vICAgfQogIC8vICAgLy8gICB5LS0KICAvLyAgIC8vICAgY3VycmVudERpcmVjdGlvbiA9IGRpcmVjdGlvbnMuTEVGVAogIC8vICAgLy8gICBjb250aW51ZQogIC8vICAgLy8gfQogIC8vCiAgLy8gICBicmVhawogIC8vIH0KICAvLwogIC8vIHJldHVybiBzcGlyYWwK</text>
+        <text encoding="base64">ICAKICBmdW5jdGlvbiBtYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>JSON.stringify(</text>
+        <text>matrix</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgd2hpbGUgKHggPCBuKSB7CiAgICAgICAgc3BpcmFsW3ldW3hdID0gKytjb3VudAogICAgICAgIHgrKwogICAgICB9CiAgICAgIGN1cnJlbnREaXJlY3Rpb24gPSBkaXJlY3Rpb25zLkRPV04KICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICBjb25zdCBSSUdIVCA9ICdyJwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAKICBmdW5jdGlvbiBtYQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICByZXR1cm4gbWF0cml4LmNvbmNhdCgpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IG1hdHJpeCA9IFtdCiAgICAKICAgIHdoaWxlIChuIDwgMCkgewogICAgICBtYXRyaXgucHVzaChbXSkKICAgICAgCiAgICAgIG4tLQogICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZvciAobGV0IGkgPSAwOyBpIDwgbjsgaSsrKSB7fQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zdCBjb3VudCA9IDAK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAvLyBjb25zdCBkaXJlY3Rpb25zID0gewogIC8vICAgUklHSFQ6ICdyJywKICAvLyAgIERPV046ICdkJywKICAvLyAgIExFRlQ6ICdsJywKICAvLyAgIFVQOiAndScKICAvLyB9CiAgLy8gbGV0IGN1cnJlbnREaXJlY3Rpb24gPSBkaXJlY3Rpb25zLlJJR0hUCiAgLy8gbGV0IHggPSAwCiAgLy8gbGV0IHkgPSAwCiAgLy8gbGV0IGNvdW50ID0gMAogIC8vIGNvbnN0IHRvdGFsUG9zaXRpb25zID0gbiAqIG4KICAvLwogIC8vIHdoaWxlIChjb3VudCA8PSB0b3RhbFBvc2l0aW9ucykgewogIC8vICAgaWYgKGN1cnJlbnREaXJlY3Rpb24gPT09IGRpcmVjdGlvbnMuUklHSFQpIHsKICAvLyAgICAgZm9yICh4OyB4IDwgbjsgeCsrKSB7CiAgLy8gICAgICAgc3BpcmFsW3ldW3hdID0gKytjb3VudAogIC8vICAgICB9CiAgLy8gICAgIGN1cnJlbnREaXJlY3Rpb24gPSBkaXJlY3Rpb25zLkRPV04KICAvLyAgIH0KICAvLyAgIC8vCiAgLy8gICAvLyBpZiAoY3VycmVudERpcmVjdGlvbiA9PT0gZGlyZWN0aW9ucy5ET1dOKSB7CiAgLy8gICAvLyAgIHdoaWxlICh5IDwgbikgewogIC8vICAgLy8gICAgIHNwaXJhbFt5XVt4XSA9ICsrY291bnQKICAvLyAgIC8vICAgICB5KysKICAvLyAgIC8vICAgfQogIC8vICAgLy8gICB5LS0KICAvLyAgIC8vICAgY3VycmVudERpcmVjdGlvbiA9IGRpcmVjdGlvbnMuTEVGVAogIC8vICAgLy8gICBjb250aW51ZQogIC8vICAgLy8gfQogIC8vCiAgLy8gICBicmVhawogIC8vIH0KICAvLwogIC8vIHJldHVybiBzcGlyYWwK</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text>(new Array(n))
     .fill(new Array(n))</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hpdCcpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29udGludWUK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzcGlyYWwpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHI7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBsZXQgeCA9IDAKICBsZXQgeSA9IDAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgd2hpbGUgKHggPCBuKSB7CiAgICAgICAgc3BpcmFsW3ldW3hdID0gKytjb3VudAogICAgICAgIHgrKwogICAgICB9CiAgICAgIGN1cnJlbnREaXJlY3Rpb24gPSBkaXJlY3Rpb25zLkRPV04KICAgICAgeSsrCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgeC0tCg==</text>
+        <text encoding="base64">ICAgICAgY29udGludWUK</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
