@@ -77,6 +77,53 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/chunk/index.js" timestamp="1588870202419">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="16" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/tarsier/server/src/socket/pipe/env.exists.pipe.ts" timestamp="1588201930139">
+        <mark key="[" line="25" column="14" />
+        <mark key="]" line="25" column="25" />
+        <mark key="." line="25" column="24" />
+        <mark key="^" line="25" column="25" />
+      </file>
+      <file name="/a.dummy" timestamp="1588863906260">
+        <mark key="[" line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/fromlast/index.js" timestamp="1588870536898">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="21" />
+        <mark key="^" line="21" column="21" />
+        <mark key="." line="22" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/linkedlist/LinkedListSpec.scala" timestamp="1588525715693">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/bst/index.js" timestamp="1588869734219">
+        <mark key="[" line="44" column="17" />
+        <mark key="]" line="44" column="17" />
+        <mark key="." line="44" column="16" />
+        <mark key="^" line="44" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/happy_number/HappyNumber.scala" timestamp="1588534910378">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="21" column="2" />
+        <mark key="." line="21" column="1" />
+        <mark key="^" line="21" column="2" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1588542103166">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/levelwidth/index.js" timestamp="1588871341532">
+        <mark key="[" line="27" column="39" />
+        <mark key="]" line="28" column="19" />
+        <mark key="." line="28" column="18" />
+        <mark key="^" line="28" column="19" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/move_zeros/MoveZeros.scala" timestamp="1588630900848">
         <mark key="'" line="25" column="11" />
         <mark key="[" line="15" column="27" />
@@ -90,22 +137,8 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/socket/pipe/env.exists.pipe.ts" timestamp="1588201930139">
-        <mark key="[" line="25" column="14" />
-        <mark key="]" line="25" column="25" />
-        <mark key="." line="25" column="24" />
-        <mark key="^" line="25" column="25" />
-      </file>
       <file name="/GraphQL.result.json" timestamp="1588684710002">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1588863906260">
-        <mark key="[" line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/dto/initialize-env.dto.ts" timestamp="1588197322736">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/linkedlist/LinkedList.scala" timestamp="1588536955568">
         <mark key="[" line="92" column="7" />
@@ -119,16 +152,17 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/capitalize/index.js" timestamp="1588869849550">
+        <mark key="[" line="11" column="58" />
+        <mark key="]" line="12" column="4" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="12" column="3" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1588614625153">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="3" column="73" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/test/scala/linkedlist/LinkedListSpec.scala" timestamp="1588525715693">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.scala" timestamp="1588436900485">
         <mark key="'" line="1" column="0" />
@@ -137,47 +171,16 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/environment/environment.ts" timestamp="1588197365712">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/bst/index.js" timestamp="1588866842150">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/happy_number/HappyNumber.scala" timestamp="1588534910378">
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="21" column="2" />
-        <mark key="." line="21" column="1" />
-        <mark key="^" line="21" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/socket/socket.module.ts" timestamp="1588184802689">
-        <mark key="[" line="8" column="48" />
-        <mark key="]" line="8" column="48" />
-        <mark key="." line="8" column="48" />
-        <mark key="^" line="8" column="30" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/max_sub_array/MaxSubArray.scala" timestamp="1588614803444">
         <mark key="[" line="16" column="39" />
         <mark key="]" line="17" column="13" />
         <mark key="." line="17" column="12" />
         <mark key="^" line="17" column="13" />
       </file>
-      <file name="/Dummy.scala" timestamp="1588542103166">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/anagrams/index.js" timestamp="1588866800998">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/app.module.ts" timestamp="1588184836383">
-        <mark key="[" line="10" column="33" />
-        <mark key="]" line="11" column="30" />
-        <mark key="." line="11" column="29" />
-        <mark key="^" line="11" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/environment/environment.service.ts" timestamp="1588202407407">
         <mark key="[" line="34" column="0" />
@@ -224,11 +227,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgaW5zZXJ0KGRhdGEpIHsKICAgIGRvSW5zZXJ0KHRoaXMpCgogICAgZnVuY3Rpb24gZG9JbnNlcnQoYnN0ID0gdGhpcykgewogICAgICBpZiAoYnN0LmRhdGEgPj0gZGF0YSAmJiAhYnN0LmxlZnQpIHsKICAgICAgICByZXR1cm4gYnN0LmxlZnQgPSBuZXcgTm9kZShkYXRhKQogICAgICB9CgogICAgICBpZiAoYnN0LmRhdGEgPCBkYXRhICYmICFic3QucmlnaHQpIHsKICAgICAgICByZXR1cm4gYnN0LnJpZ2h0ID0gbmV3IE5vZGUoZGF0YSkKICAgICAgfQoKICAgICAgaWYgKGJzdC5kYXRhID49IGRhdGEpIHsKICAgICAgICByZXR1cm4gZG9JbnNlcnQoYnN0LmxlZnQpCiAgICAgIH0KCiAgICAgIHJldHVybiBkb0luc2VydChic3QucmlnaHQpCiAgICB9CiAgfQoKICBjb250YWlucyh2YWwpIHsKICAgIHJldHVybiBmaW5kSXQodGhpcykKCiAgICBmdW5jdGlvbiBmaW5kSXQoYnN0KSB7CiAgICAgIGlmIChic3QuZGF0YSA9PT0gdmFsKSByZXR1cm4gYnN0CgogICAgICBpZiAoIWJzdC5sZWZ0ICYmICFic3QucmlnaHQpIHJldHVybiBudWxsCgogICAgICBpZiAoYnN0LmRhdGEgPj0gdmFsKSB7CiAgICAgICAgcmV0dXJuIGZpbmRJdChic3QubGVmdCkKICAgICAgfQoKICAgICAgcmV0dXJuIGZpbmRJdChic3QucmlnaHQpCiAgICB9CiAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>st</text>
       </register>
       <register name="-" type="4">
-        <text>hit</text>
+        <text>st</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
@@ -237,31 +240,31 @@
         <text encoding="base64">ICAgICAgaWYgKGxldHRlci5tYXRjaCgvW15hLXpBLVoxLTldLykpIGNvbnRpbnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgaW5zZXJ0KGRhdGEpIHsKICAgIGRvSW5zZXJ0KHRoaXMpCgogICAgZnVuY3Rpb24gZG9JbnNlcnQoYnN0ID0gdGhpcykgewogICAgICBpZiAoYnN0LmRhdGEgPj0gZGF0YSAmJiAhYnN0LmxlZnQpIHsKICAgICAgICByZXR1cm4gYnN0LmxlZnQgPSBuZXcgTm9kZShkYXRhKQogICAgICB9CgogICAgICBpZiAoYnN0LmRhdGEgPCBkYXRhICYmICFic3QucmlnaHQpIHsKICAgICAgICByZXR1cm4gYnN0LnJpZ2h0ID0gbmV3IE5vZGUoZGF0YSkKICAgICAgfQoKICAgICAgaWYgKGJzdC5kYXRhID49IGRhdGEpIHsKICAgICAgICByZXR1cm4gZG9JbnNlcnQoYnN0LmxlZnQpCiAgICAgIH0KCiAgICAgIHJldHVybiBkb0luc2VydChic3QucmlnaHQpCiAgICB9CiAgfQoKICBjb250YWlucyh2YWwpIHsKICAgIHJldHVybiBmaW5kSXQodGhpcykKCiAgICBmdW5jdGlvbiBmaW5kSXQoYnN0KSB7CiAgICAgIGlmIChic3QuZGF0YSA9PT0gdmFsKSByZXR1cm4gYnN0CgogICAgICBpZiAoIWJzdC5sZWZ0ICYmICFic3QucmlnaHQpIHJldHVybiBudWxsCgogICAgICBpZiAoYnN0LmRhdGEgPj0gdmFsKSB7CiAgICAgICAgcmV0dXJuIGZpbmRJdChic3QubGVmdCkKICAgICAgfQoKICAgICAgcmV0dXJuIGZpbmRJdChic3QucmlnaHQpCiAgICB9CiAgfQo=</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRDb3VudCsrCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZGF0YSA9IGRhdGEKICAgIHRoaXMubGVmdCA9IG51bGwKICAgIHRoaXMucmlnaHQgPSBudWxsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsZXR0ZXIsICdoaXQnKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGN1cnJlbnRDb3VudCA9IHdpZHRoc1t3aWR0aHMubGVuZ3RoXSB8fCAxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAKICB3aGlsZSAoKSB7fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAKICBmdW5jdGlvbiBjb2xsZWN0V2lkdGhzKCkge30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobGV0dGVyLCAhIWxldHRlci5tYXRjaCgvW15hLXpBLVoxLTldLykpCg==</text>
+        <text encoding="base64">ICBjb25zdCBjdXJzb3IgPSAnYycKCiAgcmV0dXJuIGNhbGN1bGF0ZVdpZHRocyhbcm9vdCwgY3Vyc29yXSwgWzBdKQoKICBmdW5jdGlvbiBjYWxjdWxhdGVXaWR0aHMoc2xhdGUsIHdpZHRocykgewogICAgaWYgKHNsYXRlLmxlbmd0aCA8PSAxKSByZXR1cm4gd2lkdGhzCgogICAgY29uc3QgaGVhZCA9IHNsYXRlLnNoaWZ0KCkKCiAgICBpZiAoaGVhZCA9PT0gY3Vyc29yKSB7CiAgICAgIHJldHVybiBjYWxjdWxhdGVXaWR0aHMoWy4uLnNsYXRlLCBjdXJzb3JdLCBbLi4ud2lkdGhzLCAwXSkKICAgIH0KCiAgICB3aWR0aHNbd2lkdGhzLmxlbmd0aCAtIDFdKysKCiAgICByZXR1cm4gY2FsY3VsYXRlV2lkdGhzKFsuLi5zbGF0ZSwgLi4uaGVhZC5jaGlsZHJlbl0sIHdpZHRocykKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmb3IgKGxldCBsZXR0ZXIgb2Ygc3RyaW5nQikgewogICAgCiAgfQo=</text>
+        <text encoding="base64">ICBjb25zdCBub2RlcyA9IFtdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNodW5rZWQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
