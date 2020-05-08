@@ -77,13 +77,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/move_zeros/MoveZeros.scala" timestamp="1588630900848">
-        <mark key="'" line="25" column="11" />
-        <mark key="[" line="15" column="27" />
-        <mark key="]" line="15" column="27" />
-        <mark key="." line="15" column="27" />
-        <mark key="^" line="15" column="25" />
-      </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/chunk/index.js" timestamp="1588870202419">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -95,14 +88,16 @@
         <mark key="]" line="82" column="1" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1588884747349">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="1" />
-        <mark key="." line="19" column="14" />
-        <mark key="^" line="19" column="15" />
+      <file name="$USER_HOME$/Documents/tarsier/server/src/config/server/server.config.ts" timestamp="1588960175959">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
       </file>
-      <file name="/a.dummy" timestamp="1588863906260">
-        <mark key="[" line="0" column="9" />
+      <file name="$USER_HOME$/Documents/tarsier/server/config/default.yml" timestamp="1588960049285">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="7" column="49" />
+        <mark key="." line="3" column="63" />
+        <mark key="^" line="3" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/stack/index.js" timestamp="1588948582186">
         <mark key="[" line="26" column="27" />
@@ -110,38 +105,11 @@
         <mark key="." line="26" column="48" />
         <mark key="^" line="26" column="49" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1588949603888">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/queue/index.js" timestamp="1588948218881">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="20" column="32" />
-        <mark key="." line="20" column="31" />
-        <mark key="^" line="20" column="32" />
-      </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/reverseint/index.js" timestamp="1588948071412">
         <mark key="[" line="18" column="36" />
         <mark key="]" line="18" column="56" />
         <mark key="." line="18" column="55" />
         <mark key="^" line="18" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/capitalize/index.js" timestamp="1588869849550">
-        <mark key="[" line="11" column="58" />
-        <mark key="]" line="12" column="4" />
-        <mark key="^" line="12" column="4" />
-        <mark key="." line="12" column="3" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1588614625153">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="3" column="73" />
-      </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/circular/index.js" timestamp="1588949471834">
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="16" />
-        <mark key="^" line="14" column="16" />
-        <mark key="." line="14" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/fromlast/index.js" timestamp="1588870536898">
         <mark key="[" line="22" column="21" />
@@ -161,31 +129,67 @@
         <mark key="." line="44" column="16" />
         <mark key="^" line="44" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/maxchar/index.js" timestamp="1588884878212">
-        <mark key="[" line="32" column="57" />
-        <mark key="]" line="32" column="68" />
-        <mark key="." line="32" column="67" />
-        <mark key="^" line="32" column="68" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/max_sub_array/MaxSubArray.scala" timestamp="1588614803444">
-        <mark key="[" line="16" column="39" />
-        <mark key="]" line="17" column="13" />
-        <mark key="." line="17" column="12" />
-        <mark key="^" line="17" column="13" />
-      </file>
-      <file name="/Dummy.scala" timestamp="1588542103166">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/levelwidth/index.js" timestamp="1588872879235">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
         <mark key="^" line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/anagrams/index.js" timestamp="1588866800998">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Documents/tarsier/server/src/app.module.ts" timestamp="1588959950795">
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="12" />
+        <mark key="." line="25" column="11" />
+        <mark key="^" line="25" column="12" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1588884747349">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="1" />
+        <mark key="." line="19" column="14" />
+        <mark key="^" line="19" column="15" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1588949603888">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/queue/index.js" timestamp="1588948218881">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="32" />
+        <mark key="." line="20" column="31" />
+        <mark key="^" line="20" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/capitalize/index.js" timestamp="1588869849550">
+        <mark key="[" line="11" column="58" />
+        <mark key="]" line="12" column="4" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="12" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/circular/index.js" timestamp="1588949471834">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/tarsier/server/package.json" timestamp="1588959048598">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="42" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/maxchar/index.js" timestamp="1588884878212">
+        <mark key="[" line="32" column="57" />
+        <mark key="]" line="32" column="68" />
+        <mark key="." line="32" column="67" />
+        <mark key="^" line="32" column="68" />
+      </file>
+      <file name="$USER_HOME$/Documents/tarsier/server/config/custom-environment-variables.yml" timestamp="1588959865385">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/tarsier/server/src/config/mongo/mongo.config.ts" timestamp="1588960269196">
+        <mark key="[" line="26" column="37" />
+        <mark key="]" line="26" column="38" />
+        <mark key="." line="26" column="37" />
+        <mark key="^" line="26" column="38" />
       </file>
     </filemarks>
     <jumps>
@@ -229,43 +233,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGluZGV4KQogICAgaWYgKGluZGV4IDw9IDApIHsKICAgICAgcmV0dXJuIGVsZW1lbnQKICAgIH0KCg==</text>
+        <text encoding="base64">ICAKICBIT1NUOiBzdHJpbmcgPSB0aGlzLnNlcnZlckNvbmYuaG9zdAogIE5BTUU6IHN0cmluZyA9IHRoaXMuc2VydmVyQ29uZi5uYW1lCiAgUE9SVDogbnVtYmVyID0gTnVtYmVyKHRoaXMuc2VydmVyQ29uZi5wb3J0KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>index, element = this.elements[0]</text>
+        <text>: number</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U3RyaW5nLnByb3RvdHlwZS5ncm91cEJ5ID0gZnVuY3Rpb24oKSB7CiAgY29uc3QgZ3JvdXBzID0gW10KCiAgZm9yIChsZXQgY2hhciBvZiB0aGlzKSB7CiAgICBpZiAoIWdyb3Vwcy5sZW5ndGgpIHsKICAgICAgZ3JvdXBzLnB1c2goW2NoYXJdKQogICAgICBjb250aW51ZQogICAgfQoKICAgIGNvbnN0IGNoYXJBcnIgPSBncm91cHMuZmluZCgoW2NdKSA9PiBjID09PSBjaGFyKQoKICAgIGlmICghY2hhckFycikgewogICAgICBncm91cHMucHVzaChbY2hhcl0pCiAgICAgIGNvbnRpbnVlCiAgICB9CgogICAgY2hhckFyci5wdXNoKGNoYXIpCiAgfQoKICByZXR1cm4gZ3JvdXBzCn0K</text>
+        <text encoding="base64">ICBwb3J0OiAncGxlYXNlIGFkZCAke1RBUlNJRVJfTU9OR09fUE9SVH0gdG8geW91ciBlbnZpcm9ubWVudCcsCiAgdXNlcm5hbWU6ICdwbGVhc2UgYWRkICR7VEFSU0lFUl9NT05HT19VU0VSTkFNRX0gdG8geW91ciBlbnZpcm9ubWVudCcsCiAgcGFzc3dvcmQ6ICdwbGVhc2UgYWRkICR7VEFSU0lFUl9NT05HT19QV30gdG8geW91ciBlbnZpcm9ubWVudCcsCiAgdXNlcnM6CiAgICBuYW1lOiAndXNlcnMnLAogICAgZGF0YWJhc2U6ICd0YXJzaWVyX3VzZXJzJywKICAgIGVudGl0aWVzOiBbJ2Rpc3QvdXNlcnMvKiovKi5lbnRpdHl7LnRzLC5qc30nXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGluZGV4KQogICAgaWYgKGluZGV4IDw9IDApIHsKICAgICAgcmV0dXJuIGVsZW1lbnQKICAgIH0KCg==</text>
+        <text encoding="base64">ICAKICBIT1NUOiBzdHJpbmcgPSB0aGlzLnNlcnZlckNvbmYuaG9zdAogIE5BTUU6IHN0cmluZyA9IHRoaXMuc2VydmVyQ29uZi5uYW1lCiAgUE9SVDogbnVtYmVyID0gTnVtYmVyKHRoaXMuc2VydmVyQ29uZi5wb3J0KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMucGVlayhpbmRleCAtIDEsIGVsZW1lbnRbaW5kZXhdKQo=</text>
+        <text encoding="base64">ICBVU0VSUzogeyB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1c2hJdChkYXRhKQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSW5qZWN0YWJsZSB9IGZyb20gJ0BuZXN0anMvY29tbW9uJzsKCkBJbmplY3RhYmxlKCkKZXhwb3J0IGNsYXNzIE1vbmdvQ29uZmlnIHt9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIHB1c2hJdChkLCBlbGVtZW50cyA9IHRoaXMuZWxlbWVudHMpIHsKICAgICAgaWYgKCFlbGVtZW50cy5sZW5ndGgpIAogICAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZWxlbWVudHMK</text>
+        <text encoding="base64">ICB1c2VyczoKICAgIG5hbWU6ICd1c2VycycsCiAgICBkYXRhYmFzZTogJ3RhcnNpZXJfdXNlcnMnLAogICAgZW50aXRpZXM6IFsnZGlzdC91c2Vycy8qKi8qLmVudGl0eXsudHMsLmpzfSddCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZWxlbWVudHMK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4gbi50b1N0cmluZygpLnNwbGl0KCcnKS5yZXZlcnNlKCkudG9TdHJpbmcoKQo=</text>
+        <text encoding="base64">ICBzeW5jaHJvbml6ZTogdHJ1ZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U3RyaW5nLnByb3RvdHlwZS5ncm91cEJ5ID0gZnVuY3Rpb24oKSB7CiAgcmV0dXJuIHRoaXMuc3BsaXQoJycpLnJlZHVjZSgoZ3JvdXBzLCBjaGFyKSA9PiB7CiAgICBjb25zdCBjaGFyQXJyID0gZ3JvdXBzLmZpbmQoKFtjXSkgPT4gYyA9PT0gY2hhcikKCiAgICBpZiAoIWNoYXJBcnIpIHsKICAgICAgZ3JvdXBzLnB1c2goY2hhckFycl0pCiAgICB9IGVsc2UgewogICAgICBjaGFyQXJyLnB1c2goY2hhcikKICAgIH0KCiAgICByZXR1cm4gZ3JvdXBzCiAgfSwgW10pCn0K</text>
+        <text encoding="base64">ICB0eXBlOiAnbW9uZ29kYicsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
