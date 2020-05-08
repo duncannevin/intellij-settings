@@ -77,21 +77,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/config/config.module.ts" timestamp="1588960684381">
-        <mark key="[" line="2" column="43" />
-        <mark key="]" line="2" column="49" />
-        <mark key="^" line="2" column="49" />
-        <mark key="." line="2" column="48" />
+      <file name="$USER_HOME$/Documents/tarsier/server/src/config/config.module.ts" timestamp="1588961787313">
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="7" column="49" />
+        <mark key="^" line="7" column="49" />
+        <mark key="." line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/matrix/index.js" timestamp="1588881952906">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="82" column="1" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/config/server/server.config.ts" timestamp="1588960175959">
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="9" column="6" />
+      <file name="$USER_HOME$/Documents/tarsier/server/src/config/server/server.config.ts" timestamp="1588961237178">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="1" />
         <mark key="." line="9" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/tarsier/server/src/users/jwt.strategy.ts" timestamp="1588961431297">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="21" column="15" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/config/mongo/mongo.users.config.ts" timestamp="1588960655243">
         <mark key="[" line="0" column="0" />
@@ -99,11 +100,11 @@
         <mark key="^" line="8" column="28" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/config/default.yml" timestamp="1588960391533">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="7" column="49" />
-        <mark key="." line="3" column="63" />
-        <mark key="^" line="3" column="64" />
+      <file name="$USER_HOME$/Documents/tarsier/server/config/default.yml" timestamp="1588961610303">
+        <mark key="[" line="1" column="42" />
+        <mark key="]" line="1" column="64" />
+        <mark key="." line="1" column="63" />
+        <mark key="^" line="1" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/stack/index.js" timestamp="1588948582186">
         <mark key="[" line="26" column="27" />
@@ -111,29 +112,22 @@
         <mark key="." line="26" column="48" />
         <mark key="^" line="26" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/reverseint/index.js" timestamp="1588948071412">
-        <mark key="[" line="18" column="36" />
-        <mark key="]" line="18" column="56" />
-        <mark key="." line="18" column="55" />
-        <mark key="^" line="18" column="56" />
+      <file name="$USER_HOME$/Documents/tarsier/server/src/initialize.db.ts" timestamp="1588964080892">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="37" />
+        <mark key="." line="6" column="36" />
+        <mark key="^" line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/fromlast/index.js" timestamp="1588870536898">
-        <mark key="[" line="22" column="21" />
-        <mark key="]" line="22" column="21" />
-        <mark key="^" line="21" column="21" />
-        <mark key="." line="22" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/reversestring/index.js" timestamp="1588947746894">
-        <mark key="[" line="9" column="47" />
-        <mark key="]" line="11" column="15" />
-        <mark key="^" line="11" column="15" />
-        <mark key="." line="11" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/levelwidth/index.js" timestamp="1588872879235">
+      <file name="$USER_HOME$/Documents/tarsier/server/src/main.ts" timestamp="1588963979088">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
-        <mark key="^" line="14" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/tarsier/server/db_scripts/tarsier_users.js" timestamp="1588964133587">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="3" column="36" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/app.module.ts" timestamp="1588960831968">
         <mark key="[" line="20" column="0" />
@@ -141,20 +135,19 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1588884747349">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="1" />
-        <mark key="." line="19" column="14" />
-        <mark key="^" line="19" column="15" />
+      <file name="$USER_HOME$/Documents/tarsier/server/src/users/users.module.ts" timestamp="1588961712000">
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="19" column="56" />
+        <mark key="^" line="19" column="56" />
+        <mark key="." line="19" column="55" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1588949603888">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/queue/index.js" timestamp="1588948218881">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="20" column="32" />
-        <mark key="." line="20" column="31" />
-        <mark key="^" line="20" column="32" />
+      <file name="$USER_HOME$/Documents/tarsier/server/db_scripts/init.js" timestamp="1588964095563">
+        <mark key="]" line="1" column="43" />
+        <mark key="^" line="1" column="43" />
+        <mark key="." line="1" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/circular/index.js" timestamp="1588949471834">
         <mark key="[" line="14" column="16" />
@@ -162,11 +155,11 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/package.json" timestamp="1588959048598">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="42" column="25" />
+      <file name="$USER_HOME$/Documents/tarsier/server/package.json" timestamp="1588963177336">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="38" />
+        <mark key="^" line="14" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/middleware/requestLogger.middleware.ts" timestamp="1588960920925">
         <mark key="[" line="8" column="5" />
@@ -174,15 +167,21 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/maxchar/index.js" timestamp="1588884878212">
-        <mark key="[" line="32" column="57" />
-        <mark key="]" line="32" column="68" />
-        <mark key="." line="32" column="67" />
-        <mark key="^" line="32" column="68" />
+      <file name="$USER_HOME$/Documents/tarsier/server/src/guards/temp-auth.guard.ts" timestamp="1588961146846">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="15" />
+        <mark key="." line="15" column="14" />
+        <mark key="^" line="15" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/config/custom-environment-variables.yml" timestamp="1588959865385">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="25" />
+      <file name="$USER_HOME$/Documents/tarsier/server/src/config/auth/auth.config.ts" timestamp="1588961309311">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/tarsier/server/config/custom-environment-variables.yml" timestamp="1588961593093">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="28" />
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/config/mongo/mongo.config.ts" timestamp="1588960625449">
@@ -232,44 +231,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>console</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bW9uZ29Db25maWcgPSBjb25maWcuZ2V0KCdtb25nbycpCnVzZXJzQ29uZmlnID0gbW9uZ29Db25maWcudXNlcnMKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>console</text>
+        <text>switchMap(</text>
       </register>
       <register name="/" type="4">
         <text>MutableLinkedList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QEluamVjdGFibGUoKQpleHBvcnQgY2xhc3MgTW9uZ29Db25maWcgewogIHByaXZhdGUgbW9uZ29Db25maWc6IHsKICAgIHBvcnQ6IHN0cmluZywKICAgIHVzZXJuYW1lOiBzdHJpbmcsCiAgICBwYXNzd29yZDogc3RyaW5nLAogICAgdXNlcnM6IHsKICAgICAgbmFtZTogc3RyaW5nLAogICAgICBkYXRhYmFzZTogc3RyaW5nLAogICAgICBlbnRpdGllczogc3RyaW5nW10KICAgIH0KICB9ID0gY29uZmlnLmdldCgnbW9uZ28nKQoKICBQT1JUID0gTnVtYmVyKHRoaXMubW9uZ29Db25maWcucG9ydCkKICBVU0VSTkFNRTogc3RyaW5nID0gdGhpcy5tb25nb0NvbmZpZy51c2VybmFtZQogIFBBU1NXT1JEOiBzdHJpbmcgPSB0aGlzLm1vbmdvQ29uZmlnLnBhc3N3b3JkCn0K</text>
+        <text encoding="base64">ICAgICAgbWFwKGFwcCA9PiB7CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgIGFwcCwKICAgICAgICAgIHNlcnZlckNvbmZpZzogYXBwLmdldCgnU2VydmVyQ29uZmlnJykgYXMgU2VydmVyQ29uZmlnCiAgICAgICAgfQogICAgICB9KSwKICAgICAgc3dpdGNoTWFwKCh7YXBwLCBzZXJ2ZXJDb25maWd9KSA9PiB7CiAgICAgICAgcmV0dXJuIGZyb20oYXBwLmxpc3RlbihzZXJ2ZXJDb25maWcuUE9SVCkpCiAgICAgICAgICAucGlwZShtYXAoKCkgPT4gKHthcHAsIHNlcnZlckNvbmZpZ30pKSkKICAgICAgfSkKICAgICkuc3Vic2NyaWJlKCh7c2VydmVyQ29uZmlnfSkgPT4gbG9nZ2VyLmxvZyhgJHtzZXJ2ZXJDb25maWcuTkFNRX0gbGlzdGVuaW5nIG9uIHBvcnQgJHtzZXJ2ZXJDb25maWcuUE9SVH1gKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IE1vdmUgdGhlIGNvbW1vbiBhdHRyaWJ1dGVzIHRvIGEgc2hhcmVkIGNvbnN0YW50IG9uY2Ugd2Ugc3RhcnQgYWRkaW5nIG1vcmUgZGF0YWJhc2VzCiAgICAvLyBUaGUgVHlwZU9STSBNb2R1bGUgZG9lcyBub3Qgc3VwcG9ydCBtdWx0aXBsZSBjb25uZWN0aW9ucyBpbiBvcm1jb25maWcuanNvbiB5ZXQKICAgIC8vIFdpbGwgbmVlZCB0byBkZWZpbmUgdGhlbSBhbGwgaGVyZSBmb3Igbm93IDooCg==</text>
+        <text encoding="base64">bW9uZ29Db25maWcgPSBjb25maWcuZ2V0KCdtb25nbycpCnVzZXJzQ29uZmlnID0gbW9uZ29Db25maWcudXNlcnMKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgY29uZmlnIGZyb20gJ2NvbmZpZycK</text>
+        <text encoding="base64">Y29uZmlnID0gcmVxdWlyZSgnY29uZmlnJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgbW9uZ29Db25maWcgPSBjb25maWcuZ2V0KCdtb25nbycpCgo=</text>
+        <text encoding="base64">ICAKICAgIGZyb20oTmVzdEZhY3RvcnkuY3JlYXRlKEFwcE1vZHVsZSkpCiAgICAucGlwZSgKICAgICAgY2F0Y2hFcnJvcihoYW5kbGVFcnJvcihsb2dnZXIpKSwKICAgICAgbWFwKGFwcCA9PiB7CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgIGFwcCwKICAgICAgICAgIHNlcnZlckNvbmZpZzogYXBwLmdldCgnU2VydmVyQ29uZmlnJykgYXMgU2VydmVyQ29uZmlnCiAgICAgICAgfQogICAgICB9KSwKICAgICAgc3dpdGNoTWFwKCh7YXBwLCBzZXJ2ZXJDb25maWd9KSA9PiB7CiAgICAgICAgcmV0dXJuIGZyb20oYXBwLmxpc3RlbihzZXJ2ZXJDb25maWcuUE9SVCkpCiAgICAgICAgICAucGlwZShtYXAoKCkgPT4gKHthcHAsIHNlcnZlckNvbmZpZ30pKSkKICAgICAgfSkKICAgICkuc3Vic2NyaWJlKCh7c2VydmVyQ29uZmlnfSkgPT4gbG9nZ2VyLmxvZyhgJHtzZXJ2ZXJDb25maWcuTkFNRX0gbGlzdGVuaW5nIG9uIHBvcnQgJHtzZXJ2ZXJDb25maWcuUE9SVH1gKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCiAgICApLnN1YnNjcmliZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtJbmplY3RhYmxlfSBmcm9tICdAbmVzdGpzL2NvbW1vbicK</text>
+        <text encoding="base64">aW1wb3J0IHsgYmluZENhbGxiYWNrIH0gZnJvbSAncnhqcyc7CmltcG9ydCB7ZnJvbX0gZnJvbSAncnhqcycKaW1wb3J0IHtyZXNwb25zZX0gZnJvbSAnZXhwcmVzcycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QEluamVjdGFibGUoKQo=</text>
+        <text encoding="base64">ICBjb25zdCBlID0gYmluZENhbGxiYWNrKGV4ZWMpCiAgcmV0dXJuIGZyb20oZSgnbHMgLWxhJykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgY29uZmlnIGZyb20gJ2NvbmZpZycK</text>
+        <text encoding="base64">aW1wb3J0IHtyZWplY3RzfSBmcm9tICdhc3NlcnQnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5waXBlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAKICBOQU1FOiBzdHJpbmcgPSB0aGlzLnVzZXJzQ29uZmlnLm5hbWUKICBEQVRBQkFTRTogc3RyaW5nID0gdGhpcy51c2Vyc0NvbmZpZy5kYXRhYmFzZQogIEVOVElUSUVTOiBzdHJpbmdbXSA9IHRoaXMudXNlcnNDb25maWcuZW50aXRpZXMK</text>
+        <text encoding="base64">ICBpbml0aWFsaXplREIpCiAgICAucGlwZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
