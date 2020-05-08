@@ -152,12 +152,6 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/AlgoCasts_scala/src/main/scala/linkedlist/LinkedList.scala" timestamp="1588536955568">
-        <mark key="[" line="92" column="7" />
-        <mark key="]" line="92" column="20" />
-        <mark key="." line="92" column="19" />
-        <mark key="^" line="92" column="20" />
-      </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/capitalize/index.js" timestamp="1588869849550">
         <mark key="[" line="11" column="58" />
         <mark key="]" line="12" column="4" />
@@ -169,6 +163,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="3" column="73" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/circular/index.js" timestamp="1588949471834">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/maxchar/index.js" timestamp="1588884878212">
         <mark key="[" line="32" column="57" />
