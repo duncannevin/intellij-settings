@@ -78,6 +78,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/removedups/test.js" timestamp="1589205290006">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="42" />
+        <mark key="^" line="3" column="42" />
+        <mark key="." line="3" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/dto/join-env.dto.ts" timestamp="1589041841820">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -89,6 +95,32 @@
         <mark key="]" line="26" column="58" />
         <mark key="." line="26" column="57" />
         <mark key="^" line="26" column="58" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/removedups/index.js" timestamp="1589205348152">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/tarsier/server/src/dto/TarsierSocket.dto.ts" timestamp="1589041061500">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/tarsier/server/src/socket/socket.module.ts" timestamp="1589039549198">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/queue/test.js" timestamp="1589205074755">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/tarsier/server/src/enum/event.enum.ts" timestamp="1589052455599">
+        <mark key="[" line="4" column="49" />
+        <mark key="]" line="4" column="50" />
+        <mark key="^" line="4" column="50" />
+        <mark key="." line="4" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/users/users.module.ts" timestamp="1589039438908">
         <mark key="[" line="16" column="0" />
@@ -108,7 +140,7 @@
         <mark key="." line="82" column="16" />
         <mark key="^" line="82" column="17" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1589053118281">
+      <file name="/GraphQL.result.json" timestamp="1589204804412">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/guards/ws-auth.guard.ts" timestamp="1589051165884">
@@ -116,27 +148,16 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/guards/http-auth.guard.ts" timestamp="1589033067648">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="54" />
-        <mark key="." line="0" column="8" />
-      </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/socket/socket.gateway.ts" timestamp="1589053764142">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
         <mark key="^" line="41" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/dto/TarsierSocket.dto.ts" timestamp="1589041061500">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/users/user.entity.ts" timestamp="1588977798106">
-        <mark key="[" line="42" column="8" />
-        <mark key="]" line="42" column="8" />
-        <mark key="." line="42" column="8" />
-        <mark key="^" line="42" column="10" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/circular/index.js" timestamp="1589204842025">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/socket/interface/TarsierSocket.interface.ts" timestamp="1589041490632">
         <mark key="[" line="3" column="0" />
@@ -150,17 +171,6 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/socket/socket.module.ts" timestamp="1589039549198">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/guards/jwt-auth.guard.ts" timestamp="1589032885232">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="52" />
-        <mark key="." line="4" column="51" />
-        <mark key="^" line="4" column="52" />
-      </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/socket/interface/TarsierSocket.ts" timestamp="1589041227382">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -172,18 +182,6 @@
         <mark key="]" line="19" column="25" />
         <mark key="^" line="19" column="25" />
         <mark key="." line="19" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/app.module.ts" timestamp="1589038870539">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="33" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/enum/event.enum.ts" timestamp="1589052455599">
-        <mark key="[" line="4" column="49" />
-        <mark key="]" line="4" column="50" />
-        <mark key="^" line="4" column="50" />
-        <mark key="." line="4" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/environment/environment.service.ts" timestamp="1589051802686">
         <mark key="[" line="18" column="0" />
@@ -233,17 +231,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc29ja2V0LmpvaW4oZW52aXJvbm1lbnQuaWQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>export.default</text>
       </register>
       <register name="-" type="4">
-        <text>.in(environment.id)</text>
+        <text>export.default</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMubG9nZ2VyLmxvZyh0aGlzLm1ha2VTb2NrZXRMb2coJ0ludGVyZmFjZSBFbnZpcm9ubWVudCcsIHNvY2tldCkpCg==</text>
+        <text encoding="base64">dGVzdCgnUXVldWUgaXMgYSBjbGFzcycsICgpID0+IHsKICBleHBlY3QodHlwZW9mIFF1ZXVlLnByb3RvdHlwZS5jb25zdHJ1Y3RvcikudG9FcXVhbCgnZnVuY3Rpb24nKTsKfSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgc29ja2V0LmpvaW4oZW52aXJvbm1lbnQuaWQpCg==</text>
