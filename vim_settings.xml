@@ -101,6 +101,12 @@
         <mark key="^" line="22" column="33" />
         <mark key="." line="7" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/plusone/index.js" timestamp="1589222001570">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/maxprofit/index.js" timestamp="1589213440645">
         <mark key="[" line="30" column="26" />
         <mark key="]" line="30" column="27" />
@@ -129,18 +135,6 @@
         <mark key="]" line="19" column="48" />
         <mark key="." line="19" column="48" />
         <mark key="^" line="21" column="9" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1589048905669">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="16" />
-        <mark key="^" line="2" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/tarsier/server/src/users/users.service.ts" timestamp="1589048993621">
-        <mark key="[" line="82" column="13" />
-        <mark key="]" line="82" column="17" />
-        <mark key="." line="82" column="16" />
-        <mark key="^" line="82" column="17" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1589204804412">
         <mark key="[" line="0" column="0" />
@@ -191,6 +185,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="12" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/plusone/test.js" timestamp="1589221992452">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="4" column="0" filename="$USER_HOME$/Documents/nestjs-course-task-management/Makefile" />
@@ -235,44 +234,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC8vIDA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwbHVzT25lKGFycikpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIDA=</text>
+        <text>toLocaleString</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2VjdCA9IFsuLi5zZWN0LCAuLi5pbkFycjFdCg==</text>
+      <register name="0" type="4">
+        <text>6,1,4,5,3,9,0,1,9,5,1,8,6,7,0,5,5,4,4</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBbOCwgMCwgM10gWzAsIDBdCiAgLy8gWzAsIDNdIFswLCAwXQogIC8vIFszXSBbMF0K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwbHVzT25lKGFycikpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBbMCwgM10gWzAsIDBdIH4+IFtdCg==</text>
+        <text encoding="base64">CiAgY29uc29sZS5sb2coJzE6ICcsIHNwbGl0RGlnaXRzKQogIGNvbnNvbGUubG9nKE51bWJlci5NQVhfU0FGRV9JTlRFR0VSID4gc3BsaXREaWdpdHMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBbOCwwLDNdCiAgWzAsMF0K</text>
+        <text encoding="base64">CiAgaWYgKHNwbGl0RGlnaXRzIDwgTnVtYmVyLk1BWF9TQUZFX0lOVEVHRVIpIHsKICAgIAogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmb3IgKGxldCBpID0gMDsgaSA8IGFycjEubGVuZ3RoOyBpKyspIHsKICAgIGNvbnN0IGN1cnJlbnQgPSBhcnIxLnNwbGljZShpLCAxKVtdCiAgfQo=</text>
+        <text encoding="base64">ICByZXR1cm4gKHBhcnNlSW50KGRpZ2l0cy5qb2luKCcnKSkgKyAxKS50b1N0cmluZygpLnNwbGl0KCcnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB3aGlsZSAoYXJyMS5sZW5ndGggJiYgYXJyMi5sZW5ndGgpIHsKICAgIGNvbnN0IGN1cnJlbnQgPSBhcnIxLnNoaWZ0KCkKICAgIGNvbnN0IGluQXJyMSA9IGEKICB9CiAgCiAgcmV0dXJuIHNlY3QKICAKICBmdW5jdGlvbiBjb2xsZWN0RWxlbWVudHMoZWxlLCBhcnIpIHsKICAgIGNvbnN0IGVsZW1lbnRzID0gW10KICAgIAogICAgZm9yIChsZXQgaSA9IDA7IGkgPCBhcnIubGVuZ3RoOyBpKQogIH0K</text>
+        <text encoding="base64">ZnVuY3Rpb24gcGx1c09uZShudW1zKSB7Cgp9Cgptb2R1bGUuZXhwb3J0cyA9IHBsdXNPbmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY3VyciA9IGFyCg==</text>
+        <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5vdEVsZSA9IGFyci5maWx0ZXIoKGUpID0+IGUgIT09IGVsZSkKICAgIAogICAgcmV0dXJuIG5vdEVsZQo=</text>
+        <text encoding="base64">ICAvLyBbOCwgMCwgM10gWzAsIDBdCiAgLy8gWzAsIDNdIFswLCAwXQogIC8vIFszXSBbMF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhcnIucmVkdWNlKChlbGVtZW50cywgZSkgPT4gewogICAgICAKICAgIH0sIFtdKQo=</text>
+        <text encoding="base64">ICAvLyBbMCwgM10gWzAsIDBdIH4+IFtdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGVsZW1lbnRzID0gW10KICAgIAogICAgZm9yIChsZSkKICB9Cg==</text>
+        <text encoding="base64">ICBbOCwwLDNdCiAgWzAsMF0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
