@@ -101,21 +101,22 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/maxprofit/test.js" timestamp="1589206986538">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="25" />
-        <mark key="^" line="3" column="25" />
-        <mark key="." line="3" column="24" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/maxprofit/test.js" timestamp="1589207499339">
+        <mark key="[" line="22" column="17" />
+        <mark key="]" line="22" column="33" />
+        <mark key="^" line="22" column="33" />
+        <mark key="." line="22" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/tarsier/server/src/dto/TarsierSocket.dto.ts" timestamp="1589041061500">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/maxprofit/index.js" timestamp="1589207008762">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/maxprofit/index.js" timestamp="1589207691902">
+        <mark key="[" line="24" column="1" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="17" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/queue/test.js" timestamp="1589205074755">
         <mark key="[" line="2" column="0" />
@@ -231,43 +232,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogCiAqIEBwYXJhbSBwcmljZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>removeDups</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgcmVtb3ZlRHVwcyA9IHJlcXVpcmUoJy4vaW5kZXgnKQoKdGVzdCgncmVtb3ZlRHVwcyBpcyBkZWZpbmVkJywgKCkgPT4gewogIGV4cGVjdCh0eXBlb2YgcmVtb3ZlRHVwcykudG9CZSgnZnVuY3Rpb24nKTsKfSk7Cg==</text>
+      <register name="0" type="4">
+        <text>7,6,4,3,1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogCiAqIEBwYXJhbSBwcmljZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAKICBzb3J0ZWRBcnIuZm9yRWFjaCgoZWxlLCBpbmRleCwgY29sbGVjdGlvbikgPT4gewogICAgY29uc3QgbmV4dEVsZSA9IGNvbGxlY3Rpb25baW5kZXggKyAxXQoKICAgIGlmIChlbGUgPT09IG5leHRFbGUpIHsKICAgICAgY29sbGVjdGlvbi5zcGxpY2UoaW5kZXgsIDEpCiAgICAgIHJldHVybiByZW1vdmVEdXBzKHNvcnRlZEFycikKICAgIH0KICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBzZWVuID0ge30KICAKICBmb3IgKGxldCBpID0gMDsgaSA8IHNvcnRlZEFyci5sZW5ndGg7IGkrKykgewogICAgY29uc3QgZWxlID0gc29ydGVkQXJyW2ldCiAgICAKICAgIGlmIChzZWVuW2VsZV0pIHsKICAgICAgc29ydGVkQXJyLnNwbGljZShpLCAxKQogICAgICByZXR1cm4gcmVtb3ZlRHVwcyhzb3J0ZWRBcnIpCiAgICB9CiAgfQoKICByZXR1cm4gc29ydGVkQXJyLmxlbmd0aAo=</text>
+        <text encoding="base64">ICogCiAqIEBwYXJhbSBwcmljZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgc2VlbltdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChzZSkK</text>
+        <text encoding="base64">ICAKICBzb3J0ZWRBcnIuZm9yRWFjaCgoZWxlLCBpbmRleCwgY29sbGVjdGlvbikgPT4gewogICAgY29uc3QgbmV4dEVsZSA9IGNvbGxlY3Rpb25baW5kZXggKyAxXQoKICAgIGlmIChlbGUgPT09IG5leHRFbGUpIHsKICAgICAgY29sbGVjdGlvbi5zcGxpY2UoaW5kZXgsIDEpCiAgICAgIHJldHVybiByZW1vdmVEdXBzKHNvcnRlZEFycikKICAgIH0KICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
