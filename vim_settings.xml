@@ -136,11 +136,11 @@
         <mark key="." line="11" column="16" />
         <mark key="^" line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/mineit/src/components/HelloWorld.vue" timestamp="1589315498172">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="46" />
-        <mark key="." line="4" column="45" />
-        <mark key="^" line="4" column="46" />
+      <file name="$USER_HOME$/Documents/mineit/src/components/HelloWorld.vue" timestamp="1589315569286">
+        <mark key="[" line="103" column="12" />
+        <mark key="]" line="103" column="14" />
+        <mark key="." line="103" column="13" />
+        <mark key="^" line="103" column="14" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1589311279764">
         <mark key="[" line="0" column="0" />
