@@ -78,12 +78,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/removedups/test.js" timestamp="1589206966934">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="3" />
-        <mark key="^" line="18" column="16" />
-        <mark key="." line="18" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/twosum/index.js" timestamp="1589242064512">
         <mark key="[" line="13" column="39" />
         <mark key="]" line="14" column="20" />
@@ -102,12 +96,6 @@
         <mark key="." line="24" column="17" />
         <mark key="^" line="24" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/maxprofit/test.js" timestamp="1589212945441">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="30" />
-        <mark key="^" line="22" column="33" />
-        <mark key="." line="7" column="30" />
-      </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/plusone/index.js" timestamp="1589240918418">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="4" column="4" />
@@ -122,12 +110,6 @@
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/make-valid-sudoku.js" timestamp="1589310474593">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/maxprofit/index.js" timestamp="1589213440645">
-        <mark key="[" line="30" column="26" />
-        <mark key="]" line="30" column="27" />
-        <mark key="." line="30" column="26" />
-        <mark key="^" line="30" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/rotatearray/test.js" timestamp="1589214276510">
         <mark key="[" line="15" column="0" />
@@ -154,7 +136,13 @@
         <mark key="." line="11" column="16" />
         <mark key="^" line="11" column="17" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1589310912408">
+      <file name="$USER_HOME$/Documents/mineit/src/components/HelloWorld.vue" timestamp="1589314424646">
+        <mark key="[" line="31" column="25" />
+        <mark key="]" line="32" column="21" />
+        <mark key="." line="32" column="20" />
+        <mark key="^" line="32" column="21" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1589311279764">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/containsdups/test.js" timestamp="1589216438461">
@@ -162,6 +150,14 @@
         <mark key="]" line="27" column="46" />
         <mark key="^" line="27" column="46" />
         <mark key="." line="27" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/mineit/src/assets/coconut_tree.svg" timestamp="1589312127789">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2926" />
+      </file>
+      <file name="$USER_HOME$/Documents/mineit/src/assets/noun_Coconut Tree_3343236.svg" timestamp="1589311692177">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2926" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/twosum/test.js" timestamp="1589241607274">
         <mark key="[" line="7" column="30" />
@@ -237,43 +233,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICA8cD5IZWxsbyB3b3JsZCEgVGhpcyBpcyBIVE1MNSBCb2lsZXJwbGF0ZS48L3A+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuaGVpZ2h0LCB0aGlzLndpZHRoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIGhhbmRsZSBkdXBsaWNhdGVz</text>
+        <text>80</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnMScsIGlzUm93VmFsaWQpCg==</text>
+        <text encoding="base64">ICAgIHRoaXMubWFrZUFCdW5jaE9mRGFtblRyZWVzKCdjb2NvbnV0JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8cD5IZWxsbyB3b3JsZCEgVGhpcyBpcyBIVE1MNSBCb2lsZXJwbGF0ZS48L3A+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuaGVpZ2h0LCB0aGlzLndpZHRoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAwICogMiA9IDAKIDAgfiAwLCAxLCAyCgogMSAqIDMgPSAzCiAxIH4gMywgNCwgNQoKIDIgKiAzID0gNgogMiB+IDYsIDcsIDgKCiAzICogMyA9IDkgLSA5ID0gMAogMyB+IDksIDEwLCAxMQoKIDQgKiAzID0gMTIgLSA5ID0gMwogNCB+IDEyLCAxMywgMTQKCiA1ICogMyA9IDE1IC0gOSA9IDYKIDUgfiAxNSwgMTYsIDE3Cgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuaGVpZ2h0LCB0aGlzLndpZHRoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb3dTdGFydCwgc3F1YXJlKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudHJlZXMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbHVtblN0YXJ0ID0gKHJvdyA8IDIgPyApCg==</text>
+        <text encoding="base64">ICAgIHRoaXMubWFrZUFCdW5jaE9mRGFtblRyZWVzKCd0aGlzaXNub3RhdHJlZWF0YWxsJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsZXQgY29sdW1uU3RhcnQgPSByb3dTdGFydCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb3dTdGFydCwgYm9hcmQubGVuZ3RoKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuaW1hZ2UgPSAnPHN2Zz48L3N2Zz4nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJvd1N0YXJ0Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubWFrZUFCdW5jaE9mRGFtblRyZWVzKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gOSAtICg5IC8gOSkgLSA5Ci8vIDEyIC0gKDEyIC8gOSkgLQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRyZWVzLnB1c2gobmV3IENvY29udXRUcmVlKE1hdGguZmxvb3IoKSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coNDA0IC8gNDAwKQpjb25zb2xlLmxvZyg0MDEgLyA0MDApCmNvbnNvbGUubG9nKDUwMCAvIDQwMCkK</text>
+        <text encoding="base64">ICBtb3VudGVkKCkgewogIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
