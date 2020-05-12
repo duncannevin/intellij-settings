@@ -136,11 +136,11 @@
         <mark key="." line="11" column="16" />
         <mark key="^" line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/mineit/src/components/HelloWorld.vue" timestamp="1589314424646">
-        <mark key="[" line="31" column="25" />
-        <mark key="]" line="32" column="21" />
-        <mark key="." line="32" column="20" />
-        <mark key="^" line="32" column="21" />
+      <file name="$USER_HOME$/Documents/mineit/src/components/HelloWorld.vue" timestamp="1589315498172">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="46" />
+        <mark key="." line="4" column="45" />
+        <mark key="^" line="4" column="46" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1589311279764">
         <mark key="[" line="0" column="0" />
@@ -232,44 +232,53 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuaGVpZ2h0LCB0aGlzLndpZHRoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>trees</text>
       </register>
       <register name="-" type="4">
-        <text>80</text>
+        <text>trees</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMubWFrZUFCdW5jaE9mRGFtblRyZWVzKCdjb2NvbnV0JykK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHhUcmVlID0gbmV3IHRoaXMueG1hc1RyZWUoKQogICAgICAgICAgeFRyZWUuc2V0WCh4KQogICAgICAgICAgeFRyZWUuc2V0WSh5KQogICAgICAgICAgdGhpcy50cmVlcy5wdXNoKHhUcmVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuaGVpZ2h0LCB0aGlzLndpZHRoKQo=</text>
+        <text encoding="base64">CiAgcGFyc2VNYXAoKSB7CiAgICB0aGlzLmdldE1hcCgpLmZvckVhY2goKHJvdywgckluZGV4KSA9PiB7CiAgICAgIHJvdy5zcGxpdCgnJykuZm9yRWFjaCgoY2VsbCwgY0luZGV4KSA9PiB7CiAgICAgICAgY29uc3QgeCA9IGNJbmRleCAqIDEwMAogICAgICAgIGNvbnN0IHkgPSBySW5kZXggKiAxMDAKICAgICAgICAKICAgICAgICBpZiAoY2VsbCA9PT0gJ3QnKSB7CiAgICAgICAgICBjb25zdCB4VHJlZSA9IG5ldyB0aGlzLnhtYXNUcmVlKCkKICAgICAgICAgIHhUcmVlLnNldFgoeCkKICAgICAgICAgIHhUcmVlLnNldFkoeSkKICAgICAgICAgIHRoaXMudHJlZXMucHVzaCh4VHJlZSkKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgaWYgKGNlbGwgPT09ICdjJykgewogICAgICAgICAgY29uc3QgY1RyZWUgPSBuZXcgdGhpcy5jb2NvbnV0VHJlZSgpCiAgICAgICAgICBjVHJlZS5zZXRYKHgpCiAgICAgICAgICBjVHJlZS5zZXRZKHkpCiAgICAgICAgICB0aGlzLnRyZWVzLnB1c2goY1RyZWUpCiAgICAgICAgfQogICAgICB9KQogICAgfSkKICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuaGVpZ2h0LCB0aGlzLndpZHRoKQo=</text>
+        <text encoding="base64">CiAgZ2V0TWFwKCkgewogICAgcmV0dXJuIAogIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudHJlZXMpCg==</text>
+      <register name="3" type="4">
+        <text>[
+      '...t....',
+      '.......c',
+      't.......',
+      '..c..t..',
+      '.ccccctt',
+      '........',
+      '........'
+    ]</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMubWFrZUFCdW5jaE9mRGFtblRyZWVzKCd0aGlzaXNub3RhdHJlZWF0YWxsJykK</text>
+      <register name="4" type="4">
+        <text>,
+      trees: []</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaW1hZ2UgPSAnPHN2Zz48L3N2Zz4nCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZ2VuZXJhdGVQb3NpdGlvbigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMubWFrZUFCdW5jaE9mRGFtblRyZWVzKCkK</text>
+        <text encoding="base64">ICAgIHRoaXMuZ2VuZXJhdGVQb3NpdGlvbigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRyZWVzLnB1c2gobmV3IENvY29udXRUcmVlKE1hdGguZmxvb3IoKSkpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmdldE1hcCgpLm1hcCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtb3VudGVkKCkgewogIH0sCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
