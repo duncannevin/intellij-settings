@@ -168,11 +168,11 @@
         <mark key="^" line="7" column="33" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/index.js" timestamp="1589298843409">
-        <mark key="[" line="88" column="5" />
-        <mark key="]" line="89" column="27" />
-        <mark key="." line="89" column="26" />
-        <mark key="^" line="89" column="27" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/index.js" timestamp="1589301610128">
+        <mark key="[" line="89" column="23" />
+        <mark key="]" line="89" column="28" />
+        <mark key="." line="89" column="27" />
+        <mark key="^" line="89" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/intersect/test.js" timestamp="1589220483336">
         <mark key="[" line="20" column="2" />
@@ -236,7 +236,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNxdWFyZSkK</text>
       </register>
       <register name="-" type="4">
         <text>Math.min(</text>
@@ -248,31 +248,31 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZygnMScsIGlzUm93VmFsaWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNxdWFyZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNxdWFyZSA9IFsuLi5zcXVhcmUsIC4uLmJvYXJkW2ldLnNsaWNlKDAsIDMpXQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocm93KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZiAocm93U3RhcnQgPCBib2FyZC5sZW5ndGgpIHsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB9IGVsc2UgewogICAgZm9yICgpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb3dTdGFydCkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHNxdWFyZSA9IFsuLi5zcXVhcmUsIC4uLmJvYXJkW2ldLnNsaWNlKDAsIDMpXQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBpZiAocm93U3RhcnQgPCBib2FyZC5sZW5ndGgpIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB9IGVsc2UgewogICAgZm9yICgpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmb3IgKGxldCBpID0gcm93U3RhcnQ7IGkgPD0gKHJvd1N0YXJ0ICsgMik7IGkrKykgewogICAgc3F1YXJlID0gWy4uLnNxdWFyZSwgLi4uYm9hcmRbaV0uc2xpY2UoMCwgMyldCiAgfQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb3dTdGFydCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNxdWFyZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
