@@ -90,9 +90,9 @@
         <mark key="." line="14" column="19" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/test.js" timestamp="1589298545153">
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/test.js" timestamp="1589306076563">
         <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="1" />
+        <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="1" />
       </file>
@@ -168,10 +168,11 @@
         <mark key="^" line="7" column="33" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/index.js" timestamp="1589305345806">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/index.js" timestamp="1589306463909">
+        <mark key="[" line="86" column="31" />
+        <mark key="]" line="86" column="31" />
+        <mark key="." line="86" column="31" />
+        <mark key="^" line="57" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/intersect/test.js" timestamp="1589220483336">
         <mark key="[" line="20" column="2" />
@@ -234,11 +235,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBsZXQgY29sdW1uU3RhcnQgPSByb3dTdGFydCAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC8vIGhhbmRsZSBkdXBsaWNhdGVz</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cm93LCA=</text>
+        <text encoding="base64">IC8vIGhhbmRsZSBkdXBsaWNhdGVz</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -247,31 +248,31 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZygnMScsIGlzUm93VmFsaWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsZXQgY29sdW1uU3RhcnQgPSByb3dTdGFydCAK</text>
+        <text encoding="base64">CiAwICogMiA9IDAKIDAgfiAwLCAxLCAyCgogMSAqIDMgPSAzCiAxIH4gMywgNCwgNQoKIDIgKiAzID0gNgogMiB+IDYsIDcsIDgKCiAzICogMyA9IDkgLSA5ID0gMAogMyB+IDksIDEwLCAxMQoKIDQgKiAzID0gMTIgLSA5ID0gMwogNCB+IDEyLCAxMywgMTQKCiA1ICogMyA9IDE1IC0gOSA9IDYKIDUgfiAxNSwgMTYsIDE3Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb3dTdGFydCwgYm9hcmQubGVuZ3RoKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb3dTdGFydCwgc3F1YXJlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJvd1N0YXJ0Cg==</text>
+        <text encoding="base64">ICAgIGNvbHVtblN0YXJ0ID0gKHJvdyA8IDIgPyApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gOSAtICg5IC8gOSkgLSA5Ci8vIDEyIC0gKDEyIC8gOSkgLQo=</text>
+        <text encoding="base64">ICBsZXQgY29sdW1uU3RhcnQgPSByb3dTdGFydCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coNDA0IC8gNDAwKQpjb25zb2xlLmxvZyg0MDEgLyA0MDApCmNvbnNvbGUubG9nKDUwMCAvIDQwMCkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb3dTdGFydCwgYm9hcmQubGVuZ3RoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzcXVhcmUpCg==</text>
+        <text encoding="base64">ICAgIHJvd1N0YXJ0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly8gOSAtICg5IC8gOSkgLSA5Ci8vIDEyIC0gKDEyIC8gOSkgLQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIGNvbnN0IHJvdyA9IGkgLSA5CiAgICAgIGNvbnN0IGNvbHVtblN0YXJ0ID0gMwogICAgICBzcXVhcmUgPSBbLi4uc3F1YXJlLCAuLi5ib2FyZFtyb3ddLnNsaWNlKGNvbHVtblN0YXJ0LCBjb2x1bW5TdGFydCArIDMpXQogICAgfQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coNDA0IC8gNDAwKQpjb25zb2xlLmxvZyg0MDEgLyA0MDApCmNvbnNvbGUubG9nKDUwMCAvIDQwMCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHIgPSByb3dTdGFydCA8PSBib2FyZC5sZW5ndGggPyBpIDogaSAtIDEwCiAgICBjb25zb2xlLmxvZygnfn4nLCByKQoKICAgIGlmIChyb3dTdGFydCA8IGJvYXJkLmxlbmd0aCkgewo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzcXVhcmUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
