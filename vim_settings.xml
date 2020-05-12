@@ -168,11 +168,11 @@
         <mark key="^" line="7" column="33" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/index.js" timestamp="1589296745361">
-        <mark key="[" line="49" column="16" />
-        <mark key="]" line="54" column="19" />
-        <mark key="." line="54" column="18" />
-        <mark key="^" line="54" column="19" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/index.js" timestamp="1589297831933">
+        <mark key="[" line="65" column="19" />
+        <mark key="]" line="65" column="43" />
+        <mark key="." line="65" column="42" />
+        <mark key="^" line="65" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/intersect/test.js" timestamp="1589220483336">
         <mark key="[" line="20" column="2" />
@@ -235,11 +235,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChzZWVuTnVtYmVyc1tjdXJyZW50XSkgeyAvLyBoYW5kbGUgZHVwbGljYXRlcwogICAgICByZXR1cm4gZmFsc2UKICAgIH0KCiAgICBpZiAoY3VycmVudCA9PT0gJy4nKSB7IC8vIGhhbmRsZSBub25lLWZpbGxlZCBpbiBudW1iZXJzCiAgICAgIGNvbnRpbnVlCiAgICB9CgogICAgc2Vlbk51bWJlcnNbY3VycmVudF0gPSB0cnVlCg==</text>
+      <register name="&quot;" type="4">
+        <text>ndex</text>
       </register>
       <register name="-" type="4">
-        <text>current</text>
+        <text>ndex</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -248,31 +248,31 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZygnMScsIGlzUm93VmFsaWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChzZWVuTnVtYmVyc1tjdXJyZW50XSkgeyAvLyBoYW5kbGUgZHVwbGljYXRlcwogICAgICByZXR1cm4gZmFsc2UKICAgIH0KCiAgICBpZiAoY3VycmVudCA9PT0gJy4nKSB7IC8vIGhhbmRsZSBub25lLWZpbGxlZCBpbiBudW1iZXJzCiAgICAgIGNvbnRpbnVlCiAgICB9CgogICAgc2Vlbk51bWJlcnNbY3VycmVudF0gPSB0cnVlCg==</text>
+        <text encoding="base64">ICByZXR1cm4gYm9hcmQucmVkdWNlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gdmFsaWRhdGVSb3cocm93KSB7Cn0KCg==</text>
+        <text encoding="base64">ICBjb25zdCAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBpc1Jvd1ZhbGlkID0gYm9hcmQucmVkdWNlKChpc1ZhbGlkLCByb3cpID0+IHsKICAgIGlmICghdmFsaWRhdGVSb3cocm93KSkgewogICAgICBpc1ZhbGlkID0gZmFsc2UKICAgIH0KICAgIHJldHVybiBpc1ZhbGlkCiAgfSwgdHJ1ZSkKICAKICBjb25zdCBhcmVDb2x1bW5zVmFsaWQgPSBib2FyZC5yZWR1Y2UoKGlzVmFsaWQsIF8sIGluZGV4LCBjb2xsZWN0aW9uKSA9PiB7CiAgICBjb25zdCBjb2xsZWN0ZWRDb2x1bW4gPSBjb2xsZWN0aW9uLm1hcCgocm93KSA9PiByb3dbaW5kZXhdKQogICAgaWYgKCF2YWxpZGF0ZVJvdyhjb2xsZWN0ZWRDb2x1bW4pKSB7CiAgICAgIGlzVmFsaWQgPSBmYWxzZQogICAgfQogICAgcmV0dXJuIGlzVmFsaWQKICB9LCB0cnVlKQogIAogIGNvbnN0IGFyZVNxdWFyZXNWYWxpZCA9IGJvYXJkLnJlZHVjZSgoaXNWYWxpZCwgcm93LCBpbmRleCwgY29sbGVjdGlvbikgPT4gewogICAgY29uc3QgY29sbGVjdGVkU3F1YXJlID0gJz8/PycKICB9LCB0cnVlKQoKICByZXR1cm4gaXNSb3dWYWxpZCAmJiBhcmVDb2x1bW5zVmFsaWQgJiYgYXJlU3F1YXJlc1ZhbGlkCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAKIA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBzZWVuTnVtYmVycyA9IHt9CgogIGZvciAobGV0IGkgPSAwOyBpIDwgcm93Lmxlbmd0aDsgaSsrKSB7CiAgICBjb25zdCBjdXJyZW50ID0gcm93W2ldCgogICAgaWYgKHNlZW5OdW1iZXJzW2N1cnJlbnRdKSB7IC8vIGhhbmRsZSBkdXBsaWNhdGVzCiAgICAgIHJldHVybiBmYWxzZQogICAgfQoKICAgIGlmIChjdXJyZW50ID09PSAnLicpIHsgLy8gaGFuZGxlIG5vbmUtZmlsbGVkIGluIG51bWJlcnMKICAgICAgY29udGludWUKICAgIH0KCiAgICBzZWVuTnVtYmVyc1tjdXJyZW50XSA9IHRydWUKICB9CgogIHJldHVybiB0cnVlIC8vIG5vIGR1cGxpY2F0ZXMK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAKIA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnMScsIGlzUm93VmFsaWQpCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAKIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnMicsIGFyZUNvbHVtbnNWYWxpZCkK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnMScsIGlzUm93VmFsaWQpCg==</text>
+        <text encoding="base64">IDkgLSAxIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbGxlY3RlZENvbHVtbikK</text>
+        <text encoding="base64">IDAgLSAyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZQo=</text>
+        <text encoding="base64">IDMgLSAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
