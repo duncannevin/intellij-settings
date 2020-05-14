@@ -138,12 +138,11 @@
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/make-valid-sudoku.js" timestamp="1589310474593">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/foobar/index.html" timestamp="1589390969994">
+      <file name="$USER_HOME$/Documents/foobar/index.html" timestamp="1589391285130">
         <mark key="'" line="23" column="28" />
-        <mark key="[" line="23" column="20" />
-        <mark key="]" line="23" column="20" />
-        <mark key="." line="23" column="19" />
-        <mark key="^" line="23" column="20" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mineit/src/assets/coconut_tree.svg" timestamp="1589312127789">
         <mark key="[" line="0" column="0" />
@@ -234,11 +233,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>foo: {bar: {baz: 'thisSucks'}}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzcGxpdE5hbWUuZm9yRWFjaCgobmFtZSwgaW5kLCBjb2xsKSA9PiB7CiAgICAgICAgICBjb25zdCBjdXJyZW50ID0gY29sCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>foo: {bar: {baz: 'thisSucks'}}</text>
+        <text>[name]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -247,31 +246,31 @@
         <text encoding="base64">ICAgICAgICAgIGNvbnN0IHhUcmVlID0gbmV3IHRoaXMueG1hc1RyZWUoKQogICAgICAgICAgeFRyZWUuc2V0WCh4KQogICAgICAgICAgeFRyZWUuc2V0WSh5KQogICAgICAgICAgdGhpcy50cmVlcy5wdXNoKHhUcmVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjdXJyZW50T2JqID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBzcGxpdE5hbWUuZm9yRWFjaCgobmFtZSwgaW5kLCBjb2xsKSA9PiB7CiAgICAgICAgICBjb25zdCBjdXJyZW50ID0gY29sCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGN1cnJlbnQgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgIG91dHB1dFtuYW1lXSA9IHt9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgaW5kMiA9IDA7CiAgICAgICAgbGV0IGN1cnJlbnRPYmo7CgogICAgICAgIGZvciAoaW5kMjsgaW5kMiA8IHNwbGl0TmFtZS5sZW5ndGg7IGluZDIrKykgewogICAgICAgICAgY29uc3QgbmFtZSA9IHNwbGl0TmFtZVtpbmQyXTsKCiAgICAgICAgICBpZiAoIWN1cnJlbnRPYmopIHsKICAgICAgICAgICAgb3V0cHV0W25hbWVdID0ge307CiAgICAgICAgICAgIGN1cnJlbnRPYmogPSBvdXRwdXRbbmFtZV07CiAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgfQoKICAgICAgICAgIGN1cnJlbnRPYmpbbmFtZV0gPSB7fQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIG91dHB1dCA9IGN1cnJlbnRPYmo7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgY3VycmVudE9iaiA9IG91dHB1dDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudE9iaiA9IG91dHB1dFtuYW1lXTsK</text>
+        <text encoding="base64">ICAgICAgICBzcGxpdE5hbWUuZm9yRWFjaCgobmFtZSkgPT4gewogICAgICAgICAgY3VycmVudE9iaiA9IHt9CiAgICAgICAgICBvdXRwdXRbbmFtZV0gPSBjdXJyZW50T2JqCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGN1cnJlbnRPYmogPSBvdXRwdXRbbmFtZV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGN1cnJlbnRPYmogPWQK</text>
+        <text encoding="base64">ICAgICAgICAgIG91dHB1dCA9IG91dHB1dFtuYW1lXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGN1cnJlbnRPYmogPSAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjdXJyZW50T2JqID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGN1cnJlbnQgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
