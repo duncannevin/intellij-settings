@@ -90,11 +90,11 @@
         <mark key="^" line="266" column="16" />
         <mark key="." line="266" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1589305143299">
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="16" />
-        <mark key="^" line="11" column="17" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1589569444955">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="22" />
+        <mark key="^" line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/mineit/src/components/HelloWorld.vue" timestamp="1589315569286">
         <mark key="[" line="103" column="12" />
@@ -108,14 +108,8 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="1" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1589487825405">
+      <file name="/GraphQL.result.json" timestamp="1589565999849">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/containsdups/test.js" timestamp="1589216438461">
-        <mark key="[" line="27" column="36" />
-        <mark key="]" line="27" column="46" />
-        <mark key="^" line="27" column="46" />
-        <mark key="." line="27" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/plusone/index.js" timestamp="1589240918418">
         <mark key="[" line="3" column="14" />
@@ -152,6 +146,18 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2926" />
       </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/dotstoobjects/index.js" timestamp="1589569589995">
+        <mark key="[" line="2" column="52" />
+        <mark key="]" line="2" column="56" />
+        <mark key="." line="2" column="55" />
+        <mark key="^" line="2" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/package.json" timestamp="1589566167268">
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/twosum/test.js" timestamp="1589241607274">
         <mark key="[" line="7" column="30" />
         <mark key="]" line="7" column="33" />
@@ -164,17 +170,11 @@
         <mark key="." line="86" column="31" />
         <mark key="^" line="57" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/intersect/test.js" timestamp="1589220483336">
-        <mark key="[" line="20" column="2" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/containsdups/index.js" timestamp="1589216575253">
-        <mark key="[" line="29" column="3" />
-        <mark key="]" line="31" column="15" />
-        <mark key="." line="31" column="14" />
-        <mark key="^" line="31" column="15" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/dotstoobjects/test.js" timestamp="1589569364489">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="9" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/intersect/index.js" timestamp="1589220699681">
         <mark key="'" line="0" column="0" />
@@ -233,11 +233,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>on</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICByZXR1cm4gc3BsaXRTdHIucmVkdWNlKChvYmosIGtleU5hbWUpID0+IHsKICAgIG9ialtrZXlOYW1lXSA9IHt9CiAgfSwge30pCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>on</text>
+        <text>output</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -246,31 +246,31 @@
         <text encoding="base64">ICAgICAgICAgIGNvbnN0IHhUcmVlID0gbmV3IHRoaXMueG1hc1RyZWUoKQogICAgICAgICAgeFRyZWUuc2V0WCh4KQogICAgICAgICAgeFRyZWUuc2V0WSh5KQogICAgICAgICAgdGhpcy50cmVlcy5wdXNoKHhUcmVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzcGxpdE5hbWUuZm9yRWFjaCgobmFtZSwgaW5kLCBjb2xsKSA9PiB7CiAgICAgICAgICBjb25zdCBjdXJyZW50ID0gY29sCiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gc3BsaXRTdHIucmVkdWNlKChvYmosIGtleU5hbWUpID0+IHsKICAgIG9ialtrZXlOYW1lXSA9IHt9CiAgfSwge30pCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIG91dHB1dFtuYW1lXSA9IHt9Owo=</text>
+        <text encoding="base64">Ci8vIGNvbnNvbGUubG9nKDkgLSAoOSAqICgzIC0gMikpKQovLyBjb25zb2xlLmxvZygxMiAtICg5ICogKDMgLSAyKSkpCi8vIGNvbnNvbGUubG9nKDE1IC0gOSkKLy8gY29uc29sZS5sb2coMTggLSA5IC0gOSkKLy8gY29uc29sZS5sb2coMjEgLSA5IC0gOSkKLy8gY29uc29sZS5sb2coMjQgLSA5IC0gOSkKCmNvbnNvbGUubG9nKDkgLyAzKQpjb25zb2xlLmxvZyg5IC8gNCkKY29uc29sZS5sb2coOSAvIDUpCmNvbnNvbGUubG9nKDkgLyA2KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzcGxpdFN0cikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgY3VycmVudE9iaiA9IG91dHB1dDsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShvYmplY3QsIG51bGwsIDIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzcGxpdE5hbWUuZm9yRWFjaCgobmFtZSkgPT4gewogICAgICAgICAgY3VycmVudE9iaiA9IHt9CiAgICAgICAgICBvdXRwdXRbbmFtZV0gPSBjdXJyZW50T2JqCiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">CiAgICBpZiAoaW5kZXggPT09IHNwbGl0U3RyLmxlbmd0aCAtIDEpIHsKICAgICAgY29uc29sZS5sb2coJz4+Jywgb2JqUmVmLCBvYmplY3QpCiAgICAgIG9ialJlZiA9ICcnCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGN1cnJlbnRPYmogPSBvdXRwdXRbbmFtZV0K</text>
+        <text encoding="base64">ICAgICAgb2JqUmVmW2N1cnJlbnRLZXldID0ge30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIG91dHB1dCA9IG91dHB1dFtuYW1lXQo=</text>
+        <text encoding="base64">ICAgICAgb2JqUmVmID0gb2JqZWN0W2N1cnJlbnRLZXldCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjdXJyZW50T2JqID0gCg==</text>
+        <text encoding="base64">CiAgICBpZiAoaW5kZXggPT09IHNwbGl0U3RyLmxlbmd0aCAtIDIpIHsKICAgICAgb2JqUmVmID0gJycKICAgICAgY29uc29sZS5sb2coJz4+Jywgb2JqUmVmLCBvYmpSZWZbY3VycmVudEtleV0pCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGN1cnJlbnQgPSAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+Jywgb2JqUmVmLCBvYmpSZWZbY3VycmVudEtleV0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
