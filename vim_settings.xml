@@ -144,6 +144,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/isPassingSudoku.js" timestamp="1589730758230">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="4" column="32" />
+        <mark key="^" line="4" column="32" />
+        <mark key="." line="4" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/mineit/src/assets/coconut_tree.svg" timestamp="1589312127789">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2926" />
@@ -181,11 +187,6 @@
         <mark key="]" line="9" column="31" />
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/plusone/test.js" timestamp="1589221992452">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
     </filemarks>
     <jumps>
