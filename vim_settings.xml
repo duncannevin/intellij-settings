@@ -90,11 +90,11 @@
         <mark key="^" line="266" column="16" />
         <mark key="." line="266" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/solveSudoku.js" timestamp="1589823383964">
-        <mark key="[" line="27" column="6" />
-        <mark key="]" line="27" column="6" />
-        <mark key="^" line="27" column="6" />
-        <mark key="." line="27" column="5" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/solveSudoku.js" timestamp="1589824001335">
+        <mark key="[" line="34" column="46" />
+        <mark key="]" line="35" column="20" />
+        <mark key="." line="35" column="19" />
+        <mark key="^" line="35" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1589821199593">
         <mark key="[" line="14" column="0" />
@@ -234,7 +234,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJvdyA9IGJvYXJkW3Jvd0luZGV4XQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc29sdmVTdWRva3UoYm9hcmQpCg==</text>
       </register>
       <register name="-" type="4">
         <text>nextNumber</text>
@@ -246,31 +246,31 @@
         <text encoding="base64">ICBjb25zdCByb3cgPSBib2FyZFtyb3dJbmRleF0KICBjb25zdCBjb2x1bW4gPSBjb2xsZWN0Q29sdW1uKGJvYXJkLCBjb2x1bW5JbmRleCkKICBjb25zdCBzcXVhcmUgPSBjb2xsZWN0U3F1YXJlKGJvYXJkLCByb3dJbmRleCwgY29sdW1uSW5kZXgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJvdyA9IGJvYXJkW3Jvd0luZGV4XQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc29sdmVTdWRva3UoYm9hcmQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgcm93ID0gYm9hcmRbcm93SW5kZXhdCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJvdykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY3VycmVudCA9IGJvYXJkW3Jvd0luZGV4XVtjb2x1bW5JbmRleF0KCiAgICAgIGlmIChjdXJyZW50ICE9PSAnLicpIHsKICAgICAgICBjb250aW51ZQogICAgICB9CgogICAgICBib2FyZFtyb3dJbmRleF1bY29sdW1uSW5kZXhdID0gbmV4dEF2YWlsYWJsZU51bWJlcihib2FyZCwgcm93SW5kZXgsIGNvbHVtbkluZGV4KQo=</text>
+        <text encoding="base64">ICAgICAgICBjb2x1bW5JbmRleC0tCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICYmCiAgICBuZXh0TnVtYmVyIDw9IDk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhib2FyZFtyb3dJbmRleF0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJvdy5pbmNsdWRlcyhzdHJOdW0pKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhib2FyZFswXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYm9hcmRbMF0pCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJvYXJkWzBdLCBuZXh0TnVtYmVyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhib2FyZFswXSkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJvdyA9IGJvYXJkW3Jvd0luZGV4XQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhib2FyZCkK</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgcm93ID0gYm9hcmRbcm93SW5kZXhdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbmV4dE51bWJlciA9IG5leHRBdmFpbGFibGVOdW1iZXIoYm9hcmQsIHJvd0luZGV4LCBjb2x1bW5JbmRleCkKCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY3VycmVudCA9IGJvYXJkW3Jvd0luZGV4XVtjb2x1bW5JbmRleF0KCiAgICAgIGlmIChjdXJyZW50ICE9PSAnLicpIHsKICAgICAgICBjb250aW51ZQogICAgICB9CgogICAgICBib2FyZFtyb3dJbmRleF1bY29sdW1uSW5kZXhdID0gbmV4dEF2YWlsYWJsZU51bWJlcihib2FyZCwgcm93SW5kZXgsIGNvbHVtbkluZGV4KQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
