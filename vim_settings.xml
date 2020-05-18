@@ -90,17 +90,17 @@
         <mark key="^" line="266" column="16" />
         <mark key="." line="266" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/solveSudoku.js" timestamp="1589730586431">
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="3" column="28" />
-        <mark key="^" line="3" column="28" />
-        <mark key="." line="3" column="27" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/solveSudoku.js" timestamp="1589817313102">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="55" column="1" />
+        <mark key="." line="53" column="23" />
+        <mark key="^" line="53" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1589812765027">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="18" />
-        <mark key="." line="8" column="17" />
-        <mark key="^" line="8" column="18" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1589817714143">
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="25" column="41" />
+        <mark key="." line="25" column="40" />
+        <mark key="^" line="25" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/mineit/src/components/HelloWorld.vue" timestamp="1589315569286">
         <mark key="[" line="103" column="12" />
@@ -108,11 +108,11 @@
         <mark key="." line="103" column="13" />
         <mark key="^" line="103" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/test.js" timestamp="1589812690226">
-        <mark key="[" line="63" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="1" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/test.js" timestamp="1589817296823">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="1" />
+        <mark key="." line="111" column="52" />
+        <mark key="^" line="111" column="53" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1589730414939">
         <mark key="[" line="0" column="0" />
@@ -148,11 +148,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2926" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/utils.js" timestamp="1589812739249">
-        <mark key="[" line="27" column="39" />
-        <mark key="]" line="27" column="39" />
-        <mark key="." line="27" column="39" />
-        <mark key="^" line="27" column="32" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/utils.js" timestamp="1589817351712">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="51" column="1" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="8" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/mineit/src/assets/noun_Coconut Tree_3343236.svg" timestamp="1589311692177">
         <mark key="[" line="0" column="0" />
@@ -182,11 +182,11 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/isValidSudoku.js" timestamp="1589812131721">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="63" column="13" />
-        <mark key="." line="0" column="33" />
-        <mark key="^" line="0" column="34" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/isValidSudoku.js" timestamp="1589816467474">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="57" column="48" />
       </file>
     </filemarks>
     <jumps>
@@ -234,43 +234,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID4gOQ==</text>
+        <text>ow</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID4gOQ==</text>
+        <text>ow</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFsiNSIsIjMiLCI0IiwiNiIsIjciLCI4IiwiOSIsIjEiLCIyIl0sCiAgICBbIjYiLCI3IiwiMiIsIjEiLCI5IiwiNSIsIjMiLCI0IiwiOCJdLAogICAgWyIxIiwiOSIsIjgiLCIzIiwiNCIsIjIiLCI1IiwiNiIsIjciXSwKICAgIFsiOCIsIjUiLCI5IiwiNyIsIjYiLCIxIiwiNCIsIjIiLCIzIl0sCiAgICBbIjQiLCIyIiwiNiIsIjgiLCI1IiwiMyIsIjciLCI5IiwiMSJdLAogICAgWyI3IiwiMSIsIjMiLCI5IiwiMiIsIjQiLCI4IiwiNSIsIjYiXSwKICAgIFsiOSIsIjYiLCIxIiwiNSIsIjMiLCI3IiwiMiIsIjgiLCI0Il0sCiAgICBbIjIiLCI4IiwiNyIsIjQiLCIxIiwiOSIsIjYiLCIzIiwiNSJdLAogICAgWyIzIiwiNCIsIjUiLCIyIiwiOCIsIjYiLCIxIiwiNyIsIjkiXQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb3cpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hpdCcpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXh0TnVtYmVyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAKICBjb25zdCAK</text>
+        <text encoding="base64">Cm1vZHVsZS5leHBvcnRzID0gewogIGNvbGxlY3RTcXVhcmUsCiAgdmFsaWRhdGVSb3csCiAgY29sbGVjdENvbHVtbgp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocGFyc2VJbnQoJy4nKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgeyBjb2xsZWN0U3F1YXJlIH0gPSByZXF1aXJlKCcuL3V0aWxzJykK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY3VycmVudENlbGwpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjdXJyZW50Q2VsbCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBpZiAoY3VycmVudCA8IDEgfHwgY3VycmVudCA+IDkpIHsKICAgICAgcmV0dXJuIGZhbHNlCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY3VycmVudENlbGwpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFsnNScsICczJywgJzQnLCAnNicsICc3JywgJzgnLCAnOScsICcxJywgJzInXSwKICAgIFtdCg==</text>
+        <text encoding="base64">ICBjb25zdCBwYXNzaW5nQm9hcmQgPSBbCiAgICBbIjUiLCIzIiwiNCIsIjYiLCI3IiwiOCIsIjkiLCIxIiwiMiJdLAogICAgWyI2IiwiNyIsIjIiLCIxIiwiOSIsIjUiLCIzIiwiNCIsIjgiXSwKICAgIFsiMSIsIjkiLCI4IiwiMyIsIjQiLCIyIiwiNSIsIjYiLCI3Il0sCiAgICBbIjgiLCI1IiwiOSIsIjciLCI2IiwiMSIsIjQiLCIyIiwiMyJdLAogICAgWyI0IiwiMiIsIjYiLCI4IiwiNSIsIjMiLCI3IiwiOSIsIjEiXSwKICAgIFsiNyIsIjEiLCIzIiwiOSIsIjIiLCI0IiwiOCIsIjUiLCI2Il0sCiAgICBbIjkiLCI2IiwiMSIsIjUiLCIzIiwiNyIsIjIiLCI4IiwiNCJdLAogICAgWyIyIiwiOCIsIjciLCI0IiwiMSIsIjkiLCI2IiwiMyIsIjUiXSwKICAgIFsiMyIsIjQiLCI1IiwiMiIsIjgiLCI2IiwiMSIsIjciLCI5Il0KICBdCiAgY29uc3QgZmFpbGVkQm9hcmQgPSBbCiAgICBbIjUiLCI0IiwiMyIsIjYiLCI3IiwiOCIsIjkiLCIxIiwiMiJdLAogICAgWyI2IiwiNyIsIjIiLCIxIiwiOSIsIjUiLCIzIiwiNCIsIjgiXSwKICAgIFsiMSIsIjkiLCI4IiwiMyIsIjQiLCIyIiwiNSIsIjYiLCI3Il0sCiAgICBbIjgiLCI1IiwiOSIsIjciLCI2IiwiMSIsIjQiLCIyIiwiMyJdLAogICAgWyI0IiwiMiIsIjYiLCI4IiwiNSIsIjMiLCI3IiwiOSIsIjEiXSwKICAgIFsiNyIsIjEiLCI2IiwiOSIsIjIiLCI0IiwiOCIsIjUiLCIzIl0sCiAgICBbIjkiLCI2IiwiMSIsIjUiLCIzIiwiNyIsIjIiLCI4IiwiNCJdLAogICAgWyIyIiwiOCIsIjciLCI0IiwiMSIsIjkiLCI2IiwiMyIsIjUiXSwKICAgIFsiMyIsIjQiLCI1IiwiMiIsIjgiLCI2IiwiMSIsIjciLCI5Il0KICBdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJycuc3BsaXQoJy4nKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCB2YWxpZEJvYXJkID0gWwogICAgWyI1IiwiMyIsIi4iLCIuIiwiNyIsIi4iLCIuIiwiLiIsIi4iXSwKICAgIFsiNiIsIi4iLCIuIiwiMSIsIjkiLCI1IiwiLiIsIi4iLCIuIl0sCiAgICBbIi4iLCI5IiwiOCIsIi4iLCIuIiwiLiIsIi4iLCI2IiwiLiJdLAogICAgWyI4IiwiLiIsIi4iLCIuIiwiNiIsIi4iLCIuIiwiLiIsIjMiXSwKICAgIFsiNCIsIi4iLCIuIiwiOCIsIi4iLCIzIiwiLiIsIi4iLCIxIl0sCiAgICBbIjciLCIuIiwiLiIsIi4iLCIyIiwiLiIsIi4iLCIuIiwiNiJdLAogICAgWyIuIiwiNiIsIi4iLCIuIiwiLiIsIi4iLCIyIiwiOCIsIi4iXSwKICAgIFsiLiIsIi4iLCIuIiwiNCIsIjEiLCI5IiwiLiIsIi4iLCI1Il0sCiAgICBbIi4iLCIuIiwiLiIsIi4iLCI4IiwiLiIsIi4iLCI3IiwiOSJdCiAgXQogIGNvbnN0IGludmFsaWRCb2FyZCA9IFsKICAgIFsiOCIsIjMiLCIuIiwiLiIsIjciLCIuIiwiLiIsIi4iLCIuIl0sCiAgICBbIjYiLCIuIiwiLiIsIjEiLCI5IiwiNSIsIi4iLCIuIiwiLiJdLAogICAgWyIuIiwiOSIsIjgiLCIuIiwiLiIsIi4iLCIuIiwiNiIsIi4iXSwKICAgIFsiOCIsIi4iLCIuIiwiLiIsIjYiLCIuIiwiLiIsIi4iLCIzIl0sCiAgICBbIjQiLCIuIiwiLiIsIjgiLCIuIiwiMyIsIi4iLCIuIiwiMSJdLAogICAgWyI3IiwiLiIsIi4iLCIuIiwiMiIsIi4iLCIuIiwiLiIsIjYiXSwKICAgIFsiLiIsIjYiLCIuIiwiLiIsIi4iLCIuIiwiMiIsIjgiLCIuIl0sCiAgICBbIi4iLCIuIiwiLiIsIjQiLCIxIiwiOSIsIi4iLCIuIiwiNSJdLAogICAgWyIuIiwiLiIsIi4iLCIuIiwiOCIsIi4iLCIuIiwiNyIsIjkiXQogIF0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
