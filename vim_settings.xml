@@ -90,11 +90,10 @@
         <mark key="^" line="266" column="16" />
         <mark key="." line="266" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/solveSudoku.js" timestamp="1589824001335">
-        <mark key="[" line="34" column="46" />
-        <mark key="]" line="35" column="20" />
-        <mark key="." line="35" column="19" />
-        <mark key="^" line="35" column="20" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/solveSudoku.js" timestamp="1589824237711">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1589821199593">
         <mark key="[" line="14" column="0" />
@@ -234,7 +233,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc29sdmVTdWRva3UoYm9hcmQpCg==</text>
+        <text encoding="base64">ICBsZXQgcm93SW5kZXggPSAwCiAgbGV0IGNvbHVtbkluZGV4ID0gMAoKICBmb3IgKHJvd0luZGV4OyByb3dJbmRleCA8IGJvYXJkLmxlbmd0aDsgcm93SW5kZXgrKykgewogICAgY29uc3Qgcm93ID0gYm9hcmRbcm93SW5kZXhdCgogICAgZm9yIChjb2x1bW5JbmRleDsgY29sdW1uSW5kZXggPCByb3cubGVuZ3RoOyBjb2x1bW5JbmRleCsrKSB7CiAgICAgIGNvbnN0IGN1cnJlbnQgPSBib2FyZFtyb3dJbmRleF1bY29sdW1uSW5kZXhdCgogICAgICBpZiAoY3VycmVudCAhPT0gJy4nKSB7CiAgICAgICAgY29udGludWUKICAgICAgfQoKICAgICAgYm9hcmRbcm93SW5kZXhdW2NvbHVtbkluZGV4XSA9IG5leHRBdmFpbGFibGVOdW1iZXIoYm9hcmQsIHJvd0luZGV4LCBjb2x1bW5JbmRleCkKCiAgICAgIGlmIChwYXJzZUludChib2FyZFtyb3dJbmRleF1bY29sdW1uSW5kZXhdKSA8IDEpIHsKICAgICAgICBib2FyZFtyb3dJbmRleF1bY29sdW1uSW5kZXhdID0gYm9hcmRbcm93SW5kZXhdW2NvbHVtbkluZGV4IC0gMV0KICAgICAgICBib2FyZFtyb3dJbmRleF1bY29sdW1uSW5kZXggLSAxXSA9ICcuJwogICAgICAgIHJvd0luZGV4ID0gMAogICAgICB9CiAgICB9CgogICAgY29sdW1uSW5kZXggPSAwCiAgfQogIGNvbnNvbGUubG9nKCd+ficsIGJvYXJkKQogIHJldHVybiBib2FyZAo=</text>
       </register>
       <register name="-" type="4">
         <text>nextNumber</text>
@@ -246,31 +245,31 @@
         <text encoding="base64">ICBjb25zdCByb3cgPSBib2FyZFtyb3dJbmRleF0KICBjb25zdCBjb2x1bW4gPSBjb2xsZWN0Q29sdW1uKGJvYXJkLCBjb2x1bW5JbmRleCkKICBjb25zdCBzcXVhcmUgPSBjb2xsZWN0U3F1YXJlKGJvYXJkLCByb3dJbmRleCwgY29sdW1uSW5kZXgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc29sdmVTdWRva3UoYm9hcmQpCg==</text>
+        <text encoding="base64">ICBsZXQgcm93SW5kZXggPSAwCiAgbGV0IGNvbHVtbkluZGV4ID0gMAoKICBmb3IgKHJvd0luZGV4OyByb3dJbmRleCA8IGJvYXJkLmxlbmd0aDsgcm93SW5kZXgrKykgewogICAgY29uc3Qgcm93ID0gYm9hcmRbcm93SW5kZXhdCgogICAgZm9yIChjb2x1bW5JbmRleDsgY29sdW1uSW5kZXggPCByb3cubGVuZ3RoOyBjb2x1bW5JbmRleCsrKSB7CiAgICAgIGNvbnN0IGN1cnJlbnQgPSBib2FyZFtyb3dJbmRleF1bY29sdW1uSW5kZXhdCgogICAgICBpZiAoY3VycmVudCAhPT0gJy4nKSB7CiAgICAgICAgY29udGludWUKICAgICAgfQoKICAgICAgYm9hcmRbcm93SW5kZXhdW2NvbHVtbkluZGV4XSA9IG5leHRBdmFpbGFibGVOdW1iZXIoYm9hcmQsIHJvd0luZGV4LCBjb2x1bW5JbmRleCkKCiAgICAgIGlmIChwYXJzZUludChib2FyZFtyb3dJbmRleF1bY29sdW1uSW5kZXhdKSA8IDEpIHsKICAgICAgICBib2FyZFtyb3dJbmRleF1bY29sdW1uSW5kZXhdID0gYm9hcmRbcm93SW5kZXhdW2NvbHVtbkluZGV4IC0gMV0KICAgICAgICBib2FyZFtyb3dJbmRleF1bY29sdW1uSW5kZXggLSAxXSA9ICcuJwogICAgICAgIHJvd0luZGV4ID0gMAogICAgICB9CiAgICB9CgogICAgY29sdW1uSW5kZXggPSAwCiAgfQogIGNvbnNvbGUubG9nKCd+ficsIGJvYXJkKQogIHJldHVybiBib2FyZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJvdykK</text>
+        <text encoding="base64">ZnVuY3Rpb24gbmV4dEF2YWlsYWJsZU51bWJlcihib2FyZCwgcm93SW5kZXgsIGNvbHVtbkluZGV4KSB7CiAgY29uc3Qgcm93ID0gYm9hcmRbcm93SW5kZXhdCiAgY29uc3QgY29sdW1uID0gY29sbGVjdENvbHVtbihib2FyZCwgY29sdW1uSW5kZXgpCiAgY29uc3Qgc3F1YXJlID0gY29sbGVjdFNxdWFyZShib2FyZCwgcm93SW5kZXgsIGNvbHVtbkluZGV4KQogIGxldCBuZXh0TnVtYmVyID0gOQoKICB3aGlsZSAoCiAgICBpc0luQW55R3JvdXAobmV4dE51bWJlciwgcm93LCBjb2x1bW4sIHNxdWFyZSkKICAgICkgewoKICAgIG5leHROdW1iZXItLQogIH0KCiAgcmV0dXJuIG5leHROdW1iZXIudG9TdHJpbmcoKQoKICBmdW5jdGlvbiBpc0luQW55R3JvdXAobnVtLCByb3csIGNvbHVtbiwgc3F1YXJlKSB7CiAgICBjb25zdCBzdHJOdW0gPSBudW0udG9TdHJpbmcoKQogICAgcmV0dXJuIHJvdy5pbmNsdWRlcyhzdHJOdW0pIHx8IGNvbHVtbi5pbmNsdWRlcyhzdHJOdW0pIHx8IHNxdWFyZS5pbmNsdWRlcyhzdHJOdW0pCiAgfQp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb2x1bW5JbmRleC0tCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc29sdmVTdWRva3UoYm9hcmQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhib2FyZFtyb3dJbmRleF0pCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJvdykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhib2FyZFswXSkK</text>
+        <text encoding="base64">ICAgICAgICBjb2x1bW5JbmRleC0tCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJvYXJkWzBdLCBuZXh0TnVtYmVyKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhib2FyZFtyb3dJbmRleF0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJvdyA9IGJvYXJkW3Jvd0luZGV4XQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhib2FyZFswXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgcm93ID0gYm9hcmRbcm93SW5kZXhdCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJvYXJkWzBdLCBuZXh0TnVtYmVyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY3VycmVudCA9IGJvYXJkW3Jvd0luZGV4XVtjb2x1bW5JbmRleF0KCiAgICAgIGlmIChjdXJyZW50ICE9PSAnLicpIHsKICAgICAgICBjb250aW51ZQogICAgICB9CgogICAgICBib2FyZFtyb3dJbmRleF1bY29sdW1uSW5kZXhdID0gbmV4dEF2YWlsYWJsZU51bWJlcihib2FyZCwgcm93SW5kZXgsIGNvbHVtbkluZGV4KQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJvdyA9IGJvYXJkW3Jvd0luZGV4XQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/MutableLinkedList/LinkedList/g</text>
