@@ -16,6 +16,8 @@
         <entry>answer</entry>
         <entry>MutableLinkedList</entry>
         <entry encoding="base64">XDwnXD4=</entry>
+        <entry>/&quot;//gi</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>%/MYSQL/DB/g</entry>
@@ -27,6 +29,10 @@
         <entry>%s/answer/value/g</entry>
         <entry>%/MutableLinkedList/LinkedList/g</entry>
         <entry>%s/MutableLinkedList/LinkedList/g</entry>
+        <entry>s%/&quot;//gi</entry>
+        <entry>s/&quot;//g</entry>
+        <entry>s/&quot;//gi</entry>
+        <entry>%s/&quot;//gi</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -90,11 +96,11 @@
         <mark key="^" line="266" column="16" />
         <mark key="." line="266" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/solveSudoku.js" timestamp="1589834614427">
-        <mark key="[" line="57" column="5" />
-        <mark key="]" line="58" column="23" />
-        <mark key="." line="58" column="22" />
-        <mark key="^" line="58" column="23" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/solveSudoku.js" timestamp="1589835256324">
+        <mark key="[" line="43" column="11" />
+        <mark key="]" line="44" column="16" />
+        <mark key="^" line="44" column="16" />
+        <mark key="." line="44" column="15" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1589821199593">
         <mark key="[" line="14" column="0" />
@@ -235,11 +241,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydE51bWJlciA9IGJhc2U2NFtdCg==</text>
+      <register name="&quot;" type="4">
+        <text>possibleNext</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>possibleNext</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -258,31 +264,31 @@
 ]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydE51bWJlciA9IGJhc2U2NFtdCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocG9zc2libGVOZXh0KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcG9zc2libGVOZXh0WzBdID0gcm93Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYm9hcmRbcm93SW5kZXhdW2NvbHVtbkluZGV4XSA9IHBhcnNlSW50KGJvYXJkW3Jvd0luZGV4XSkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBvc3NpYmxlTmV4dCA9IFtdCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydE51bWJlciA9IGJvYXJkCg==</text>
+        <text encoding="base64">ICAgICAgcG9zc2libGVOZXh0WzBdID0gcm93Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJvdywgY29sdW1uLCBwb3NzaWJsZU5leHQpCg==</text>
+        <text encoding="base64">ICAgICAgcG9zc2libGVOZXh0WzFdID0gMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBvc3NpYmxlTmV4dCA9IFtdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaW5kTmV4dFByZXYocm93SW5kZXgsIGNvbHVtbkluZGV4KSkK</text>
+        <text encoding="base64">ICBsZXQgcm93SW5kZXggPSAwCiAgbGV0IGNvbHVtbkluZGV4ID0gMAogIGxldCBzdGFydE51bWJlciA9IDEKICBjb25zdCBvcmlnaW5hbHMgPSB7fQogIGxldCBmb28gPSAxCgogIGZvciAocm93SW5kZXg7IHJvd0luZGV4IDwgMTsgcm93SW5kZXgrKykgewogICAgY29uc3Qgcm93ID0gYm9hcmRbcm93SW5kZXhdCgogICAgZm9yIChjb2x1bW5JbmRleDsgY29sdW1uSW5kZXggPCByb3cubGVuZ3RoOyBjb2x1bW5JbmRleCsrKSB7CiAgICAgIGlmIChib2FyZFtyb3dJbmRleF1bY29sdW1uSW5kZXhdICE9PSAnLicpIHsKICAgICAgICBvcmlnaW5hbHNbcm93SW5kZXgudG9TdHJpbmcoKSArIGNvbHVtbkluZGV4LnRvU3RyaW5nKCldID0gdHJ1ZQogICAgICAgIGNvbnRpbnVlCiAgICAgIH0KCiAgICAgIGNvbnN0IG5leHROdW1iZXIgPSBuZXh0QXZhaWxhYmxlTnVtYmVyKHN0YXJ0TnVtYmVyLCBib2FyZCwgcm93SW5kZXgsIGNvbHVtbkluZGV4KQoKICAgICAgaWYgKG5leHROdW1iZXIgPT09ICctMScgJiYgZm9vIDwgNSkgewogICAgICAgIGNvbnN0IFtuZXdSb3csIG5ld0NvbHVtbl0gPSBmaW5kTmV4dFByZXYocm93SW5kZXgsIGNvbHVtbkluZGV4KQogICAgICAgIHN0YXJ0TnVtYmVyID0gcGFyc2VJbnQoKWJvYXJkW25ld1Jvd11bbmV3Q29sdW1uXQogICAgICAgIGJvYXJkW25ld1Jvd11bbmV3Q29sdW1uXSA9ICcuJwogICAgICAgIHJvd0luZGV4ID0gbmV3Um93CiAgICAgICAgY29sdW1uSW5kZXggPSBuZXdDb2x1bW4KICAgICAgICBjb25zb2xlLmxvZyhyb3dJbmRleCwgY29sdW1uSW5kZXgsIGJvYXJkW3Jvd0luZGV4XSkKICAgICAgICBmb28rKwogICAgICAgIGNvbnRpbnVlCiAgICAgIH0KCiAgICAgIGJvYXJkW3Jvd0luZGV4XVtjb2x1bW5JbmRleF0gPSBuZXh0TnVtYmVyLnRvU3RyaW5nKCkKICAgIH0KCiAgICBjb2x1bW5JbmRleCA9IDAKICB9CgogIHJldHVybiBib2FyZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBvc3NpYmxlTmV4dCkK</text>
+        <text encoding="base64">ICBjb25zdCBjdXJyZW50UG9zID0gWzAsIDBdIAogIGlmIChjdXJyZW50UG9zICE9PSAnLicpIHsKICAgIAogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;//gi</text>
