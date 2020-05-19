@@ -84,24 +84,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/twosum/index.js" timestamp="1589242064512">
-        <mark key="[" line="13" column="39" />
-        <mark key="]" line="14" column="20" />
-        <mark key="." line="14" column="19" />
-        <mark key="^" line="14" column="20" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/tarsier/mineit/css/main.css" timestamp="1589311009046">
         <mark key="[" line="263" column="1" />
         <mark key="]" line="266" column="16" />
         <mark key="^" line="266" column="16" />
         <mark key="." line="266" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/solveSudoku.js" timestamp="1589916723840">
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/solveSudoku.js" timestamp="1589917458550">
         <mark key="'" line="42" column="4" />
-        <mark key="[" line="68" column="60" />
-        <mark key="]" line="68" column="75" />
-        <mark key="." line="68" column="74" />
-        <mark key="^" line="68" column="75" />
+        <mark key="[" line="65" column="28" />
+        <mark key="]" line="65" column="28" />
+        <mark key="." line="65" column="27" />
+        <mark key="^" line="65" column="28" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1589903131877">
         <mark key="[" line="2" column="40" />
@@ -184,6 +178,9 @@
         <mark key="." line="86" column="31" />
         <mark key="^" line="57" column="18" />
       </file>
+      <file name="/JavaScript Console" timestamp="1589917461045">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/dotstoobjects/test.js" timestamp="1589569364489">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="31" />
@@ -244,11 +241,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHRoaXMuc2V0TmV4dFByZXZpb3VzKCk=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy5ib2FyZC5sZW5ndGggLSAxICYmIHRoaXMuY3VycmVudENvbHVtbiA9PT0gdGhpcy5ib2FyZC5sZW5ndGggLSAx</text>
+        <text encoding="base64">IHRoaXMuc2V0TmV4dFByZXZpb3VzKCk=</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -257,31 +254,31 @@
         <text encoding="base64">ICAgIGZvciAobGV0IGkgPSAwOyBpIDwgdGhpcy5ib2FyZC5sZW5ndGg7IGkrKykgewogICAgICBjb25zdCBjZWxsID0gdGhpcy5ib2FyZFt0aGlzLmN1cnJlbnRSb3ddW2ldCiAgICAgIGlmIChjZWxsLnZhbHVlID09PSB2YWx1ZSkgewogICAgICAgIHJldHVybiB0cnVlCiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgcG9zc2libGVJbnQgPSAxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHRoaXMuY3VycmVudFJvdyA9PT0gMSkgewogICAgICAgIHJldHVybgogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuYm9hcmQsIHRoaXMuY3VycmVudFJvdywgdGhpcy5jdXJyZW50Q29sdW1uKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzCg==</text>
+        <text encoding="base64">ICBpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
+        <text encoding="base64">CiAgZmluZE5leHRJbnQoaW50LCBpdGVyYXRpb25zKSB7CiAgICBpdGVyYXRpb25zID0gaXRlcmF0aW9ucyB8fCAxCgogICAgaWYgKGl0ZXJhdGlvbnMgPiA5KSB7CiAgICAgIHJldHVybiAtMQogICAgfQoKICAgIGlmIChpbnQgPiA5KSB7CiAgICAgIGludCA9IDEKICAgIH0KCiAgICBpZiAodGhpcy5pc0luQW55KHt2YWx1ZTogaW50fSkpIHsKICAgICAgcmV0dXJuIHRoaXMuZmluZE5leHRJbnQoaW50ICsgMSwgaXRlcmF0aW9ucyArIDEpCiAgICB9CgogICAgcmV0dXJuIGludAogIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY3VycmVudFJvdywgdGhpcy5jdXJyZW50Q29sdW1uKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGN1cnJlbnQgPSB0aGlzLmdldEN1cnJlbnQoKQogICAgaWYgKHRoaXMuY3VycmVudFJvdyA9PT0gMikgewogICAgICAvLyBmdXR1cmUgYmFzZSBjYXNlCiAgICAgIGNvbnNvbGUubG9nKCc+PicsIHRoaXMuYm9hcmQsIHRoaXMuY3VycmVudFJvdywgdGhpcy5jdXJyZW50Q29sdW1uKQogICAgICByZXR1cm4KICAgIH0KCiAgICBpZiAoY3VycmVudC5nZW5lcmF0ZWQpIHsKICAgICAgdGhpcy5zZXROZXh0KCkKICAgICAgcmV0dXJuIHRoaXMuc2V0TmV4dEludCgpCiAgICB9CgogICAgY29uc3QgaW50ID0gdGhpcy5maW5kTmV4dEludChjdXJyZW50LnZhbHVlICsgMSB8fCAxKQoKICAgIGlmIChpbnQgPT09IC0xKSB7CiAgICAgIC8vIG5lZWQgdG8gYmFjayB0cmFjawogICAgICBpZiAodGhpcy5jdXJyZW50Um93IDwgMikgewogICAgICAgIGNvbnNvbGUubG9nKHRoaXMuY3VycmVudFJvdywgdGhpcy5jdXJyZW50Q29sdW1uLCBpbnQpCiAgICAgIH0KICAgICAgdGhpcy5zZXROZXh0UHJldmlvdXMoKQogICAgICByZXR1cm4gdGhpcy5zZXROZXh0SW50KCkKICAgIH0KCiAgICBjdXJyZW50LnZhbHVlID0gaW50CgogICAgdGhpcy5zZXROZXh0KCkKICAgIHRoaXMuc2V0TmV4dEludCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJyMjJywgdGhpcy5ib2FyZFswXSkK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXROZXh0UHJldmlvdXMoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy4pCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuYm9hcmQpCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHRoaXMuY3VycmVudFJvdyA9PT0gMSkgewogICAgICAgIHJldHVybgogICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;//gi</text>
