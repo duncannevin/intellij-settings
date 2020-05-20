@@ -95,11 +95,11 @@
         <mark key="." line="41" column="34" />
         <mark key="^" line="41" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/addtwonumbers/index.js" timestamp="1590008621643">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="18" column="39" />
-        <mark key="." line="18" column="38" />
-        <mark key="^" line="18" column="39" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/addtwonumbers/index.js" timestamp="1590011535152">
+        <mark key="[" line="15" column="39" />
+        <mark key="]" line="15" column="40" />
+        <mark key="." line="15" column="39" />
+        <mark key="^" line="15" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/solveSudoku.js" timestamp="1590007081258">
         <mark key="'" line="42" column="4" />
@@ -179,12 +179,12 @@
         <mark key="." line="25" column="26" />
         <mark key="^" line="25" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/addtwonumbers/test.js" timestamp="1590008408563">
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/addtwonumbers/test.js" timestamp="1590011282903">
         <mark key="'" line="19" column="32" />
-        <mark key="[" line="20" column="33" />
-        <mark key="]" line="21" column="37" />
-        <mark key="." line="21" column="36" />
-        <mark key="^" line="21" column="37" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="1" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/sudoku/javascript/board_builder.js" timestamp="1589934183474">
         <mark key="[" line="49" column="0" />
@@ -248,44 +248,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBsZXQgbGFzdE5vZGUgPSAK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>807</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IE91dHB1dDogNyAtPiAwIC0+IDgK</text>
+        <text encoding="base64">Ly8gWzEsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDFdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsZXQgbGFzdE5vZGUgPSAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpc3QpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICgpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHNvbHV0aW9uLgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhzdW0pCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdW0pCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgY29uc29sZS5sb2coTnVtYmVyKHJlZHVjZUxpc3QobDEpKSwgTnVtYmVyKHJlZHVjZUxpc3QobDIpKSkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnbDEnLCByZWR1Y2VMaXN0KGwxKSkKICBjb25zb2xlLmxvZygnbDInLCByZWR1Y2VMaXN0KGwyKSkKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICghbG4pIHJldHVybgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBsMU51bSA9IAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhsMSwgbDIpCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zdCBsMSA9IG1ha2VMaXN0KCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gSW5wdXQ6ICgyIC0+IDQgLT4gMykgKyAoNSAtPiA2IC0+IDQpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvZiBkYXRhKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;//gi</text>
