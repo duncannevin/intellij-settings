@@ -95,11 +95,11 @@
         <mark key="." line="41" column="34" />
         <mark key="^" line="41" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/addtwonumbers/index.js" timestamp="1590011535152">
-        <mark key="[" line="15" column="39" />
-        <mark key="]" line="15" column="40" />
-        <mark key="." line="15" column="39" />
-        <mark key="^" line="15" column="40" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/addtwonumbers/index.js" timestamp="1590012714281">
+        <mark key="[" line="28" column="11" />
+        <mark key="]" line="28" column="19" />
+        <mark key="." line="28" column="18" />
+        <mark key="^" line="28" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/solveSudoku.js" timestamp="1590007081258">
         <mark key="'" line="42" column="4" />
@@ -179,12 +179,11 @@
         <mark key="." line="25" column="26" />
         <mark key="^" line="25" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/addtwonumbers/test.js" timestamp="1590011282903">
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/addtwonumbers/test.js" timestamp="1590011748678">
         <mark key="'" line="19" column="32" />
         <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="1" />
+        <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/sudoku/javascript/board_builder.js" timestamp="1589934183474">
         <mark key="[" line="49" column="0" />
@@ -249,43 +248,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>puswi</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>puswi</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8gWzEsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDFdCg==</text>
+      <register name="0" type="4">
+        <text>'6640000000000000000000000000001'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpc3QpCg==</text>
+        <text encoding="base64">ICBsMS51bnNoaWZ0KDExMSkKICBjb25zb2xlLmxvZyhsMSkKICByZXR1cm4KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdW0pCg==</text>
+        <text encoding="base64">ICBjb25zdCBjdXJyZW50TmV4dCA9IGN1cnJlbnQubmV4dAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdW0pCg==</text>
+        <text encoding="base64">ICB0aGlzID0gJ3ExMjMnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
+        <text encoding="base64">ICBjb25zdCBuZXdOb2RlID0gbmV3IExpc3ROb2RlKHZhbHVlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnbDEnLCByZWR1Y2VMaXN0KGwxKSkKICBjb25zb2xlLmxvZygnbDInLCByZWR1Y2VMaXN0KGwyKSkKCg==</text>
+        <text encoding="base64">ICB0aGlzLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhsMSwgbDIpCg==</text>
+        <text encoding="base64">ICBjb25zdCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgY3VycmVudCA9IHRoaXMKICBjdXJyZW50ID0gbmV3IExpc3ROb2RlKHZhbHVlLCBjdXJyZW50KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBsMSA9IG1ha2VMaXN0KCkK</text>
+        <text encoding="base64">ICB0aGlzID0gbmV3IExpc3ROb2RlKHZhbHVlLCB0aGlzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvZiBkYXRhKQo=</text>
+        <text encoding="base64">ICByZXR1cm4gJ2JsYSBibGEnCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;//gi</text>
