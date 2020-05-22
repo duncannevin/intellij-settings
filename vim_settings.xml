@@ -170,11 +170,11 @@
         <mark key="]" line="115" column="16" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/longestsubstr/index.js" timestamp="1590165738259">
-        <mark key="[" line="3" column="1" />
-        <mark key="]" line="5" column="30" />
-        <mark key="^" line="5" column="30" />
-        <mark key="." line="5" column="29" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/longestsubstr/index.js" timestamp="1590167491867">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="25" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/sudoku/javascript/control.js" timestamp="1589937822045">
         <mark key="'" line="29" column="0" />
@@ -189,11 +189,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/longestsubstr/test.js" timestamp="1590165795316">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="3" column="45" />
-        <mark key="^" line="3" column="45" />
-        <mark key="." line="3" column="44" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/longestsubstr/test.js" timestamp="1590167502149">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="28" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -246,44 +246,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXR1cm4gc3VtTGlzdChsMSwgbDIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>sum</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>'6640000000000000000000000000001'</text>
+      <register name="0" type="2">
+        <text encoding="base64">dGVzdCgnIiAiIHNob3VsZCByZXR1cm4gIiAiJywgKCkgPT4gewogIGNvbnN0IHN0ciA9ICcgJwogIGV4cGVjdChsb25nZXN0U3ViU3RyKHN0cikpLnRvQmUoJyAnKQp9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gc3VtTGlzdChsMSwgbDIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgZnVuY3Rpb24gc3VtTGlzdChsbjEsIGxuMiwgc3VtID0gMCwgY2FycnkgPSAwKSB7CiAgICBpZiAoIWxuMSAmJiAhbG4yKSByZXR1cm4gc3VtICsgY2FycnkKICAgIAogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgZm9vID0gTWF0aC5taW4oMTAwLCA5KQo=</text>
+        <text encoding="base64">ICAgIGlmIChsb25nZXN0Lmxlbmd0aCA8PSBzY3JhdGNoLmxlbmd0aCkgewogICAgICBsb25nZXN0ID0gc2NyYXRjaAogICAgfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coMTAwICUgOSkK</text>
+        <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGV0IGZvbyA9IFt7dmFsdWU6IDF9LCB7dmFsdWU6IDJ9LCB7dmFsdWU6IDN9XQoKY29uc29sZS5sb2coZm9vLmZpbmQoKGIpID0+IGIudmFsdWUgPT09IDIpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbnRWYWwgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGwxVmFsdWUgPSBsbjEudmFsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxvbmdlc3QubGVuZ3RoLCBzY3JhdGNoLmxlbmd0aCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGN1cnJlbnRWYWx1ZSA9IGxuLnZhbAogICAgY29uc3QgbmV4dE5vZGUgPSBsbi5uZXh0Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxvbmdlc3QubGVuZ3RoLCBzY3JhdGNoLmxlbmd0aCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5ld1N1bSA9IAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;//gi</text>
