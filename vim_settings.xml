@@ -95,11 +95,10 @@
         <mark key="." line="41" column="34" />
         <mark key="^" line="41" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/addtwonumbers/index.js" timestamp="1590012749472">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="18" column="19" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/addtwonumbers/index.js" timestamp="1590165637349">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/solveSudoku.js" timestamp="1590007081258">
         <mark key="'" line="42" column="4" />
@@ -108,32 +107,11 @@
         <mark key="." line="140" column="24" />
         <mark key="^" line="140" column="25" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1589903131877">
-        <mark key="[" line="2" column="40" />
-        <mark key="]" line="2" column="40" />
-        <mark key="^" line="2" column="42" />
-        <mark key="." line="2" column="40" />
-      </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/test.js" timestamp="1590007051043">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="32" column="41" />
         <mark key="." line="150" column="0" />
         <mark key="^" line="41" column="45" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1590007417663">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/sudoku/javascript/SolveSudoku.js" timestamp="1590007087160">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="115" column="16" />
-        <mark key="." line="101" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/sudoku/javascript/control.js" timestamp="1589937822045">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="32" column="29" />
-        <mark key="]" line="32" column="29" />
-        <mark key="." line="32" column="28" />
-        <mark key="^" line="32" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/isPassingSudoku.js" timestamp="1589932989554">
         <mark key="[" line="3" column="0" />
@@ -158,32 +136,14 @@
         <mark key="." line="30" column="38" />
         <mark key="^" line="30" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/dotstoobjects/index.js" timestamp="1589569589995">
-        <mark key="[" line="2" column="52" />
-        <mark key="]" line="2" column="56" />
-        <mark key="." line="2" column="55" />
-        <mark key="^" line="2" column="56" />
-      </file>
       <file name="/JavaScript Console" timestamp="1589917461045">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/dotstoobjects/test.js" timestamp="1589569364489">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="31" />
-        <mark key="." line="9" column="30" />
-        <mark key="^" line="9" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/sudoku/javascript/Sudoku.js" timestamp="1589937636207">
         <mark key="[" line="25" column="27" />
         <mark key="]" line="25" column="27" />
         <mark key="." line="25" column="26" />
         <mark key="^" line="25" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/addtwonumbers/test.js" timestamp="1590011748678">
-        <mark key="'" line="19" column="32" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sudoku/javascript/board_builder.js" timestamp="1589934183474">
         <mark key="[" line="49" column="0" />
@@ -195,6 +155,45 @@
         <mark key="]" line="64" column="1" />
         <mark key="." line="58" column="0" />
         <mark key="^" line="57" column="48" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1590165126758">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+        <mark key="^" line="2" column="10" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1590007417663">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/sudoku/javascript/SolveSudoku.js" timestamp="1590007087160">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="115" column="16" />
+        <mark key="." line="101" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/longestsubstr/index.js" timestamp="1590165738259">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="5" column="30" />
+        <mark key="^" line="5" column="30" />
+        <mark key="." line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/sudoku/javascript/control.js" timestamp="1589937822045">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="32" column="29" />
+        <mark key="]" line="32" column="29" />
+        <mark key="." line="32" column="28" />
+        <mark key="^" line="32" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/addtwonumbers/test.js" timestamp="1590011748678">
+        <mark key="'" line="19" column="32" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/longestsubstr/test.js" timestamp="1590165795316">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="45" />
+        <mark key="^" line="3" column="45" />
+        <mark key="." line="3" column="44" />
       </file>
     </filemarks>
     <jumps>
@@ -248,10 +247,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">TGlzdE5vZGUucHJvdG90eXBlLnVuc2hpZnQgPSBmdW5jdGlvbih2YWx1ZSkgewogIGNvbnN0IGN1cnJlbnQgPSB0aGlzCiAgY29uc3QgbmV3Tm9kZSA9IG5ldyBMaXN0Tm9kZShjdXJyZW50LnZhbCwgY3VycmVudC5uZXh0KQogIGN1cnJlbnQudmFsID0gdmFsdWUKICBjdXJyZW50Lm5leHQgPSBuZXdOb2RlCn0KCg==</text>
+        <text encoding="base64">ICByZXR1cm4gc3VtTGlzdChsMSwgbDIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>puswi</text>
+        <text>sum</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -260,31 +259,31 @@
         <text>'6640000000000000000000000000001'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TGlzdE5vZGUucHJvdG90eXBlLnVuc2hpZnQgPSBmdW5jdGlvbih2YWx1ZSkgewogIGNvbnN0IGN1cnJlbnQgPSB0aGlzCiAgY29uc3QgbmV3Tm9kZSA9IG5ldyBMaXN0Tm9kZShjdXJyZW50LnZhbCwgY3VycmVudC5uZXh0KQogIGN1cnJlbnQudmFsID0gdmFsdWUKICBjdXJyZW50Lm5leHQgPSBuZXdOb2RlCn0KCg==</text>
+        <text encoding="base64">ICByZXR1cm4gc3VtTGlzdChsMSwgbDIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsMS51bnNoaWZ0KDExMSkKICBjb25zb2xlLmxvZyhsMSkKICByZXR1cm4KCg==</text>
+        <text encoding="base64">CiAgZnVuY3Rpb24gc3VtTGlzdChsbjEsIGxuMiwgc3VtID0gMCwgY2FycnkgPSAwKSB7CiAgICBpZiAoIWxuMSAmJiAhbG4yKSByZXR1cm4gc3VtICsgY2FycnkKICAgIAogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBjdXJyZW50TmV4dCA9IGN1cnJlbnQubmV4dAo=</text>
+        <text encoding="base64">Y29uc3QgZm9vID0gTWF0aC5taW4oMTAwLCA5KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0aGlzID0gJ3ExMjMnCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coMTAwICUgOSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBuZXdOb2RlID0gbmV3IExpc3ROb2RlKHZhbHVlKQo=</text>
+        <text encoding="base64">bGV0IGZvbyA9IFt7dmFsdWU6IDF9LCB7dmFsdWU6IDJ9LCB7dmFsdWU6IDN9XQoKY29uc29sZS5sb2coZm9vLmZpbmQoKGIpID0+IGIudmFsdWUgPT09IDIpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0aGlzLgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvbnRWYWwgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGwxVmFsdWUgPSBsbjEudmFsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZXQgY3VycmVudCA9IHRoaXMKICBjdXJyZW50ID0gbmV3IExpc3ROb2RlKHZhbHVlLCBjdXJyZW50KQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGN1cnJlbnRWYWx1ZSA9IGxuLnZhbAogICAgY29uc3QgbmV4dE5vZGUgPSBsbi5uZXh0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0aGlzID0gbmV3IExpc3ROb2RlKHZhbHVlLCB0aGlzKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG5ld1N1bSA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;//gi</text>
