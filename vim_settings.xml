@@ -136,19 +136,20 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1590184539599">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="19" column="1" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="5" column="23" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1590184770839">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="12" column="4" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1590180405678">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/debounce/index.js" timestamp="1590184545517">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="1" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/debounce/index.js" timestamp="1590185662887">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+        <mark key="^" line="4" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/sudoku/javascript/SolveSudoku.js" timestamp="1590007087160">
         <mark key="[" line="101" column="0" />
@@ -168,10 +169,11 @@
         <mark key="." line="32" column="28" />
         <mark key="^" line="32" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/debounce/test.js" timestamp="1590183513086">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="10" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/debounce/test.js" timestamp="1590185954111">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="25" />
+        <mark key="." line="18" column="24" />
+        <mark key="^" line="18" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/curry/test.js" timestamp="1590180590740">
         <mark key="[" line="6" column="45" />
@@ -248,44 +250,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZGVib3VuY2UoZm4sIHdhaXQpIHsKICByZXR1cm4gKC4uLmFyZ3MpID0+IHsKICAgIHNldFRpbWVvdXQoZm4uYmluZChudWxsLCAuLi5hcmdzKSwgd2FpdCkKICB9Cn0K</text>
+      <register name="&quot;" type="4">
+        <text>output</text>
       </register>
       <register name="-" type="4">
-        <text>wait</text>
+        <text>output</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZGVib3VuY2UoZm4sIHdhaXQpIHsKICByZXR1cm4gZnVuY3Rpb24gZGIoLi4uYXJncykgewogICAgY29uc3QgZGF0ZSA9IERhdGUubm93KCkKICAgIGxldCBjdXJyZW50RGF0ZSA9IG51bGwKCiAgICBkbyB7CiAgICAgIGN1cnJlbnREYXRlID0gRGF0ZS5ub3coKQogICAgfSB3aGlsZSAoY3VycmVudERhdGUgLSBkYXRlIDwgd2FpdCkKCiAgICByZXR1cm4gZm4oLi4uYXJncykKICB9Cn0K</text>
+        <text encoding="base64">ICBkZWJvdW5jZWQoJ2FiYycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZGVib3VuY2UoZm4sIHdhaXQpIHsKICByZXR1cm4gKC4uLmFyZ3MpID0+IHsKICAgIHNldFRpbWVvdXQoZm4uYmluZChudWxsLCAuLi5hcmdzKSwgd2FpdCkKICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgZGF0ZSA9IERhdGUubm93KCkKbGV0IGN1cnJlbnREYXRlID0gbnVsbAoKZG8gewogIGN1cnJlbnREYXRlID0gRGF0ZS5ub3coKQp9IHdoaWxlIChjdXJyZW50RGF0ZSAtIGRhdGUgPCAzMDIpCgpjb25zb2xlLmxvZygnKionLCBmb28pCgo=</text>
+        <text encoding="base64">ICAgIAogICAgY29uc3QgZGF0ZSA9IERhdGUubm93KCkKICAgIGxldCBjdXJyZW50RGF0ZSA9IG51bGwKCiAgICBkbyB7CiAgICAgIGN1cnJlbnREYXRlID0gRGF0ZS5ub3coKQogICAgfSB3aGlsZSAoY3VycmVudERhdGUgLSBkYXRlIDwgd2FpdCkKCiAgICByZXR1cm4gZm4oLi4uYXJncykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZG8gewogIAp9Cg==</text>
+        <text encoding="base64">ICBzZXRUaW1lb3V0KCgpID0+IHsKICAgIGV4cGVjdChjYWxsZWQpLnRvQmUoMTIzKQogICAgZG9uZSgpCiAgfSwgMzEwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsZXQgdGltZSA9IHdhaXQKCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZm9vKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoaXQnKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkb25lJykK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY3VycmVudERhdGUgLSBkYXRlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICghdGltZSkgewogICAgICB0aW1lID0gd2FpdAogICAgICByZXR1cm4gZm4oLi4uYXJncykKICAgIH0KICAgIHRpbWUtLQogICAgc2V0VGltZW91dChkYi5iaW5kKG51bGwsIC4uLmFyZ3MpLCAxKQo=</text>
+        <text encoding="base64">CmNvbnNvbGUubG9nKGZvbykKCnNldFRpbWVvdXQoKCkgPT4gewogIGNvbnNvbGUubG9nKCchIScsIGZvbykKfSwgMzAzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2V0VGltZW91dCgoKSA9PiB7CiAgY29uc29sZS5sb2coZm9vKQp9LCA0MDApCgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsZXQgcnVubmluZyA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICByZXR1cm4gZnVuY3Rpb24gZGIoLi4uYXJncykgewogICAgY29uc3QgZGF0ZSA9IERhdGUubm93KCkKICAgIGxldCBjdXJyZW50RGF0ZSA9IG51bGwKCiAgICBkbyB7CiAgICAgIGN1cnJlbnREYXRlID0gRGF0ZS5ub3coKQogICAgfSB3aGlsZSAoY3VycmVudERhdGUgLSBkYXRlIDwgd2FpdCkKCiAgICByZXR1cm4gZm4oLi4uYXJncykKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;//gi</text>
