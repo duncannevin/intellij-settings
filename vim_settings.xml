@@ -107,11 +107,11 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/test.js" timestamp="1590007051043">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="32" column="41" />
-        <mark key="." line="150" column="0" />
-        <mark key="^" line="41" column="45" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/test.js" timestamp="1590233170642">
+        <mark key="[" line="149" column="3" />
+        <mark key="]" line="159" column="15" />
+        <mark key="." line="159" column="14" />
+        <mark key="^" line="159" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/sudoku/styles/author_styles.css" timestamp="1589934345750">
         <mark key="[" line="9" column="0" />
@@ -251,7 +251,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBmb28gPSBbCiAgICBbIi4iLCIuIiwiOSIsIjciLCI0IiwiOCIsIi4iLCIuIiwiLiJdLAogICAgWyI3IiwiLiIsIi4iLCIuIiwiLiIsIi4iLCIuIiwiLiIsIi4iXSwKICAgIFsiLiIsIjIiLCIuIiwiMSIsIi4iLCI5IiwiLiIsIi4iLCIuIl0sCiAgICBbIi4iLCIuIiwiNyIsIi4iLCIuIiwiLiIsIjIiLCI0IiwiLiJdLAogICAgWyIuIiwiNiIsIjQiLCIuIiwiMSIsIi4iLCI1IiwiOSIsIi4iXSwKICAgIFsiLiIsIjkiLCI4IiwiLiIsIi4iLCIuIiwiMyIsIi4iLCIuIl0sCiAgICBbIi4iLCIuIiwiLiIsIjgiLCIuIiwiMyIsIi4iLCIyIiwiLiJdLAogICAgWyIuIiwiLiIsIi4iLCIuIiwiLiIsIi4iLCIuIiwiLiIsIjYiXSwKICAgIFsiLiIsIi4iLCIuIiwiMiIsIjciLCI1IiwiOSIsIi4iLCIuIl0KICBdCg==</text>
       </register>
       <register name="-" type="4">
         <text>output</text>
@@ -260,7 +260,7 @@
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWJvdW5jZWQoJ2FiYycpCg==</text>
+        <text encoding="base64">ICBjb25zdCBmb28gPSBbCiAgICBbIi4iLCIuIiwiOSIsIjciLCI0IiwiOCIsIi4iLCIuIiwiLiJdLAogICAgWyI3IiwiLiIsIi4iLCIuIiwiLiIsIi4iLCIuIiwiLiIsIi4iXSwKICAgIFsiLiIsIjIiLCIuIiwiMSIsIi4iLCI5IiwiLiIsIi4iLCIuIl0sCiAgICBbIi4iLCIuIiwiNyIsIi4iLCIuIiwiLiIsIjIiLCI0IiwiLiJdLAogICAgWyIuIiwiNiIsIjQiLCIuIiwiMSIsIi4iLCI1IiwiOSIsIi4iXSwKICAgIFsiLiIsIjkiLCI4IiwiLiIsIi4iLCIuIiwiMyIsIi4iLCIuIl0sCiAgICBbIi4iLCIuIiwiLiIsIjgiLCIuIiwiMyIsIi4iLCIyIiwiLiJdLAogICAgWyIuIiwiLiIsIi4iLCIuIiwiLiIsIi4iLCIuIiwiLiIsIjYiXSwKICAgIFsiLiIsIi4iLCIuIiwiMiIsIjciLCI1IiwiOSIsIi4iLCIuIl0KICBdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
