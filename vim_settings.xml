@@ -131,10 +131,11 @@
         <mark key="]" line="124" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/longestsubstr/index.js" timestamp="1590417920310">
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/longestsubstr/index.js" timestamp="1590419409429">
         <mark key="[" line="16" column="29" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+        <mark key="]" line="17" column="2" />
+        <mark key="." line="17" column="1" />
+        <mark key="^" line="17" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/sudoku/javascript/control.js" timestamp="1590258845997">
         <mark key="'" line="35" column="0" />
