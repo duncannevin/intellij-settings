@@ -143,17 +143,17 @@
         <mark key="]" line="22" column="1" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/fib/fibsTo.js" timestamp="1590505880924">
-        <mark key="[" line="5" column="30" />
-        <mark key="]" line="6" column="22" />
-        <mark key="." line="6" column="21" />
-        <mark key="^" line="6" column="22" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/fib/fibsTo.js" timestamp="1590508511505">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/palindrome/index.js" timestamp="1590506072620">
-        <mark key="[" line="15" column="1" />
-        <mark key="]" line="15" column="1" />
-        <mark key="." line="10" column="39" />
-        <mark key="^" line="10" column="40" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/palindrome/index.js" timestamp="1590507140293">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="21" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/movezerostoend/index.js" timestamp="1590414951617">
         <mark key="[" line="1" column="28" />
@@ -184,11 +184,11 @@
         <mark key="." line="26" column="47" />
         <mark key="^" line="26" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/fib/test.js" timestamp="1590505840105">
-        <mark key="[" line="29" column="42" />
-        <mark key="]" line="29" column="41" />
-        <mark key="^" line="29" column="41" />
-        <mark key="." line="29" column="40" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/fib/test.js" timestamp="1590507516791">
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="28" column="15" />
+        <mark key="^" line="30" column="41" />
+        <mark key="." line="28" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/movezerostoend/test.js" timestamp="1590354271448">
         <mark key="[" line="9" column="0" />
@@ -247,10 +247,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">U3RyaW5nLnByb3RvdHlwZS5yZXZlcnNlID0gZnVuY3Rpb24oKSB7CiAgcmV0dXJuIHRoaXMuc3BsaXQoJycpLnJldmVyc2UoKS5qb2luKCcnKQp9CgpmdW5jdGlvbiBwYWxpbmRyb21lKHN0cikgewogIHJldHVybiBzdHIucmV2ZXJzZSgpID09PSBzdHIKfQo=</text>
+        <text encoding="base64">ICBjb25zdCB2b3dlbHMgPSBbJ2EnLCAnZScsICdpJywgJ28nLCAndSddCg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IHZvd2Vscy5pbmNsdWRlcyhjaGFyLnRvTG93ZXJDYXNlKCkp</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -259,31 +259,31 @@
         <text encoding="base64">U3RyaW5nLnByb3RvdHlwZS5yZXZlcnNlID0gZnVuY3Rpb24oKSB7CiAgcmV0dXJuIHRoaXMuc3BsaXQoJycpLnJldmVyc2UoKS5qb2luKCcnKQp9CgpmdW5jdGlvbiBwYWxpbmRyb21lKHN0cikgewogIHJldHVybiBzdHIucmV2ZXJzZSgpID09PSBzdHIKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmb3IgKGxldCBjaGFyIG9mIHN0cikgewogICAgCiAgfQo=</text>
+        <text encoding="base64">ICBjb25zdCB2b3dlbHMgPSBbJ2EnLCAnZScsICdpJywgJ28nLCAndSddCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygneScubWF0Y2goL1thLXh6XS8pKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFzc2NpID0gY2hhci5jaGFyQ29kZUF0KDApCgogICAgaWYgKHZvd2Vscy5pbmNsdWRlcyhjaGFyLnRvTG93ZXJDYXNlKCkpKSB7CiAgICAgIHN1bSArPSAtTWF0aC5hYnMoYXNzY2kpCiAgICB9IGVsc2UgewogICAgICBzdW0gKz0gYXNzY2kKICAgIH0K</text>
+        <text encoding="base64">ICBjb25zdCBjb25zdGFuYW50cyA9IFsnQicsICdDJywgJ0QnLCAnRicsICdHJywgJ0gnLCAnSicsICdLJywgJ0wnLCAnTScsICdOJywgJ1AnLCAnUScsICdSJywgJ1MnLCAnVCcsICdWJywgJ1gnLCAnWiddCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYXIsIGFzc2NpKQoKICAgIC8vIGlmIChjaGFyLnRvTG93ZXJDYXNlKCkgPT09IGNoYXIpIHsKICAgIC8vICAgc3VtICs9IC1NYXRoLmFicyhhc3NjaSkKICAgIC8vIH0gZWxzZSB7CiAgICAgIHN1bSArPSBhc3NjaQogICAgLy8gfQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2hhcikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhc3NjaSkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYXIubWF0Y2goL1thLXpdLykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFzc2NpKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2hhcikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBsZXR0ZXJzID0gc3RyLnNwbGl0KCcnKQo=</text>
+        <text encoding="base64">CmNvbnNvbGUubG9nKHN1bU51bWVyaWNQYWxpbmRyb21lcygxMDAwMCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBmb3IgKGxldCBjaGFyIG9mIHN0cikgewogICAgCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;//gi</text>
