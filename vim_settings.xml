@@ -114,12 +114,6 @@
       <file name="/GraphQL.result.json" timestamp="1590502576050">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/debounce/index.js" timestamp="1590186215667">
-        <mark key="[" line="5" column="56" />
-        <mark key="]" line="5" column="62" />
-        <mark key="." line="5" column="61" />
-        <mark key="^" line="5" column="62" />
-      </file>
       <file name="$USER_HOME$/Documents/sudoku/javascript/SolveSudoku.js" timestamp="1590235284363">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="124" column="1" />
@@ -144,20 +138,22 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/fib/index.js" timestamp="1590502918219">
-        <mark key="[" line="40" column="1" />
-        <mark key="]" line="40" column="1" />
-        <mark key="^" line="40" column="1" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/fib/index.js" timestamp="1590503443839">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="22" column="1" />
+        <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/debounce/test.js" timestamp="1590186242990">
-        <mark key="[" line="35" column="8" />
-        <mark key="]" line="35" column="8" />
-        <mark key="." line="35" column="7" />
-        <mark key="^" line="35" column="8" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/fib/fibsTo.js" timestamp="1590505880924">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/fib/fibsTo.js" timestamp="1590502932697">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/palindrome/index.js" timestamp="1590506072620">
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="15" column="1" />
+        <mark key="." line="10" column="39" />
+        <mark key="^" line="10" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/movezerostoend/index.js" timestamp="1590414951617">
         <mark key="[" line="1" column="28" />
@@ -187,6 +183,12 @@
         <mark key="]" line="26" column="48" />
         <mark key="." line="26" column="47" />
         <mark key="^" line="26" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/fib/test.js" timestamp="1590505840105">
+        <mark key="[" line="29" column="42" />
+        <mark key="]" line="29" column="41" />
+        <mark key="^" line="29" column="41" />
+        <mark key="." line="29" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/movezerostoend/test.js" timestamp="1590354271448">
         <mark key="[" line="9" column="0" />
@@ -245,43 +247,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhnYXRoZXJVbmlxdWVDb21ib3Moc3RyKSkKCiAgZnVuY3Rpb24gZ2F0aGVyVW5pcXVlQ29tYm9zKHN0cmluZywgdW5pcXVlcykgewogICAgdW5pcXVlcyA9IHVuaXF1ZXMgfHwgW10KCiAgICBpZiAoc3RyaW5nLmxlbmd0aCA8IDEpIHJldHVybiBzdHJpbmcKCiAgICBmb3IgKGxldCBpID0gMDsgaSA8IHN0cmluZy5sZW5ndGg7IGkrKykgewogICAgICBjb25zdCBzbGljZWQgPSBzdHJpbmcuc2xpY2UoaSkKICAgICAgdW5pcXVlcy5wdXNoKHNsaWNlZCkKICAgICAgZ2F0aGVyVW5pcXVlQ29tYm9zKHNsaWNlZC5zbGljZSgxKSwgdW5pcXVlcykKICAgIH0KCiAgICByZXR1cm4gdW5pcXVlcwogIH0KCiAgZnVuY3Rpb24gYXJlVW5pcXVlKHN0cmluZykgewogICAgY29uc3QgbGV0dGVycyA9IHt9CgogICAgZm9yIChsZXQgY2hhciBvZiBzdHJpbmcpIHsKICAgICAgbGV0dGVyc1tjaGFyXSArPSAxIHx8IDEKICAgIH0KCiAgICBmb3IgKGxldCBsZXR0ZXIgaW4gbGV0dGVycykgewogICAgICBpZiAobGV0dGVyc1tsZXR0ZXJdID4gMSkgewogICAgICAgIHJldHVybiBmYWxzZQogICAgICB9CiAgICB9CgogICAgcmV0dXJuIHRydWUKICB9Cg==</text>
+        <text encoding="base64">U3RyaW5nLnByb3RvdHlwZS5yZXZlcnNlID0gZnVuY3Rpb24oKSB7CiAgcmV0dXJuIHRoaXMuc3BsaXQoJycpLnJldmVyc2UoKS5qb2luKCcnKQp9CgpmdW5jdGlvbiBwYWxpbmRyb21lKHN0cikgewogIHJldHVybiBzdHIucmV2ZXJzZSgpID09PSBzdHIKfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>[].concat(sliced)</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobG9uZ2VzdCkK</text>
+        <text encoding="base64">U3RyaW5nLnByb3RvdHlwZS5yZXZlcnNlID0gZnVuY3Rpb24oKSB7CiAgcmV0dXJuIHRoaXMuc3BsaXQoJycpLnJldmVyc2UoKS5qb2luKCcnKQp9CgpmdW5jdGlvbiBwYWxpbmRyb21lKHN0cikgewogIHJldHVybiBzdHIucmV2ZXJzZSgpID09PSBzdHIKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhnYXRoZXJVbmlxdWVDb21ib3Moc3RyKSkKCiAgZnVuY3Rpb24gZ2F0aGVyVW5pcXVlQ29tYm9zKHN0cmluZywgdW5pcXVlcykgewogICAgdW5pcXVlcyA9IHVuaXF1ZXMgfHwgW10KCiAgICBpZiAoc3RyaW5nLmxlbmd0aCA8IDEpIHJldHVybiBzdHJpbmcKCiAgICBmb3IgKGxldCBpID0gMDsgaSA8IHN0cmluZy5sZW5ndGg7IGkrKykgewogICAgICBjb25zdCBzbGljZWQgPSBzdHJpbmcuc2xpY2UoaSkKICAgICAgdW5pcXVlcy5wdXNoKHNsaWNlZCkKICAgICAgZ2F0aGVyVW5pcXVlQ29tYm9zKHNsaWNlZC5zbGljZSgxKSwgdW5pcXVlcykKICAgIH0KCiAgICByZXR1cm4gdW5pcXVlcwogIH0KCiAgZnVuY3Rpb24gYXJlVW5pcXVlKHN0cmluZykgewogICAgY29uc3QgbGV0dGVycyA9IHt9CgogICAgZm9yIChsZXQgY2hhciBvZiBzdHJpbmcpIHsKICAgICAgbGV0dGVyc1tjaGFyXSArPSAxIHx8IDEKICAgIH0KCiAgICBmb3IgKGxldCBsZXR0ZXIgaW4gbGV0dGVycykgewogICAgICBpZiAobGV0dGVyc1tsZXR0ZXJdID4gMSkgewogICAgICAgIHJldHVybiBmYWxzZQogICAgICB9CiAgICB9CgogICAgcmV0dXJuIHRydWUKICB9Cg==</text>
+        <text encoding="base64">ICBmb3IgKGxldCBjaGFyIG9mIHN0cikgewogICAgCiAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2xpY2VkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFzc2NpID0gY2hhci5jaGFyQ29kZUF0KDApCgogICAgaWYgKHZvd2Vscy5pbmNsdWRlcyhjaGFyLnRvTG93ZXJDYXNlKCkpKSB7CiAgICAgIHN1bSArPSAtTWF0aC5hYnMoYXNzY2kpCiAgICB9IGVsc2UgewogICAgICBzdW0gKz0gYXNzY2kKICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Zm9yIChsZXQgaiA9IDA7IGogPCBzbGljZWQubGVuZ3RoOyBqKyspIHsKICAgICAgICBbXS5jb25jYXQo</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYXIsIGFzc2NpKQoKICAgIC8vIGlmIChjaGFyLnRvTG93ZXJDYXNlKCkgPT09IGNoYXIpIHsKICAgIC8vICAgc3VtICs9IC1NYXRoLmFicyhhc3NjaSkKICAgIC8vIH0gZWxzZSB7CiAgICAgIHN1bSArPSBhc3NjaQogICAgLy8gfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICByZXR1cm4gdW5pcXVlcwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhc3NjaSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCB1bmlxdWVzID0gW10KCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFzc2NpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVuaXF1ZXMucHVzaChzdHJpbmcpCg==</text>
+        <text encoding="base64">ICBjb25zdCBsZXR0ZXJzID0gc3RyLnNwbGl0KCcnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVuaXF1ZXMgPSB1bmlxdWVzIHx8IFtdCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBsZXQgdW5pcXVlcyA9IFtdCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;//gi</text>
