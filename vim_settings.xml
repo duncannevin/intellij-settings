@@ -18,6 +18,7 @@
         <entry encoding="base64">XDwnXD4=</entry>
         <entry>/&quot;//gi</entry>
         <entry>&quot;</entry>
+        <entry>/&quot;/'/g</entry>
       </history-search>
       <history-cmd>
         <entry>%/MYSQL/DB/g</entry>
@@ -33,6 +34,9 @@
         <entry>s/&quot;//g</entry>
         <entry>s/&quot;//gi</entry>
         <entry>%s/&quot;//gi</entry>
+        <entry>s/&quot;/'/g</entry>
+        <entry>%/&quot;/'/gi</entry>
+        <entry>s%/&quot;/'/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -95,41 +99,6 @@
         <mark key="." line="0" column="156" />
         <mark key="^" line="0" column="116" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/test.js" timestamp="1590257500254">
-        <mark key="[" line="176" column="45" />
-        <mark key="]" line="176" column="44" />
-        <mark key="." line="176" column="43" />
-        <mark key="^" line="176" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/sudoku/javascript/solveSudoku.js" timestamp="1590258606608">
-        <mark key="[" line="7" column="64" />
-        <mark key="]" line="8" column="12" />
-        <mark key="." line="8" column="11" />
-        <mark key="^" line="8" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/fib/index.js" timestamp="1590503443839">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="22" column="1" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/fib/fibsTo.js" timestamp="1590508511505">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="7" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/sudoku/javascript/Sudoku.js" timestamp="1590258899813">
-        <mark key="[" line="25" column="26" />
-        <mark key="]" line="25" column="26" />
-        <mark key="." line="25" column="26" />
-        <mark key="^" line="25" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/fib/test.js" timestamp="1590507516791">
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="28" column="15" />
-        <mark key="^" line="30" column="41" />
-        <mark key="." line="28" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/pragmatic_offers/Jenkinsfile" timestamp="1590512261487">
         <mark key="[" line="0" column="58" />
         <mark key="]" line="0" column="79" />
@@ -139,7 +108,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1590512190228">
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/sudoku/test.js" timestamp="1590257500254">
+        <mark key="[" line="176" column="45" />
+        <mark key="]" line="176" column="44" />
+        <mark key="." line="176" column="43" />
+        <mark key="^" line="176" column="44" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1590587637553">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/duncannevin/README.md" timestamp="1590512200341">
@@ -159,11 +134,29 @@
         <mark key="." line="6" column="2" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/palindrome/index.js" timestamp="1590507140293">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="21" column="47" />
+      <file name="$USER_HOME$/Documents/sudoku/javascript/solveSudoku.js" timestamp="1590258606608">
+        <mark key="[" line="7" column="64" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/fib/index.js" timestamp="1590503443839">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="22" column="1" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/fib/fibsTo.js" timestamp="1590589338653">
+        <mark key="'" line="71" column="3" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="72" column="3" />
+        <mark key="." line="1" column="36" />
+        <mark key="^" line="1" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/palindrome/index.js" timestamp="1590589440801">
+        <mark key="[" line="31" column="41" />
+        <mark key="]" line="31" column="51" />
+        <mark key="." line="31" column="50" />
+        <mark key="^" line="31" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/movezerostoend/index.js" timestamp="1590414951617">
         <mark key="[" line="1" column="28" />
@@ -171,11 +164,23 @@
         <mark key="." line="2" column="1" />
         <mark key="^" line="2" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/sudoku/javascript/Sudoku.js" timestamp="1590258899813">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="26" />
+        <mark key="." line="25" column="26" />
+        <mark key="^" line="25" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/longestsubstr/test.js" timestamp="1590420514125">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="26" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoCasts/exercises/fib/test.js" timestamp="1590589261426">
+        <mark key="[" line="30" column="36" />
+        <mark key="]" line="30" column="41" />
+        <mark key="^" line="30" column="41" />
+        <mark key="." line="30" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoCasts/exercises/throttle/index.js" timestamp="1590237964247">
         <mark key="[" line="0" column="0" />
@@ -240,61 +245,62 @@
       <jump line="11" column="0" filename="$USER_HOME$/Documents/sudoku/javascript/control.js" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/sudoku/javascript/control.js" />
       <jump line="19" column="32" filename="$USER_HOME$/Documents/AlgoCasts/exercises/addtwonumbers/test.js" />
+      <jump line="71" column="3" filename="$USER_HOME$/Documents/AlgoCasts/exercises/fib/fibsTo.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>duncannevin</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyA1NDUwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>duncannevin</text>
+        <text>str</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>/&quot;/'/g</text>
       </register>
-      <register name="0" type="4">
-        <text>pragmatic-offers-build</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25zdCBudW1zID0gW10KCiAgZm9yIChsZXQgaSA9IDE7IGkgPD0gMjY2MDsgaSsrKSB7CiAgICBudW1zLnB1c2gocm9tYW5pemUoaSkpCiAgfQoKICByZXR1cm4gbnVtcy5yZWR1Y2UoKHhDb3VudCwgcm9tYW4pID0+IHsKICAgIGxldCByb21hblhBbW91bnQgPSAwCgogICAgZm9yIChsZXQgY2hhciBvZiByb21hbikgewogICAgICBpZiAoY2hhciA9PT0gJ1gnKSB7CiAgICAgICAgcm9tYW5YQW1vdW50KysKICAgICAgfQogICAgfQoKICAgIHJldHVybiB4Q291bnQgKyByb21hblhBbW91bnQKICB9LCAwKQoKICBmdW5jdGlvbiByb21hbml6ZSAobnVtKSB7CiAgICBpZiAoaXNOYU4obnVtKSkgewogICAgICByZXR1cm4gTmFOCiAgICB9CgogICAgbGV0IGRpZ2l0cyA9IFN0cmluZygrbnVtKS5zcGxpdCgiIikKICAgIGNvbnN0IGtleSA9IFsiIiwiQyIsIkNDIiwiQ0NDIiwiQ0QiLCJEIiwiREMiLCJEQ0MiLCJEQ0NDIiwiQ00iLAogICAgICAgICIiLCJYIiwiWFgiLCJYWFgiLCJYTCIsIkwiLCJMWCIsIkxYWCIsIkxYWFgiLCJYQyIsCiAgICAgICAgIiIsIkkiLCJJSSIsIklJSSIsIklWIiwiViIsIlZJIiwiVklJIiwiVklJSSIsIklYIl0KICAgIGxldCByb21hbiA9ICIiCiAgICBsZXQgaSA9IDMKCiAgICB3aGlsZSAoaS0tKSB7CiAgICAgIHJvbWFuID0gKGtleVsrZGlnaXRzLnBvcCgpICsgKGkgKiAxMCldIHx8ICIiKSArIHJvbWFuCiAgICB9CgogICAgcmV0dXJuIEFycmF5KCtkaWdpdHMuam9pbignJykgKyAxKS5qb2luKCdNJykgKyByb21hbgogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyA1NDUwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCB2b3dlbHMgPSBbJ2EnLCAnZScsICdpJywgJ28nLCAndSddCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXNQYWxpbmRyb21lLCBpLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygneScubWF0Y2goL1thLXh6XS8pKQoK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjaGFyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBjb25zdGFuYW50cyA9IFsnQicsICdDJywgJ0QnLCAnRicsICdHJywgJ0gnLCAnSicsICdLJywgJ0wnLCAnTScsICdOJywgJ1AnLCAnUScsICdSJywgJ1MnLCAnVCcsICdWJywgJ1gnLCAnWiddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2hhcikK</text>
+        <text encoding="base64">ICAgICAgcm9tYW4gPSAoa2V5WytkaWdpdHMucG9wKCkgKyAoaSAqIDEwKV0gfHwgIiIpICsgcm9tYW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYXIubWF0Y2goL1thLXpdLykpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmaWJzLCBvZGRGaWJzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2hhcikK</text>
+        <text encoding="base64">CiAgcmV0dXJuIGZpYnMKICAgIC5maWx0ZXIoZiA9PiBmICUgMiAhPT0gMCkKICAgIC5yZWR1Y2UoKHN1bSwgZmliKSA9PiB7CiAgICAgIHN1bSArPSBmaWIKICAgICAgcmV0dXJuIHN1bQogICAgfSwgMCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNvbnNvbGUubG9nKHN1bU51bWVyaWNQYWxpbmRyb21lcygxMDAwMCkpCg==</text>
+        <text encoding="base64">CiAgcmV0dXJuIGZpYnMKICAgIC5maWx0ZXIoZiA9PiBmICUgMiAhPT0gMCkKICAgIC5yZWR1Y2UoKHN1bSwgZmliKSA9PiB7CiAgICAgIHN1bSArPSBmaWIKICAgICAgcmV0dXJuIHN1bQogICAgfSwgMCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGkpCg==</text>
+        <text encoding="base64">ICAgIGZpYnMuc3BsaWNlKDAsIGZpYnMubGVuZ3RoIC0gMykK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/&quot;//gi</text>
+        <text>s%/&quot;/'/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>/&quot;/'/g</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>/&quot;/'/g</last-pattern>
       <last-replace />
-      <last-substitute>&quot;</last-substitute>
+      <last-substitute>/&quot;/'/g</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
