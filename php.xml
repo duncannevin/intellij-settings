@@ -5,4 +5,14 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
   </component>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter id="fcf3c951-7135-44b3-af2d-5f5b1ec8f2f7" name="Ubuntu" home="wsl://DATA" debugger_id="php.debugger.XDebug">
+        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DISTRIBUTION_ID="UBUNTU1804" />
+      </interpreter>
+      <interpreter id="abba394b-442f-41fb-bffb-d76c08df6790" name="Ubuntu 18.04" home="wsl://DATA" debugger_id="php.debugger.XDebug">
+        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DISTRIBUTION_ID="UBUNTU1804" />
+      </interpreter>
+    </interpreters>
+  </component>
 </application>
