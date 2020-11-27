@@ -19,6 +19,7 @@
     <mask>*.php</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
+    <mask>SpeakersPreviewModule.scss</mask>
     <mask>*</mask>
   </component>
 </application>
