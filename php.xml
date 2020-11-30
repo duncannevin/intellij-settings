@@ -2,7 +2,7 @@
   <component name="PhpDebugGeneral" xdebug_resolve_breakpoints="false" />
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="7de7f668-cb95-4acd-a975-f8977cc3fd0e" name="PHP" home="/Applications/MAMP/bin/php/php7.4.9/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="09dc7de3-8175-4156-9967-32876b1275a3" name="PHP" home="/Applications/MAMP/bin/php/php7.4.9/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
