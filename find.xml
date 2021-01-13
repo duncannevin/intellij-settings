@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.xml</mask>
     <mask>*.htm</mask>
     <mask>*.shtml</mask>
@@ -17,9 +17,9 @@
     <mask>*.ts</mask>
     <mask>SpeakersPreviewModule.scss</mask>
     <mask>*.scss</mask>
-    <mask>*.php</mask>
     <mask>*</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
