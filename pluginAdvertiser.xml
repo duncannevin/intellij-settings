@@ -2014,6 +2014,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.makefile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intuit.intellij.makefile" />
+              <option name="myPluginName" value="DockDockBuild" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.mako">
           <value>
             <plugin>
@@ -2109,6 +2117,14 @@
               <option name="myPluginId" value="JavaScript" />
               <option name="myPluginName" value="JavaScript and TypeScript" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mk">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intuit.intellij.makefile" />
+              <option name="myPluginName" value="DockDockBuild" />
             </plugin>
           </value>
         </entry>
@@ -4238,6 +4254,14 @@
               <option name="myPluginId" value="Lombook Plugin" />
               <option name="myPluginName" value="Lombok" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="makefile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intuit.intellij.makefile" />
+              <option name="myPluginName" value="DockDockBuild" />
             </plugin>
           </value>
         </entry>
