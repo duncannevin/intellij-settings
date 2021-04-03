@@ -2132,8 +2132,8 @@
         <entry key="*.mk">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intuit.intellij.makefile" />
-              <option name="myPluginName" value="DockDockBuild" />
+              <option name="myPluginId" value="name.kropp.intellij.makefile" />
+              <option name="myPluginName" value="Makefile support" />
             </plugin>
           </value>
         </entry>
@@ -4177,6 +4177,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="GNUmakefile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="name.kropp.intellij.makefile" />
+              <option name="myPluginName" value="Makefile support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="Gopkg.lock">
           <value>
             <plugin>
@@ -4276,8 +4284,8 @@
         <entry key="makefile">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intuit.intellij.makefile" />
-              <option name="myPluginName" value="DockDockBuild" />
+              <option name="myPluginId" value="name.kropp.intellij.makefile" />
+              <option name="myPluginName" value="Makefile support" />
             </plugin>
           </value>
         </entry>
@@ -4484,6 +4492,11 @@
                   <entry key="BSP_TEST_RUN_CONFIGURATION">
                     <value>
                       <FeaturePluginData displayName="BSP test" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
+                  <entry key="CargoCommandRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Cargo" pluginName="Rust" pluginId="org.rust.lang" />
                     </value>
                   </entry>
                   <entry key="ChromiumRemoteDebugType">
@@ -4824,6 +4837,11 @@
                   <entry key="UtPlSqlConfigurationType">
                     <value>
                       <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                    </value>
+                  </entry>
+                  <entry key="WasmPackCommandRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="wasm-pack" pluginName="Rust" pluginId="org.rust.lang" />
                     </value>
                   </entry>
                   <entry key="WebLogic Instance">
