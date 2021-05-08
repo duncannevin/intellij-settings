@@ -233,6 +233,22 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.beam">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.elixir_lang" />
+              <option name="myPluginName" value="Elixir" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.beam.asm">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.elixir_lang" />
+              <option name="myPluginName" value="Elixir" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.bigtiff">
           <value>
             <plugin>
@@ -867,6 +883,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.eex">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.elixir_lang" />
+              <option name="myPluginName" value="Elixir" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.egg">
           <value>
             <plugin>
@@ -1015,6 +1039,22 @@
             <plugin>
               <option name="myPluginId" value="com.illuminatedcloud2.intellij" />
               <option name="myPluginName" value="Illuminated Cloud 2" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ex">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.elixir_lang" />
+              <option name="myPluginName" value="Elixir" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.exs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.elixir_lang" />
+              <option name="myPluginName" value="Elixir" />
             </plugin>
           </value>
         </entry>
@@ -1913,6 +1953,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.leex">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.elixir_lang" />
+              <option name="myPluginName" value="Elixir" />
             </plugin>
           </value>
         </entry>
