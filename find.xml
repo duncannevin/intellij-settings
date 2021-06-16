@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.xml</mask>
     <mask>*.htm</mask>
     <mask>*.shtml</mask>
@@ -14,12 +14,12 @@
     <mask>*.cjs</mask>
     <mask>*-spec.js</mask>
     <mask>*.html</mask>
-    <mask>*.ts</mask>
     <mask>SpeakersPreviewModule.scss</mask>
     <mask>*.css</mask>
     <mask>*.php</mask>
     <mask>*</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
